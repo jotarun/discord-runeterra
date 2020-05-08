@@ -12,8 +12,13 @@ class DeckDecoder {
     let heroes = {};
     let minions = {};
     let spells = {};
-    
+    try {
+
     deck = DeckEncoder.decode(deckcode);
+  }
+  catch(err) {
+    return{};
+  }
     deck.forEach((o, i, a) => {
       let set = a[i].set;
       let index = cardSets[set].findIndex(obj => obj.cardCode == a[i].code);

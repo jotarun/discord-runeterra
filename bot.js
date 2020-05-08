@@ -62,6 +62,7 @@ client.on('message', message => {
             if (result.spells.length>0)
             deckEmbed.addField(`法術`, spellsstring, true);
             regionscount.forEach(function (v, i) {
+                if (v>0)
                 summary += `${regionEmoji[i]}:${v}`;
             });
             deckEmbed.setDescription(summary);

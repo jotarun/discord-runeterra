@@ -24,7 +24,12 @@ client.on('message', message => {
     if (!parsed.success) return;
 
     if (parsed.command == "用法") {
-        message.channel.send('用法');
+        const cardEmbed = new Discord.MessageEmbed()
+        .setColor('#0099ff')
+        .setTitle('機器人指令一覽')
+        .addField('!查詢 卡片名稱 可只輸入部分名稱','例如: !查詢 逆命')
+        .addField('!牌組 牌組代碼','例如: !牌組 CEBQEAQDAMCAIAIECETTINQGAEBQEDAUDYSSQAIBAEBQ6AQBAECACAIBAMXQ')
+        message.channel.send(cardEmbed);
     }
     else if (parsed.command === "查詢") {
         cardname = parsed.arguments[0];
@@ -34,7 +39,7 @@ client.on('message', message => {
         }
         else if (cards.length > 5){
             let resultstring = ""
-            resultstring += `符合的結果太多，有:${cards.length}張卡片:\n`;
+            resultstring += `符合結果的卡片太多，共有${cards.length}張:\n`;
             cards.forEach(card => {
                 resultstring += `[${card.name}]`;
             });
@@ -44,7 +49,6 @@ client.on('message', message => {
         }
         else {
             cards.forEach(card => {
-                console.log(card.cardCode);
                 const cardEmbed = new Discord.MessageEmbed()
                 .setColor('#0099ff')
                 .setTitle(card.name)

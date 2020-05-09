@@ -10,6 +10,16 @@ class DeckUtil {
     this.cardSets[2] = set2;
   }
 
+  searchv2(cardname) {
+    let cards =[];
+    for (let set = 1; set <=2; set++) {
+      let result = this.cardSets[set].filter(card => card.name.includes(cardname));
+      cards = cards.concat(result);
+    }
+    this.sortcard(cards);
+    return cards;
+  }
+
   getlevelupcard(card) {
     let set = parseInt(card.cardCode.substring(0, 2));
     let name = card.name;
@@ -73,6 +83,14 @@ class DeckUtil {
     return array.sort(function (a, b) {
       var x = a.cost;
       var y = b.cost;
+      return x < y ? -1 : x > y ? 1 : 0;
+    });
+  }
+
+  sortcard(array) {
+    return array.sort(function (a, b) {
+      var x = a.cardCode;
+      var y = b.cardCode;
       return x < y ? -1 : x > y ? 1 : 0;
     });
   }

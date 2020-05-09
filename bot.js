@@ -32,6 +32,16 @@ client.on('message', message => {
         if (cards.length == 0) {
             return message.reply("找不到這張卡喔");
         }
+        else if (cards.length > 5){
+            let resultstring = ""
+            resultstring += `符合的結果太多，有:${cards.length}張卡片:\n`;
+            cards.forEach(card => {
+                resultstring += `[${card.name}]`;
+            });
+            resultstring += `\n請更精確的輸入查詢卡片名稱\n`;
+
+            message.channel.send(resultstring);
+        }
         else {
             cards.forEach(card => {
                 console.log(card.cardCode);

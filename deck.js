@@ -28,11 +28,10 @@ class DeckUtil {
 
   search(cardname) {
     let card = {};
-    for (let set = 1; set < 2; set++) {
+    for (let set = 1; set <=2; set++) {
       let index = this.cardSets[set].findIndex(obj => obj.name == cardname);
       if (index >= 0) {
         card = this.cardSets[set][index];
-        break;
       }
     }
     return card;

@@ -26,18 +26,14 @@ client.on('message', message => {
     const deckUtil = new DeckUtil();
     const parsed = parser.parse(message, prefix);
     if (!parsed.success) return;
-    else 
-    {
-        if (parsed.arguments[0] in localcmd)
-        parsed.arguments[0] = localcmd[parsed.arguments[0]];
-    }
+
     if (parsed.command == "用法") {
         const cardEmbed = new Discord.MessageEmbed()
-        .setColor('#0099ff')
-        .setTitle('機器人指令一覽')
-        .addField('!問 關鍵字 可只輸入部分名稱','例如: !問 隱密')
-        .addField('!查詢 卡片名稱 可只輸入部分名稱','例如: !查詢 逆命')
-        .addField('!牌組 牌組代碼','例如: !牌組 CEBQEAQDAMCAIAIECETTINQGAEBQEDAUDYSSQAIBAEBQ6AQBAECACAIBAMXQ')
+            .setColor('#0099ff')
+            .setTitle('機器人指令一覽')
+            .addField('!問 關鍵字 可只輸入部分名稱', '例如: !問 隱密')
+            .addField('!查詢 卡片名稱 可只輸入部分名稱', '例如: !查詢 逆命')
+            .addField('!牌組 牌組代碼', '例如: !牌組 CEBQEAQDAMCAIAIECETTINQGAEBQEDAUDYSSQAIBAEBQ6AQBAECACAIBAMXQ')
         message.channel.send(cardEmbed);
     }
 
@@ -52,12 +48,15 @@ client.on('message', message => {
         });
     }
     else if (parsed.command === "查詢") {
+        if (parsed.arguments[0] in localcmd.cardname)
+            parsed.arguments[0] = localcmd.cardname[parsed.arguments[0]];
+
         cardname = parsed.arguments[0];
         cards = deckUtil.searchv2(cardname);
         if (cards.length == 0) {
             return message.reply("找不到這張卡喔");
         }
-        else if (cards.length > 5){
+        else if (cards.length > 5) {
             let resultstring = ""
             resultstring += `符合結果的卡片太多，共有${cards.length}張:\n`;
             cards.forEach(card => {
@@ -70,17 +69,19 @@ client.on('message', message => {
         else {
             cards.forEach(card => {
                 const cardEmbed = new Discord.MessageEmbed()
-                .setColor('#0099ff')
-                .setTitle(card.name)
-                .setDescription(card.flavorText)
-                .setThumbnail(card.assets[0].gameAbsolutePath);
-            message.channel.send(cardEmbed);
+                    .setColor('#0099ff')
+                    .setTitle(card.name)
+                    .setDescription(card.flavorText)
+                    .setThumbnail(card.assets[0].gameAbsolutePath);
+                message.channel.send(cardEmbed);
             });
-        
+
         }
 
     }
     else if (parsed.command === "牌組") {
+        if (parsed.arguments[0] in localcmd.deck)
+            parsed.arguments[0] = localcmd.deck[parsed.arguments[0]];
         code = parsed.arguments[0]
         let result = deckUtil.decode(code);
         if (Object.keys(result).length === 0) {

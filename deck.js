@@ -1,4 +1,6 @@
 const { DeckEncoder } = require('runeterra');
+const core = require('./core/zh_tw/data/globals-zh_tw.json');
+
 const set1 = require('./cards/set1/zh_tw/data/set1-zh_tw.json');
 const set2 = require('./cards/set2/zh_tw/data/set2-zh_tw.json');
 
@@ -10,9 +12,18 @@ class DeckUtil {
     this.cardSets[2] = set2;
   }
 
+  searchTerms(termname) {
+    let terms = [];
+    terms = terms.concat(core.vocabTerms.filter(term => term.name.includes(termname)));
+    terms = terms.concat(core.keywords.filter(term => term.name.includes(termname)));
+
+    return terms;
+  }
+
+
   searchv2(cardname) {
-    let cards =[];
-    for (let set = 1; set <=2; set++) {
+    let cards = [];
+    for (let set = 1; set <= 2; set++) {
       let result = this.cardSets[set].filter(card => card.name.includes(cardname));
       cards = cards.concat(result);
     }
@@ -38,7 +49,7 @@ class DeckUtil {
 
   search(cardname) {
     let card = {};
-    for (let set = 1; set <=2; set++) {
+    for (let set = 1; set <= 2; set++) {
       let index = this.cardSets[set].findIndex(obj => obj.name == cardname);
       if (index >= 0) {
         card = this.cardSets[set][index];

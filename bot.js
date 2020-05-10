@@ -15,6 +15,8 @@ client.on('ready', () => {
     regionEmoji[4] = client.emojis.cache.find(emoji => emoji.name === 'piltoverzaun');
     regionEmoji[5] = client.emojis.cache.find(emoji => emoji.name === 'shadowisles');
     regionEmoji[6] = client.emojis.cache.find(emoji => emoji.name === 'bilgewater');
+    const deckUtil = new DeckUtil();
+
 });
 
 
@@ -31,8 +33,20 @@ client.on('message', message => {
         .addField('!牌組 牌組代碼','例如: !牌組 CEBQEAQDAMCAIAIECETTINQGAEBQEDAUDYSSQAIBAEBQ6AQBAECACAIBAMXQ')
         message.channel.send(cardEmbed);
     }
+
+    else if (parsed.command === "問") {
+        termname = parsed.arguments[0];
+        terms = deckUtil.searchTerms(termname);
+        if (terms.length == 0) {
+            return message.reply("尚無此關鍵字");
+        }
+        terms.forEach(term => {
+            message.channel.send(`**${term.name}(${term.nameRef}): **${term.description}`);
+        });
+    }
     else if (parsed.command === "查詢") {
-        cardname = parsed.arguments[0];
+
+
         cards = deckUtil.searchv2(cardname);
         if (cards.length == 0) {
             return message.reply("找不到這張卡喔");

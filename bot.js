@@ -29,6 +29,7 @@ client.on('message', message => {
         const cardEmbed = new Discord.MessageEmbed()
         .setColor('#0099ff')
         .setTitle('機器人指令一覽')
+        .addField('!問 關鍵字 可只輸入部分名稱','例如: !問 隱密')
         .addField('!查詢 卡片名稱 可只輸入部分名稱','例如: !查詢 逆命')
         .addField('!牌組 牌組代碼','例如: !牌組 CEBQEAQDAMCAIAIECETTINQGAEBQEDAUDYSSQAIBAEBQ6AQBAECACAIBAMXQ')
         message.channel.send(cardEmbed);

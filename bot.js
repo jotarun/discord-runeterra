@@ -1,6 +1,8 @@
 const Discord = require('discord.js');
 const parser = require("discord-command-parser");
 const DeckUtil = require('./deck.js')
+const localcmd = require('./core/zh_tw/data/local.json');
+
 const prefix = "!";
 
 const client = new Discord.Client();
@@ -24,7 +26,11 @@ client.on('message', message => {
     const deckUtil = new DeckUtil();
     const parsed = parser.parse(message, prefix);
     if (!parsed.success) return;
-
+    else 
+    {
+        if (parsed.arguments[0] in localcmd)
+        parsed.arguments[0] = localcmd[parsed.arguments[0]];
+    }
     if (parsed.command == "用法") {
         const cardEmbed = new Discord.MessageEmbed()
         .setColor('#0099ff')

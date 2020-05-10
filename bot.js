@@ -46,8 +46,7 @@ client.on('message', message => {
         });
     }
     else if (parsed.command === "查詢") {
-
-
+        cardname = parsed.arguments[0];
         cards = deckUtil.searchv2(cardname);
         if (cards.length == 0) {
             return message.reply("找不到這張卡喔");

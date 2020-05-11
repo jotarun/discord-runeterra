@@ -1,17 +1,16 @@
-{"cardname":
-    {
-    "EZ":"伊澤瑞爾",
-    "牙膏":"犽宿",
-    "冰鳥":"艾妮維亞",
-    "船長":"剛普朗克",
-    "MF":"好運姐",
-    "好運姊":"好運姐",
-    "泡麵頭":"漢默丁格",
-    "蠻王":"泰達米爾"
+{
+    "cardname": {
+        "EZ": "伊澤瑞爾",
+        "牙膏": "犽宿",
+        "冰鳥": "艾妮維亞",
+        "船長": "剛普朗克",
+        "MF": "好運姐",
+        "好運姊": "好運姐",
+        "泡麵頭": "漢默丁格",
+        "蠻王": "泰達米爾",
+        "盪鞦韆": "魅影搗蛋鬼"
     },
-    "deck":
-    {
-    "皮諾燒":"CEBQEAQDAMCAIAIECETTINQGAEBQEDAUDYSSQAIBAEBQ6AQBAECACAIBAMXQ"
+    "deck": {
+        "皮諾燒": "CEBQEAQDAMCAIAIECETTINQGAEBQEDAUDYSSQAIBAEBQ6AQBAECACAIBAMXQ"
     }
 }
-

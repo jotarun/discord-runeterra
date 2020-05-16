@@ -22,7 +22,9 @@ class DeckUtil {
   searchcard(key,value) {
     let cards = [];
     for (let set = 1; set <= 2; set++) {
-      let result = this.cardSets[set].filter(card => card[key] == value);
+     
+      let result = this.cardSets[set].filter(card => card[key].includes(value));
+      
       cards = cards.concat(result);
     }
     this.sortcard(cards);

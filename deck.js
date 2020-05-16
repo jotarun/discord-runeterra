@@ -19,6 +19,15 @@ class DeckUtil {
     return terms;
   }
 
+  searchcard(key,value) {
+    let cards = [];
+    for (let set = 1; set <= 2; set++) {
+      let result = this.cardSets[set].filter(card => card[key] == value);
+      cards = cards.concat(result);
+    }
+    this.sortcard(cards);
+    return cards;
+  }
 
   searchv2(cardname) {
     let cards = [];

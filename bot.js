@@ -18,7 +18,10 @@ client.on('ready', () => {
     regionEmoji[5] = client.emojis.cache.find(emoji => emoji.name === 'shadowisles');
     regionEmoji[6] = client.emojis.cache.find(emoji => emoji.name === 'bilgewater');
     const deckUtil = new DeckUtil();
-
+    // let cards = deckUtil.searchcard('subtype','雪怪');
+    // cards.forEach(card => {
+    //     console.log(card.name);
+    // });
 });
 
 
@@ -46,8 +49,62 @@ client.on('message', message => {
         terms.forEach(term => {
             message.channel.send(`**${term.name}(${term.nameRef}): **${term.description}`);
         });
+
     }
     else if (parsed.command === "查詢") {
+        if (parsed.arguments[0] == '種族') {
+            let cards = deckUtil.searchcard('subtype', parsed.arguments[1]);
+            if (cards.length == 0) {
+                return message.reply("沒有這個種族的卡");
+            }
+            else if (cards.length > 5) {
+                let resultstring = ""
+                resultstring += `符合結果的卡片共有${cards.length}張:\n`;
+                cards.forEach(card => {
+                    resultstring += `[${card.name}]`;
+                });    
+                message.channel.send(resultstring);
+            }
+            else {
+                cards.forEach(card => {
+                    const cardEmbed = new Discord.MessageEmbed()
+                        .setColor('#0099ff')
+                        .setTitle(card.name)
+                        .setDescription(card.flavorText)
+                        .setThumbnail(card.assets[0].gameAbsolutePath);
+                    message.channel.send(cardEmbed);
+                });
+            }
+            return;
+        }
+
+        if (parsed.arguments[0] == '關鍵字') {
+            let cards = deckUtil.searchcard('keywords', parsed.arguments[1]);
+            if (cards.length == 0) {
+                return message.reply("沒有這個關鍵字的卡");
+            }
+            else if (cards.length > 5) {
+                let resultstring = ""
+                resultstring += `符合結果的卡片共有${cards.length}張:\n`;
+                cards.forEach(card => {
+                    resultstring += `[${card.name}]`;
+                });    
+                message.channel.send(resultstring);
+            }
+            else {
+                cards.forEach(card => {
+                    const cardEmbed = new Discord.MessageEmbed()
+                        .setColor('#0099ff')
+                        .setTitle(card.name)
+                        .setDescription(card.flavorText)
+                        .setThumbnail(card.assets[0].gameAbsolutePath);
+                    message.channel.send(cardEmbed);
+                });
+            }
+            return;
+        }
+
+
         if (parsed.arguments[0] in localcmd.cardname)
             parsed.arguments[0] = localcmd.cardname[parsed.arguments[0]];
 

@@ -18,12 +18,41 @@ client.on('ready', () => {
     regionEmoji[5] = client.emojis.cache.find(emoji => emoji.name === 'shadowisles');
     regionEmoji[6] = client.emojis.cache.find(emoji => emoji.name === 'bilgewater');
     const deckUtil = new DeckUtil();
-    // let cards = deckUtil.searchcard('subtype','雪怪');
-    // cards.forEach(card => {
-    //     console.log(card.name);
-    // });
 });
 
+
+function outputcards(cards,message,title)
+{
+if (cards.length > 5) {
+    let cols=   Math.round(cards.length/5);
+    let resultstring=Array(cols).fill('');
+    cards.forEach(function (card, i)  {
+        emoji=client.emojis.cache.find(emoji => emoji.name === card.regionRef.toLowerCase());
+        resultstring[i%cols] += (`${emoji}[${card.name}](${card.assets[0].gameAbsolutePath})\n`);
+    });    
+
+    const cardEmbed = new Discord.MessageEmbed()
+            .setColor('#0099ff')
+            .setTitle(title)
+            .setDescription(`符合結果的卡片共有${cards.length}張:`)
+          
+            resultstring.forEach(substring=>{
+                cardEmbed.addField('-',substring,true)
+            })
+        message.channel.send(cardEmbed);
+}
+    else {
+    cards.forEach(card => {
+        const cardEmbed = new Discord.MessageEmbed()
+            .setColor('#0099ff')
+            .setTitle(card.name)
+            .setDescription(card.flavorText)
+            .setThumbnail(card.assets[0].gameAbsolutePath);
+        message.channel.send(cardEmbed);
+    });
+}
+
+}
 
 client.on('message', message => {
     const deckUtil = new DeckUtil();
@@ -57,23 +86,8 @@ client.on('message', message => {
             if (cards.length == 0) {
                 return message.reply("沒有這個種族的卡");
             }
-            else if (cards.length > 5) {
-                let resultstring = ""
-                resultstring += `符合結果的卡片共有${cards.length}張:\n`;
-                cards.forEach(card => {
-                    resultstring += `[${card.name}]`;
-                });    
-                message.channel.send(resultstring);
-            }
-            else {
-                cards.forEach(card => {
-                    const cardEmbed = new Discord.MessageEmbed()
-                        .setColor('#0099ff')
-                        .setTitle(card.name)
-                        .setDescription(card.flavorText)
-                        .setThumbnail(card.assets[0].gameAbsolutePath);
-                    message.channel.send(cardEmbed);
-                });
+            else{
+                outputcards(cards,message,parsed.arguments[1]);
             }
             return;
         }
@@ -83,24 +97,10 @@ client.on('message', message => {
             if (cards.length == 0) {
                 return message.reply("沒有這個關鍵字的卡");
             }
-            else if (cards.length > 5) {
-                let resultstring = ""
-                resultstring += `符合結果的卡片共有${cards.length}張:\n`;
-                cards.forEach(card => {
-                    resultstring += `[${card.name}]`;
-                });    
-                message.channel.send(resultstring);
+            else  {
+                outputcards(cards,message,parsed.arguments[1]);
             }
-            else {
-                cards.forEach(card => {
-                    const cardEmbed = new Discord.MessageEmbed()
-                        .setColor('#0099ff')
-                        .setTitle(card.name)
-                        .setDescription(card.flavorText)
-                        .setThumbnail(card.assets[0].gameAbsolutePath);
-                    message.channel.send(cardEmbed);
-                });
-            }
+              
             return;
         }
 
@@ -112,27 +112,10 @@ client.on('message', message => {
         cards = deckUtil.searchv2(cardname);
         if (cards.length == 0) {
             return message.reply("找不到這張卡喔");
+        
         }
-        else if (cards.length > 5) {
-            let resultstring = ""
-            resultstring += `符合結果的卡片太多，共有${cards.length}張:\n`;
-            cards.forEach(card => {
-                resultstring += `[${card.name}]`;
-            });
-            resultstring += `\n請更精確的輸入查詢卡片名稱\n`;
-
-            message.channel.send(resultstring);
-        }
-        else {
-            cards.forEach(card => {
-                const cardEmbed = new Discord.MessageEmbed()
-                    .setColor('#0099ff')
-                    .setTitle(card.name)
-                    .setDescription(card.flavorText)
-                    .setThumbnail(card.assets[0].gameAbsolutePath);
-                message.channel.send(cardEmbed);
-            });
-
+        else{
+            outputcards(cards,message,parsed.arguments[0]);
         }
 
     }

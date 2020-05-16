@@ -24,11 +24,12 @@ client.on('ready', () => {
 function outputcards(cards,message,title)
 {
 if (cards.length > 5) {
-    let cols=   Math.round(cards.length/5);
+    let cols=   Math.floor(cards.length/5)+1;
+    console.log(cols);
     let resultstring=Array(cols).fill('');
     cards.forEach(function (card, i)  {
         emoji=client.emojis.cache.find(emoji => emoji.name === card.regionRef.toLowerCase());
-        resultstring[i%cols] += (`${emoji}[${card.name}](${card.assets[0].gameAbsolutePath})\n`);
+        resultstring[Math.floor(i/5)] += (`${emoji}[${card.name}](${card.assets[0].gameAbsolutePath})\n`);
     });    
 
     const cardEmbed = new Discord.MessageEmbed()

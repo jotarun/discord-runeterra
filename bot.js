@@ -25,7 +25,6 @@ function outputcards(cards,message,title)
 {
 if (cards.length > 5) {
     let cols=   Math.floor(cards.length/5)+1;
-    console.log(cols);
     let resultstring=Array(cols).fill('');
     cards.forEach(function (card, i)  {
         emoji=client.emojis.cache.find(emoji => emoji.name === card.regionRef.toLowerCase());
@@ -38,7 +37,7 @@ if (cards.length > 5) {
             .setDescription(`符合結果的卡片共有${cards.length}張:`)
           
             resultstring.forEach(substring=>{
-                cardEmbed.addField('-',substring,true)
+                cardEmbed.addField('\u200b',substring,true)
             })
         message.channel.send(cardEmbed);
 }

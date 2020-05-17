@@ -21,36 +21,44 @@ client.on('ready', () => {
 });
 
 
-function outputcards(cards,message,title)
-{
-if (cards.length > 5) {
-    let cols=   Math.floor(cards.length/5)+1;
-    let resultstring=Array(cols).fill('');
-    cards.forEach(function (card, i)  {
-        emoji=client.emojis.cache.find(emoji => emoji.name === card.regionRef.toLowerCase());
-        resultstring[Math.floor(i/5)] += (`${emoji}[${card.name}](${card.assets[0].gameAbsolutePath})\n`);
-    });    
-
-    const cardEmbed = new Discord.MessageEmbed()
+function outputcards(cards, message, title) {
+    if (cards.length > 5) {
+        let cols = Math.floor(cards.length / 5) + 1;
+        let resultstring = Array(cols).fill('');
+        cards.forEach(function (card, i) {
+            emoji = client.emojis.cache.find(emoji => emoji.name === card.regionRef.toLowerCase());
+            resultstring[Math.floor(i / 5)] += (`${emoji}[${card.name}](${card.assets[0].gameAbsolutePath})\n`);
+        });
+        const cardEmbed = new Discord.MessageEmbed()
             .setColor('#0099ff')
             .setTitle(title)
             .setDescription(`符合結果的卡片共有${cards.length}張:`)
-          
-            resultstring.forEach(substring=>{
-                cardEmbed.addField('\u200b',substring,true)
-            })
-        message.channel.send(cardEmbed);
-}
+        try {
+            resultstring.forEach(substring => {
+                if (substring!="")
+                    cardEmbed.addField('\u200b', substring, true);
+            });
+            message.channel.send(cardEmbed);
+        }
+        catch (e) {
+            console.log(e);
+        }
+    }
     else {
-    cards.forEach(card => {
-        const cardEmbed = new Discord.MessageEmbed()
-            .setColor('#0099ff')
-            .setTitle(card.name)
-            .setDescription(card.flavorText)
-            .setThumbnail(card.assets[0].gameAbsolutePath);
-        message.channel.send(cardEmbed);
-    });
-}
+        cards.forEach(card => {
+            try {
+                const cardEmbed = new Discord.MessageEmbed()
+                    .setColor('#0099ff')
+                    .setTitle(card.name)
+                    .setDescription(card.flavorText)
+                    .setThumbnail(card.assets[0].gameAbsolutePath);
+                message.channel.send(cardEmbed);
+            }
+            catch (e) {
+                console.log(e);
+            }
+        });
+    }
 
 }
 
@@ -86,8 +94,8 @@ client.on('message', message => {
             if (cards.length == 0) {
                 return message.reply("沒有這個種族的卡");
             }
-            else{
-                outputcards(cards,message,parsed.arguments[1]);
+            else {
+                outputcards(cards, message, parsed.arguments[1]);
             }
             return;
         }
@@ -97,10 +105,10 @@ client.on('message', message => {
             if (cards.length == 0) {
                 return message.reply("沒有這個關鍵字的卡");
             }
-            else  {
-                outputcards(cards,message,parsed.arguments[1]);
+            else {
+                outputcards(cards, message, parsed.arguments[1]);
             }
-              
+
             return;
         }
 
@@ -112,10 +120,10 @@ client.on('message', message => {
         cards = deckUtil.searchv2(cardname);
         if (cards.length == 0) {
             return message.reply("找不到這張卡喔");
-        
+
         }
-        else{
-            outputcards(cards,message,parsed.arguments[0]);
+        else {
+            outputcards(cards, message, parsed.arguments[0]);
         }
 
     }

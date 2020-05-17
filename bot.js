@@ -78,6 +78,7 @@ client.on('message', message => {
             .addField('!問 關鍵字 可只輸入部分名稱', '例如: !問 隱密')
             .addField('!查詢 卡片名稱 可只輸入部分名稱', '例如: !查詢 逆命')
             .addField('!查詢 關鍵字 名稱 可只輸入部分名稱', '例如: !查詢 關鍵字 泯滅')
+            .addField('!查詢 種族 名稱 可只輸入部分名稱', '例如: !查詢 種族 海怪')
             .addField('!牌組 牌組代碼', '例如: !牌組 CEBQEAQDAMCAIAIECETTINQGAEBQEDAUDYSSQAIBAEBQ6AQBAECACAIBAMXQ')
         message.channel.send(cardEmbed);
     }

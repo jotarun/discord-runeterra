@@ -22,7 +22,11 @@ client.on('ready', () => {
 
 
 function outputcards(cards, message, title) {
-    if (cards.length > 5) {
+    if (cards.length > 60) {
+        return message.reply(`符合的卡片過多(${cards.length}張)`);
+    }
+
+    else if  (cards.length > 5) {
         let cols = Math.ceil(cards.length / 5) ;
         let resultstring = Array(cols).fill('');
         cards.forEach(function (card, i) {
@@ -73,6 +77,7 @@ client.on('message', message => {
             .setTitle('機器人指令一覽')
             .addField('!問 關鍵字 可只輸入部分名稱', '例如: !問 隱密')
             .addField('!查詢 卡片名稱 可只輸入部分名稱', '例如: !查詢 逆命')
+            .addField('!查詢 關鍵字 名稱 可只輸入部分名稱', '例如: !查詢 關鍵字 泯滅')
             .addField('!牌組 牌組代碼', '例如: !牌組 CEBQEAQDAMCAIAIECETTINQGAEBQEDAUDYSSQAIBAEBQ6AQBAECACAIBAMXQ')
         message.channel.send(cardEmbed);
     }

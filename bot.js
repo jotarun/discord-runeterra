@@ -23,7 +23,7 @@ client.on('ready', () => {
 
 function outputcards(cards, message, title) {
     if (cards.length > 5) {
-        let cols = Math.floor(cards.length / 5) + 1;
+        let cols = Math.ceil(cards.length / 5) ;
         let resultstring = Array(cols).fill('');
         cards.forEach(function (card, i) {
             emoji = client.emojis.cache.find(emoji => emoji.name === card.regionRef.toLowerCase());

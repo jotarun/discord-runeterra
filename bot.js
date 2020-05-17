@@ -139,7 +139,7 @@ client.on('message', message => {
 
         let total = result.heroes.length + result.minions.length + result.spells.length;
         const deckEmbed = new Discord.MessageEmbed()
-            .setTitle('在瀏覽器檢視牌組')
+            .setTitle('>>點此在瀏覽器開啟牌組檢視器<<')
             .setColor('#987');
         deckEmbed.setURL('https://jotarun.github.io/runeterradeckviewer/?code=' + code);
         if (total >= 25) {

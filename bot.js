@@ -84,6 +84,9 @@ client.on('message', message => {
     }
 
     else if (parsed.command === "問") {
+        if (parsed.arguments[0] in localcmd.keyword)
+        parsed.arguments[0] = localcmd.keyword[parsed.arguments[0]];
+
         termname = parsed.arguments[0];
         terms = deckUtil.searchTerms(termname);
         if (terms.length == 0) {
@@ -107,6 +110,7 @@ client.on('message', message => {
         }
 
         if (parsed.arguments[0] == '關鍵字') {
+          
             let cards = deckUtil.searchcard('keywords', parsed.arguments[1]);
             cards = cards.concat(deckUtil.searchcard('description', parsed.arguments[1]));
 

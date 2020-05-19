@@ -17,7 +17,10 @@ client.on('ready', () => {
     regionEmoji[4] = client.emojis.cache.find(emoji => emoji.name === 'piltoverzaun');
     regionEmoji[5] = client.emojis.cache.find(emoji => emoji.name === 'shadowisles');
     regionEmoji[6] = client.emojis.cache.find(emoji => emoji.name === 'bilgewater');
-    const deckUtil = new DeckUtil();
+    // const deckUtil = new DeckUtil();
+    const guildNames = client.guilds.cache.map(g => g.name).join("\n");
+    console.log(guildNames);
+
 });
 
 

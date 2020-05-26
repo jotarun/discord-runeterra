@@ -81,11 +81,12 @@ client.on('message', message => {
         const cardEmbed = new Discord.MessageEmbed()
             .setColor('#0099ff')
             .setTitle('機器人指令一覽 (卡片版本: v1.2.0)')
-            .addField('!問 關鍵字 可只輸入部分名稱', '例如: !問 隱密')
-            .addField('!查詢 卡片名稱 可只輸入部分名稱', '例如: !查詢 逆命')
-            .addField('!查詢 關鍵字 名稱 可只輸入部分名稱', '例如: !查詢 關鍵字 泯滅')
-            .addField('!查詢 種族 名稱 可只輸入部分名稱', '例如: !查詢 種族 海怪')
-            .addField('!牌組 牌組代碼', '例如: !牌組 CEBQEAQDAMCAIAIECETTINQGAEBQEDAUDYSSQAIBAEBQ6AQBAECACAIBAMXQ')
+            .addField('!問 [關鍵字] 可只輸入部分名稱', '例如: !問 隱密')
+            .addField('!查詢 [卡片名稱] 可只輸入部分名稱', '例如: !查詢 逆命')
+            .addField('!查詢 關鍵字 [名稱] 可只輸入部分名稱', '例如: !查詢 關鍵字 泯滅')
+            .addField('!查詢 種族 [名稱] 可只輸入部分名稱', '例如: !查詢 種族 海怪')
+            .addField('!查詢 [費用] ([攻擊力] [生命力])', '例如: !查詢 5 2 4 (5/2/4單位) 或 !查詢 5 (5費法術)')
+            .addField('!牌組 [牌組代碼]', '例如: !牌組 CEBQEAQDAMCAIAIECETTINQGAEBQEDAUDYSSQAIBAEBQ6AQBAECACAIBAMXQ')
         message.channel.send(cardEmbed);
     }
 

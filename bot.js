@@ -85,7 +85,7 @@ client.on('message', message => {
             .addField('!查詢 [卡片名稱] 可只輸入部分名稱', '例如: !查詢 逆命')
             .addField('!查詢 關鍵字 [名稱] 可只輸入部分名稱', '例如: !查詢 關鍵字 泯滅')
             .addField('!查詢 種族 [名稱] 可只輸入部分名稱', '例如: !查詢 種族 海怪')
-            .addField('!查詢 [費用] ([攻擊力] [生命力])', '例如: !查詢 5 2 4 (5/2/4單位) 或 !查詢 5 (5費法術)')
+            .addField('!查詢 [魔耗] ([力量] [生命])', '例如: !查詢 5 2 4 (5/2/4單位) 或 !查詢 5 (5費法術)')
             .addField('!牌組 [牌組代碼]', '例如: !牌組 CEBQEAQDAMCAIAIECETTINQGAEBQEDAUDYSSQAIBAEBQ6AQBAECACAIBAMXQ')
         message.channel.send(cardEmbed);
     }
@@ -206,7 +206,7 @@ client.on('message', message => {
             if (result.heroes.length > 0)
                 deckEmbed.addField(`英雄`, herostring, true);
             if (result.minions.length > 0)
-                deckEmbed.addField(`單位`, minionsstring, true);
+                deckEmbed.addField(`侍從`, minionsstring, true);
             if (result.spells.length > 0)
                 deckEmbed.addField(`法術`, spellsstring, true);
             regionscount.forEach(function (v, i) {
@@ -221,7 +221,7 @@ client.on('message', message => {
                 deckEmbed.addField(`${regionEmoji[card.faction.id]} ${card.cost} 費 英雄`, `${card.name} x ${card.count}`, true);
             });
             result.minions.forEach(card => {
-                deckEmbed.addField(`${regionEmoji[card.faction.id]} ${card.cost} 費 單位`, `${card.name} x ${card.count}`, true);
+                deckEmbed.addField(`${regionEmoji[card.faction.id]} ${card.cost} 費 侍從`, `${card.name} x ${card.count}`, true);
             });
             result.spells.forEach(card => {
                 deckEmbed.addField(`${regionEmoji[card.faction.id]} ${card.cost} 費 法術`, `${card.name} x ${card.count}`, true);

@@ -18,9 +18,12 @@ client.on('ready', () => {
     regionEmoji[5] = client.emojis.cache.find(emoji => emoji.name === 'shadowisles');
     regionEmoji[6] = client.emojis.cache.find(emoji => emoji.name === 'bilgewater');
     // const deckUtil = new DeckUtil();
-    const guildNames = client.guilds.cache.map(g => g.name).join("\n");
-    console.log(guildNames);
-
+    // let cards = deckUtil.searchbynumber(5,2,4);
+    // cards.forEach(card => {
+    //     console.log(card.name);
+    // });
+    // const guildNames = client.guilds.cache.map(g => g.name).join("\n");
+    // console.log(guildNames);
 });
 
 
@@ -29,8 +32,8 @@ function outputcards(cards, message, title) {
         return message.reply(`符合的卡片過多(${cards.length}張)`);
     }
 
-    else if  (cards.length > 5) {
-        let cols = Math.ceil(cards.length / 5) ;
+    else if (cards.length > 5) {
+        let cols = Math.ceil(cards.length / 5);
         let resultstring = Array(cols).fill('');
         cards.forEach(function (card, i) {
             emoji = client.emojis.cache.find(emoji => emoji.name === card.regionRef.toLowerCase());
@@ -42,7 +45,7 @@ function outputcards(cards, message, title) {
             .setDescription(`符合結果的卡片共有${cards.length}張:`)
         try {
             resultstring.forEach(substring => {
-                if (substring!="")
+                if (substring != "")
                     cardEmbed.addField('\u200b', substring, true);
             });
             message.channel.send(cardEmbed);
@@ -77,7 +80,7 @@ client.on('message', message => {
     if (parsed.command == "用法") {
         const cardEmbed = new Discord.MessageEmbed()
             .setColor('#0099ff')
-            .setTitle('機器人指令一覽')
+            .setTitle('機器人指令一覽 (卡片版本: v1.2.0)')
             .addField('!問 關鍵字 可只輸入部分名稱', '例如: !問 隱密')
             .addField('!查詢 卡片名稱 可只輸入部分名稱', '例如: !查詢 逆命')
             .addField('!查詢 關鍵字 名稱 可只輸入部分名稱', '例如: !查詢 關鍵字 泯滅')
@@ -88,7 +91,7 @@ client.on('message', message => {
 
     else if (parsed.command === "問") {
         if (parsed.arguments[0] in localcmd.keyword)
-        parsed.arguments[0] = localcmd.keyword[parsed.arguments[0]];
+            parsed.arguments[0] = localcmd.keyword[parsed.arguments[0]];
 
         termname = parsed.arguments[0];
         terms = deckUtil.searchTerms(termname);
@@ -101,6 +104,29 @@ client.on('message', message => {
 
     }
     else if (parsed.command === "查詢") {
+        if (isNaN(parsed.arguments[0]) == false) {
+            let cost = parsed.arguments[0];
+            let attack = parsed.arguments[1];
+            let health = parsed.arguments[2];
+            if (!attack) attack = 0;
+            if (!health) health = 0;
+            let cards = deckUtil.searchbynumber(cost, attack, health);
+            if (cards.length == 0) {
+                return message.reply("沒有這個數值的卡");
+            }
+            else {
+                let title;
+                if (health == 0)
+                    title = `${cost}費法術`
+
+                else
+                    title = `${cost}/${attack}/${health}單位`
+
+                outputcards(cards, message, title);
+            }
+            return;
+        }
+
         if (parsed.arguments[0] == '種族') {
             let cards = deckUtil.searchcard('subtype', parsed.arguments[1]);
             if (cards.length == 0) {
@@ -113,7 +139,7 @@ client.on('message', message => {
         }
 
         if (parsed.arguments[0] == '關鍵字') {
-          
+
             let cards = deckUtil.searchcard('keywords', parsed.arguments[1]);
             cards = cards.concat(deckUtil.searchcard('description', parsed.arguments[1]));
 

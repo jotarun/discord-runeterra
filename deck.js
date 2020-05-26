@@ -11,6 +11,7 @@ class DeckUtil {
     this.cardSets[2] = set2;
   }
 
+  
   searchTerms(termname) {
     let terms = [];
     terms = terms.concat(core.vocabTerms.filter(term => term.name.includes(termname)));
@@ -19,6 +20,20 @@ class DeckUtil {
     return terms;
   }
 
+  searchbynumber(cost,attack,health)
+  {
+    let cards = [];
+    for (let set = 1; set <= 2; set++) {
+     
+      let result = this.cardSets[set].filter(card => 
+        card.cost==cost && card.attack==attack && card.health==health
+        );
+      
+      cards = cards.concat(result);
+    }
+    this.sortcard(cards);
+    return cards;
+  }
   searchcard(key,value) {
     let cards = [];
     for (let set = 1; set <= 2; set++) {

@@ -17,7 +17,7 @@ client.on('ready', () => {
     regionEmoji[4] = client.emojis.cache.find(emoji => emoji.name === 'piltoverzaun');
     regionEmoji[5] = client.emojis.cache.find(emoji => emoji.name === 'shadowisles');
     regionEmoji[6] = client.emojis.cache.find(emoji => emoji.name === 'bilgewater');
-    regionEmoji[7] = client.emojis.cache.find(emoji => emoji.name === 'targon');
+    regionEmoji[9] = client.emojis.cache.find(emoji => emoji.name === 'targon');
 
     // const deckUtil = new DeckUtil();
     // let cards = deckUtil.searchbynumber(5,2,4);
@@ -133,7 +133,7 @@ client.on('message', message => {
         }
 
         if (parsed.arguments[0] == '種族') {
-            let cards = deckUtil.searchcard('subtype', parsed.arguments[1]);
+            let cards = deckUtil.searchcard('subtypes', parsed.arguments[1]);
             if (cards.length == 0) {
                 return message.reply("沒有這個種族的卡");
             }

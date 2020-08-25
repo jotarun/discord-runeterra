@@ -17,6 +17,8 @@ client.on('ready', () => {
     regionEmoji[4] = client.emojis.cache.find(emoji => emoji.name === 'piltoverzaun');
     regionEmoji[5] = client.emojis.cache.find(emoji => emoji.name === 'shadowisles');
     regionEmoji[6] = client.emojis.cache.find(emoji => emoji.name === 'bilgewater');
+    regionEmoji[7] = client.emojis.cache.find(emoji => emoji.name === 'targon');
+
     // const deckUtil = new DeckUtil();
     // let cards = deckUtil.searchbynumber(5,2,4);
     // cards.forEach(card => {
@@ -24,6 +26,8 @@ client.on('ready', () => {
     // });
     // const guildNames = client.guilds.cache.map(g => g.name).join("\n");
     // console.log(guildNames);
+
+    
 });
 
 
@@ -80,7 +84,7 @@ client.on('message', message => {
     if (parsed.command == "用法") {
         const cardEmbed = new Discord.MessageEmbed()
             .setColor('#0099ff')
-            .setTitle('機器人指令一覽 (卡片版本: v1.6.0)')
+            .setTitle('機器人指令一覽 (卡片版本: v1.8.0)')
             .addField('!問 [關鍵字] 可只輸入部分名稱', '例如: !問 隱密')
             .addField('!查詢 [卡片名稱] 可只輸入部分名稱', '例如: !查詢 逆命')
             .addField('!查詢 關鍵字 [名稱] 可只輸入部分名稱', '例如: !查詢 關鍵字 泯滅')

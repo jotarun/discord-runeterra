@@ -1,0 +1,5391 @@
+[
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03BW006T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03BW006-full.png"
+      }
+    ],
+    "region": "比爾吉沃特",
+    "regionRef": "Bilgewater",
+    "attack": 5,
+    "cost": 5,
+    "health": 6,
+    "description": "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>鯊幫制裁</style></link>。",
+    "descriptionRaw": "回合開始：在手牌生成1張飛逝鯊幫制裁。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "在擂台上闖蕩多年，讓傑克學到了許多寶貴的經驗。他學到只要對手會流血，就會懂得害怕；他學到冷眼凝視的威力；他也學到了毫無所忌的暴力有多強大。",
+    "artistName": "JiHun Lee",
+    "name": "優勝者傑克",
+    "cardCode": "03BW006",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI004-full.png"
+      }
+    ],
+    "region": "闇影島",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "從我方牌組最上方4張牌選1個侍從單位。\r\n抽出該牌、在手牌生成1張該牌的<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>複製牌，並將其餘卡牌洗回我方牌組。",
+    "descriptionRaw": "從我方牌組最上方4張牌選1個侍從單位。\r\n抽出該牌、在手牌生成1張該牌的閃靈複製牌，並將其餘卡牌洗回我方牌組。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「去……包圍他們……」——夜曲",
+    "artistName": "Kudos Productions",
+    "name": "如影隨形",
+    "cardCode": "03SI004",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT018-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "召喚此牌時，抽1張牌。",
+    "descriptionRaw": "召喚此牌時，抽1張牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「當貧瘠的樹枝開始長出葉子時，萌春女神便打發信使到凜冬領主，宣告季節的變化。信使的咆哮驚動繁星，物換星移，而他的忠心則為大地帶來溫暖。」\n——《四季之歌》",
+    "artistName": "Kudos Productions",
+    "name": "星犬信使",
+    "cardCode": "03MT018",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT034-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 0,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「在巨石峰首次經歷分點的時候，巨石峰的居民也首次嘗試停戰。不過，正當各方領袖放下武器的那一刻，突然其中一人痛苦大叫！士兵紛紛拿起長槍，短暫的講和美夢就這樣破碎了。他們怎麼想也想不到，真正的行兇者，竟然是腳下的一條蛇。因此，蛇便成為了亂世的象徵。」\n——巨石峰鄉野雜談",
+    "artistName": "Kudos Productions",
+    "name": "巨蛇座",
+    "cardCode": "03MT034",
+    "keywords": [
+      "挑戰者"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI012-full.png"
+      }
+    ],
+    "region": "闇影島",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>本回合所有被召喚但並非打出的單位。",
+    "descriptionRaw": "泯滅本回合所有被召喚但並非打出的單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「當然，死亡也存在於蒂瑪西亞。我們看著它帶走所愛之人，也知道總有一天會輪到我們。但在這些島嶼上……我幾乎能嘗到死亡的味道。死亡的氣息充滿我的肺臟，我甚至能聽到它的耳語。這不是什麼抽象的概念，它此時此刻就坐在我身旁，沒有任何人逃得出它的魔掌。」\n——歷史學家延斯．托曼的筆記",
+    "artistName": "Kudos Productions",
+    "name": "暗路難行",
+    "cardCode": "03SI012",
+    "keywords": [
+      "快速"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "快速",
+    "spellSpeedRef": "Fast",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI014-full.png"
+      }
+    ],
+    "region": "闇影島",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "賦予牌組與手牌中的所有友軍單位+2|+2與<link=keyword.Ephemeral><sprite name=Ephemeral><style=Keyword>閃靈</style></link>。",
+    "descriptionRaw": "賦予牌組與手牌中的所有友軍單位+2|+2與閃靈。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「我擔心闇影島的夢魘遲早會讓所有人的身心靈崩潰，只剩下無止盡的瘋狂。」\n——歷史學家延斯．托曼的筆記",
+    "artistName": "Kudos Productions",
+    "name": "幽侵狂影",
+    "cardCode": "03SI014",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI007-full.png"
+      }
+    ],
+    "region": "闇影島",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "我方下次於本回合召喚1個友軍單位時，本回合給予該單位+1|+0與<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>法盾</style></link>。",
+    "descriptionRaw": "我方下次於本回合召喚1個友軍單位時，本回合給予該單位+1|+0與法盾。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「你一踏出去，就會感覺到他們，好像指尖拂過頸背，輕如雨水。就算作勢攻擊他們，那些怪物也不會退縮。他們既不怕刀，也不怕火，天不怕地不怕，實在是太恐怖了。」——鯨牙酒吧掠奪者",
+    "artistName": "Kudos Productions",
+    "name": "夜幕庇護",
+    "cardCode": "03SI007",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01SI014"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI013-full.png"
+      }
+    ],
+    "region": "闇影島",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "召喚1個<link=card.summon><style=AssociatedCard>霧魅</style></link>。",
+    "descriptionRaw": "召喚1個霧魅。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "霧魅在凡人看不見的空間中移動，毫無預警地出現，並折磨眼前所見的一切。",
+    "artistName": "Kudos Productions",
+    "name": "霧起雲湧",
+    "cardCode": "03SI013",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO017-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予受此牌支援的友軍單位+2|+1。",
+    "descriptionRaw": "支援：本回合給予受此牌支援的友軍單位+2|+1。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「皮克斯超棒的！他是個小不點，又酷，人又好。\n他最喜歡負鼠，嗯，還有還有……」——露璐",
+    "artistName": "Dao Le",
+    "name": "皮克斯！",
+    "cardCode": "03IO017",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005",
+      "03SI005T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI005T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI005T3-full.png"
+      }
+    ],
+    "region": "闇影島",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "從任1目標汲取1點生命值。將1張<link=card.level1><style=AssociatedCard>夜曲</style></link>洗入我方牌組。\r\n<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：在手牌隨機生成1張<link=keyword.Nightfall><style=Keyword>夜臨</style></link>牌。",
+    "descriptionRaw": "從任1目標汲取1點生命值。將1張夜曲洗入我方牌組。\r\n夜臨：在手牌隨機生成1張夜臨牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「隨著時間過去，我的精神，以及當初驅使我找到這裡的幹勁都逐漸被消磨殆盡。鯨牙酒吧的人個個形容枯槁，似乎已放棄做任何努力，我怕我在這裡待越久，就會變得越來越像他們。」\n——歷史學家延斯．托曼的筆記",
+    "artistName": "Kudos Productions",
+    "name": "夜曲 深宵斷魂",
+    "cardCode": "03SI005T3",
+    "keywords": [
+      "快速"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "快速",
+    "spellSpeedRef": "Fast",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT073T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT073T1-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "本回合我方打出的下一個<link=keyword.Nightfall><style=Keyword>夜臨</style></link>單位魔耗值-1。",
+    "descriptionRaw": "本回合我方打出的下一個夜臨單位魔耗值-1。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "暮花的芬芳是無可比擬的。它散發奇特的芳香，卻稍縱即逝，如月光般纖弱。",
+    "artistName": "Kudos Productions",
+    "name": "暮花之塵",
+    "cardCode": "03MT073T1",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI006T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI006-full.png"
+      }
+    ],
+    "region": "闇影島",
+    "regionRef": "ShadowIsles",
+    "attack": 3,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Nightfall><style=Keyword>夜臨</style></link>：從敵方主堡汲取2點生命值。",
+    "descriptionRaw": "夜臨：從敵方主堡汲取2點生命值。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "每晚，旅人只感到更加疲憊。他們在睡夢中不得安寧，惡夢與現實的分界變得模糊。睡眠不再是一種休息，反而像是在一點一點吸取他們的生命。",
+    "artistName": "SIXMOREVODKA",
+    "name": "末日災獸",
+    "cardCode": "03SI006",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT083.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT083-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 6,
+    "cost": 8,
+    "health": 5,
+    "description": "召喚此牌時，本牌局我方每打出1張天界牌，則賦予此牌+1|+0。<style=Variable></style>\r\n此牌首次將要陣亡時，將其完全治癒。",
+    "descriptionRaw": "召喚此牌時，本牌局我方每打出1張天界牌，則賦予此牌+1|+0。\r\n此牌首次將要陣亡時，將其完全治癒。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「數個世紀以來，不朽火鳥獨自翱翔天際，直到有一天，她看到了一隻幼鳥，牠和她一樣，擁有火焰般的金色翅膀。不朽火鳥欣喜若狂，這是她第一次看到與自己如此相似的存在。然而，數年過去了，幼鳥老了，生命之火最終也熄滅了。不朽火鳥終於知道死亡為何物，因此悲痛欲絕。她喟然而嘆，眼淚化為火花，直到自己被火焰吞噬。最後她浴火重生，身體煥然一新，但她不再無知。」——蘇瑞瑪鄉野雜談",
+    "artistName": "Kudos Productions",
+    "name": "不朽火鳥",
+    "cardCode": "03MT083",
+    "keywords": [
+      "隱密",
+      "遺願"
+    ],
+    "keywordRefs": [
+      "Elusive",
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT004-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "使手牌中1張卡牌的魔耗值-1。",
+    "descriptionRaw": "使手牌中1張卡牌的魔耗值-1。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「滿月銀光普照世界，揭示未行之路，未說之事。」——月環女祭司",
+    "artistName": "Kudos Productions",
+    "name": "月之銀",
+    "cardCode": "03MT004",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT037-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 10,
+    "cost": 10,
+    "health": 10,
+    "description": "召喚此牌時，本牌局我方每打出1張天界牌，則賦予此牌+1|+0。<style=Variable></style>\r\n<link=vocab.Attack><style=Vocab>攻擊</style></link>：本回合給予所有其他友軍單位+2|+2與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
+    "descriptionRaw": "召喚此牌時，本牌局我方每打出1張天界牌，則賦予此牌+1|+0。\r\n攻擊：本回合給予所有其他友軍單位+2|+2與勢不可擋。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "傳說天界的極遠邊陲潛伏著一個災厄，靜等著末日之時。那時它便會掌控繁星的力量，粉碎世界的根基。",
+    "artistName": "Kudos Productions",
+    "name": "災厄降臨",
+    "cardCode": "03MT037",
+    "keywords": [
+      "挑戰者"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT060.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT060-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 7,
+    "description": "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：治癒我方主堡3點生命，並對此牌造成等值傷害。",
+    "descriptionRaw": "回合開始：治癒我方主堡3點生命，並對此牌造成等值傷害。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「沒人比我更熟悉巨石峰的山徑，所以有些，呃，任性的星角獸總是纏著我。幸好牠們有我來照顧！」 ",
+    "artistName": "SIXMOREVODKA",
+    "name": "巨力捍衛者",
+    "cardCode": "03MT060",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT033-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 8,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：賦予1個友軍單位+0|+4。",
+    "descriptionRaw": "出牌：賦予1個友軍單位+0|+4。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「奧蘇，你聽到嗎？有鈴聲！爺爺回來了！」——星辰牧羊人伊利",
+    "artistName": "Polar Engine",
+    "name": "魯姆爾爺爺",
+    "cardCode": "03MT033",
+    "keywords": [
+      "勢不可擋",
+      "法盾"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03DE006-full.png"
+      }
+    ],
+    "region": "蒂瑪西亞",
+    "regionRef": "Demacia",
+    "attack": 4,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "保護幼子是所有生物的天性，不過論應付威脅的能力，能比得上龍族的不多。",
+    "artistName": "SIXMOREVODKA",
+    "name": "銳嘯飛龍",
+    "cardCode": "03DE006",
+    "keywords": [
+      "挑戰者",
+      "血怒"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "龍族",
+    "subtypes": [
+      "龍族"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR007-full.png"
+      }
+    ],
+    "region": "弗雷爾卓德",
+    "regionRef": "Freljord",
+    "attack": 1,
+    "cost": 2,
+    "health": 3,
+    "description": "召喚此牌時，若我方<link=vocab.Behold><style=Vocab>掌控</style></link>魔耗值8點或以上的卡牌，則賦予此牌+3|+0。",
+    "descriptionRaw": "召喚此牌時，若我方掌控魔耗值8點或以上的卡牌，則賦予此牌+3|+0。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "斥候蹲在一塊埋藏在雪下的爛布前，寒冷的空氣混雜著人汗和火煙的臭味。\n他把爛布拉出來，並看到有一個護符吊在其中一角。護符在烏雲密布的天空下顯得黯然無光，但他還是認出這個護符的產地：艾伐洛森。 ",
+    "artistName": "Wild Blue Studio",
+    "name": "拾荒巨魔",
+    "cardCode": "03FR007",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO008T1-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "一道精靈閃光把他撞飛倒地！約德爾人消逝的笑聲傳入了他那對敏銳的新耳朵，他往下一看，看到的是一雙毛茸茸的爪子，以及毛茸茸的雙臂……",
+    "artistName": "Dao Le",
+    "name": "小松鼠",
+    "cardCode": "03IO008T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT021-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 8,
+    "health": 8,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：選擇2個敵軍單位。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>他們。",
+    "descriptionRaw": "出牌：選擇2個敵軍單位。\r\n回合開始：擊暈他們。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "傳說與這隻生物視線交錯的旅行者，會被灌輸深奧知識、淵深洞見，以致於在其凝視之下精神崩潰。",
+    "artistName": "SIXMOREVODKA",
+    "name": "無垠歧心龍",
+    "cardCode": "03MT021",
+    "keywords": [
+      "血怒"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "龍族",
+    "subtypes": [
+      "龍族"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT059T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT059-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "召喚此牌時，也召喚<link=card.create><style=AssociatedCard>銀色姊妹</style></link>。",
+    "descriptionRaw": "召喚此牌時，也召喚銀色姊妹。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「兩個星靈\n從天而降：\n一個身披銀色月光，\n另一個身穿金色火焰……」\n——〈時光頌歌〉",
+    "artistName": "Kudos Productions",
+    "name": "金色姊妹",
+    "cardCode": "03MT059",
+    "keywords": [
+      "吸血"
+    ],
+    "keywordRefs": [
+      "Lifesteal"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056T2",
+      "03MT056"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT056T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT056T1-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>或我方發動其他<link=keyword.Nightfall><style=Keyword>夜臨</style></link>效果時：本回合給予此牌+2|+0與<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
+    "descriptionRaw": "夜臨或我方發動其他夜臨效果時：本回合給予此牌+2|+0與挑戰者。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "黛安娜飛奔下山，手中緊握著劍，劍刃覆滿了暮花之塵。她知道雷歐娜會找到她——她就是看準這一點。黛安娜的心因期待與焦慮而撲通亂跳，她深吸一口氣，靜下心來。這次交戰，黛安娜會占上風；這一次，她會正面迎擊老朋友。",
+    "artistName": "SIXMOREVODKA",
+    "name": "黛安娜",
+    "cardCode": "03MT056T1",
+    "keywords": [
+      "快速攻擊"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT092.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT092-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 1,
+    "description": "<link=vocab.Strike><style=Vocab>打擊</style></link>：在手牌生成1張<link=card.create><style=AssociatedCard>靈力寶石</style></link>。",
+    "descriptionRaw": "打擊：在手牌生成1張靈力寶石。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "巨石峰的山羊比普通山羊更加危險，因為牠們的角由寶石組成，撞擊時會在傷口裡留下碎片。 ",
+    "artistName": "Polar Engine",
+    "name": "紫角山羊",
+    "cardCode": "03MT092",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO001-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 1,
+    "health": 2,
+    "description": "當此牌受到支援時，賦予此牌+2|+0。",
+    "descriptionRaw": "當此牌受到支援時，賦予此牌+2|+0。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "每個人都想要有一隻使魔，但沒有人願意負責。必須帶牠們去散步，確保牠們飲食均衡，還要訓練牠們，照顧牠們一點都不簡單。",
+    "artistName": "SIXMOREVODKA",
+    "name": "尋花松鼠",
+    "cardCode": "03IO001",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005T3",
+      "03SI005"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI005T1-full.png"
+      }
+    ],
+    "region": "闇影島",
+    "regionRef": "ShadowIsles",
+    "attack": 6,
+    "cost": 4,
+    "health": 4,
+    "description": "使所有其他友軍單位擁有<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。\r\n我方每打出1個單位，本回合即給予所有敵軍單位<nobr>-1|-0</nobr>。",
+    "descriptionRaw": "使所有其他友軍單位擁有威嚇。\r\n我方每打出1個單位，本回合即給予所有敵軍單位-1|-0。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「我的夢境每晚都會變得更加鮮明。我看見一個怪物在黑暗中扭動，步步逼近，簡直是純粹邪惡的化身。雖然我原本應該再多待一週，但我已經買了傍晚去弗斯巴洛的票。說白了，我就是受不了這地方。」\n——歷史學家延斯．托曼的筆記",
+    "artistName": "SIXMOREVODKA",
+    "name": "夜曲",
+    "cardCode": "03SI005T1",
+    "keywords": [
+      "威嚇"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT048-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 2,
+    "description": "召喚此牌時，<br>在手牌生成1張<link=card.create><style=AssociatedCard>靈力寶石</style></link>。",
+    "descriptionRaw": "召喚此牌時，在手牌生成1張靈力寶石。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「人們說守護者祝福了這些寶石。戴上它們，他的靈魂便會與你同在。」",
+    "artistName": "SIXMOREVODKA",
+    "name": "送禮人",
+    "cardCode": "03MT048",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR004-full.png"
+      }
+    ],
+    "region": "弗雷爾卓德",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "挑選手牌中的1個單位進行揭示，並為我方主堡恢復等同其力量值的生命。\r\n<link=keyword.Enlightened><style=Keyword>開悟</style></link>：使該牌魔耗值降為0點。",
+    "descriptionRaw": "挑選手牌中的1個單位進行揭示，並為我方主堡恢復等同其力量值的生命。\r\n開悟：使該牌魔耗值降為0點。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「成年巨魔皮厚骨硬，且傷口會迅速痊癒，是一群頑強的敵人。要俐落了斷他們的性命，否則他們不久就會痊癒歸來。」——艾伐洛森神射手",
+    "artistName": "Kudos Productions",
+    "name": "復甦咆嘯",
+    "cardCode": "03FR004",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT063.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT063-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=keyword.Invoke><style=Keyword>祈願</style></link>。",
+    "descriptionRaw": "出牌：祈願。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「看看夜空中的朋友們！看到那顆特別亮的星星了嗎？那是靈犬座的眼睛，正盯著我們看呢！外邊那一簇黯淡的群星呢？那是躲在雲層後面的小丑座！還有那邊那……庫倫，噓！星星沒辦法抓下來啦……！」",
+    "artistName": "Aron Elekes",
+    "name": "夢月者",
+    "cardCode": "03MT063",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "02BW034T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03BW014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03BW014-full.png"
+      }
+    ],
+    "region": "比爾吉沃特",
+    "regionRef": "Bilgewater",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "召喚1個<link=card.summon><style=AssociatedCard>火藥猴群</style></link>。\r\n<link=vocab.Plunder><style=Vocab>洗劫</style></link>：下回合再召喚1個<link=card.summon><style=AssociatedCard>火藥猴群</style></link>。",
+    "descriptionRaw": "召喚1個火藥猴群。\r\n洗劫：下回合再召喚1個火藥猴群。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「哎喲，你看牠們一副天真可愛的樣子？才怪！牠們會到處搗亂，比暈船的嚮導還槽糕，而且一直吵個不停！猴子不准上船，這是規矩！」——肖狗水手",
+    "artistName": "Kudos Productions",
+    "name": "耍猴戲",
+    "cardCode": "03BW014",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT006-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 6,
+    "health": 6,
+    "description": "每回合具有<link=keyword.Fury><sprite name=Fury><style=Keyword>血怒</style></link>的友軍單位首次擊殺敵軍單位時，在手牌隨機生成1張龍族牌。",
+    "descriptionRaw": "每回合具有血怒的友軍單位首次擊殺敵軍單位時，在手牌隨機生成1張龍族牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「仰望天際，看見我目中的景色！首先你會看到信號，因為它們在夜晚格外耀眼；接著感受到憤怒，因為等到太陽升起，一切都將燃燒。你會見證的！每個人都將見證這一切！」——龍族使者",
+    "artistName": "SIXMOREVODKA",
+    "name": "音無龍獸",
+    "cardCode": "03MT006",
+    "keywords": [
+      "血怒"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "龍族",
+    "subtypes": [
+      "龍族"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO019-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 10,
+    "health": 0,
+    "description": "選擇1個友軍單位，<link=keyword.Recall><style=Keyword>召回</style></link>所有其他單位。",
+    "descriptionRaw": "選擇1個友軍單位，召回所有其他單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「我獨行我路。」——獨身修女",
+    "artistName": "Kudos Productions",
+    "name": "孤注一擲",
+    "cardCode": "03IO019",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT053.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT053-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "賦予1個友軍單位+0|+2與<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>法盾</style></link>。",
+    "descriptionRaw": "賦予1個友軍單位+0|+2與法盾。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「沐浴在她柔和的光芒下，接受她的祝福吧。」——月環女祭司",
+    "artistName": "Kudos Productions",
+    "name": "爍月流明",
+    "cardCode": "03MT053",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR017-full.png"
+      }
+    ],
+    "region": "弗雷爾卓德",
+    "regionRef": "Freljord",
+    "attack": 5,
+    "cost": 6,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：若我方<link=vocab.Behold><style=Vocab>掌控</style></link>魔耗值8點或以上的卡牌，則賦予1個友軍單位<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>與<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>再生</style></link>。",
+    "descriptionRaw": "出牌：若我方掌控魔耗值8點或以上的卡牌，則賦予1個友軍單位勢不可擋與再生。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "據說懂得古神之歌的巨魔不多，但學會便能呼喚祖先之名，賦予同胞驚人力量。",
+    "artistName": "Kudos Productions",
+    "name": "古魔占卜師",
+    "cardCode": "03FR017",
+    "keywords": [
+      "勢不可擋",
+      "再生"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054",
+      "03MT054T1",
+      "03MT054"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT054T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT054T2-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "本回合給予所有友軍單位+2|+2。將1張<link=card.level1><style=AssociatedCard>雷歐娜</style></link>洗入我方牌組。\r\n<link=keyword.Daybreak><style=Keyword>破曉</style></link>：一次發動所有友軍單位的<link=keyword.Daybreak><style=Keyword>破曉</style></link>效果。",
+    "descriptionRaw": "本回合給予所有友軍單位+2|+2。將1張雷歐娜洗入我方牌組。\r\n破曉：一次發動所有友軍單位的破曉效果。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「對我們來說，她是天空中堅定不移的領袖、正午時閃耀的刀光，也是心中永不熄滅的火焰。」\n——日輪女祭司",
+    "artistName": "Kudos Productions",
+    "name": "雷歐娜 旭日晨光",
+    "cardCode": "03MT054T2",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT014-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 2,
+    "health": 1,
+    "description": "我方龍族魔耗值-1。",
+    "descriptionRaw": "我方龍族魔耗值-1。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "牠們巨大的身軀周圍雲霧繚繞，牠們悲哀的叫聲，似乎連天也為之而震。她知道接下來將會發生什麼，但她感受到的不是恐懼，而是命運溫暖的懷抱。",
+    "artistName": "Polar Engine",
+    "name": "龍族使者",
+    "cardCode": "03MT014",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058T2",
+      "03MT058T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT058-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予此牌及受此牌支援的友軍單位<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。將本回合只對此牌施放的最後一個我方法術複製，並施放在該友軍單位身上（此效果不可重複）。",
+    "descriptionRaw": "支援：本回合給予此牌及受此牌支援的友軍單位堅忍。將本回合只對此牌施放的最後一個我方法術複製，並施放在該友軍單位身上（此效果不可重複）。",
+    "levelupDescription": "此牌在場上時，我方以友軍單位為法術/技能目標或<link=vocab.Support><style=Vocab>支援</style></link>友軍單位7次或以上<style=Variable></style>。",
+    "levelupDescriptionRaw": "此牌在場上時，我方以友軍單位為法術/技能目標或支援友軍單位7次或以上。",
+    "flavorText": "「塔里克的溫柔與善良照亮了所有遇見他的人，激勵他們找到內心深處的溫暖，就算夜晚再怎麼寒冷，他們也能繼續前進。」——群峰占術師",
+    "artistName": "SIXMOREVODKA",
+    "name": "塔里克",
+    "cardCode": "03MT058",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT032-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "抽1張英雄牌，使其魔耗值-1，並賦予其+2|+2。",
+    "descriptionRaw": "抽1張英雄牌，使其魔耗值-1，並賦予其+2|+2。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「浩瀚無垠的夜空展現了人間與天界的無際鴻溝。但有些凡人力求成就崇高的目標，如果能受到群峰認可，他們就能升天化作繁星。」——群峰占術師",
+    "artistName": "Kudos Productions",
+    "name": "繁星密語",
+    "cardCode": "03MT032",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT098.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT098-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "賦予1個友軍單位+0|+2。",
+    "descriptionRaw": "賦予1個友軍單位+0|+2。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「我們的盾代表我們的信念、決心和對光明的信心！」——日輪持盾兵",
+    "artistName": "Kudos Productions",
+    "name": "太陽祝禱之力",
+    "cardCode": "03MT098",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT024-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 9,
+    "health": 0,
+    "description": "若我方<link=vocab.Behold><style=Vocab>掌控</style></link>天界牌，<br>則<link=keyword.Obliterate><style=Keyword>泯滅</style></link>2個敵軍單位。",
+    "descriptionRaw": "若我方掌控天界牌，則泯滅2個敵軍單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "恒星死亡時會產生非比尋常的爆炸，發出的光芒就連活著的恆星也能遮蓋。  ",
+    "artistName": "Kudos Productions",
+    "name": "超新星",
+    "cardCode": "03MT024",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT066.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT066-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 7,
+    "health": 0,
+    "description": "若我方<link=vocab.Behold><style=Vocab>掌控</style></link>天界牌，則賦予<link=vocab.Everywhere><style=Vocab>各處</style></link>友軍單位+2|+2。恢復我方的法術魔力。",
+    "descriptionRaw": "若我方掌控天界牌，則賦予各處友軍單位+2|+2。恢復我方的法術魔力。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「仰望夜空，讓耀眼的繁星映入眼簾，並讓它們的治癒之光充盈全身。」——索拉卡",
+    "artistName": "Kudos Productions",
+    "name": "宇宙星啟",
+    "cardCode": "03MT066",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT085"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT085.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT085-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "本回合<link=vocab.Silence><style=Vocab>沉默</style></link>1個單位。在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.me><style=AssociatedCard>靜寂噓鳴</style></link>。",
+    "descriptionRaw": "本回合沉默1個單位。在手牌生成1張飛逝靜寂噓鳴。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「他們會明白何謂寧靜。」——索拉卡",
+    "artistName": "Kudos Productions",
+    "name": "靜寂噓鳴",
+    "cardCode": "03MT085",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054T3",
+      "03MT054T2",
+      "03MT054T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT054.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT054-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Daybreak><style=Keyword>破曉</style></link>：<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
+    "descriptionRaw": "破曉：擊暈最強敵軍單位。",
+    "levelupDescription": "我方已發動4次或以上<link=keyword.Daybreak><style=Keyword>破曉</style></link><style=Variable></style>。",
+    "levelupDescriptionRaw": "我方已發動4次或以上破曉。",
+    "flavorText": "她傲然立於眾人之間，隨時準備戰鬥——她散發著耀眼的光芒，身穿深紅搭配金色的盔甲，雙眸如火焰般炯炯有神。當太陽升起，她頭上絢爛的光芒彷彿日光的加冕，在場的日輪教徒不禁垂下眼簾，不是因為羞愧，而是因為這是對耀眼的領袖應有的尊重。",
+    "artistName": "SIXMOREVODKA",
+    "name": "雷歐娜",
+    "cardCode": "03MT054",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006T3",
+      "03FR006"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR006T2-full.png"
+      }
+    ],
+    "region": "弗雷爾卓德",
+    "regionRef": "Freljord",
+    "attack": 5,
+    "cost": 5,
+    "health": 7,
+    "description": "召喚此牌時，在手牌生成1張<link=card.create><style=AssociatedCard>通天冰柱</style></link>。\r\n<link=vocab.Attack><style=Vocab>攻擊</style></link>：我方每<link=vocab.Behold><style=Vocab>掌控</style></link>1張魔耗值8點或以上的卡牌，則賦予此牌+1|+0。",
+    "descriptionRaw": "召喚此牌時，在手牌生成1張通天冰柱。\r\n攻擊：我方每掌控1張魔耗值8點或以上的卡牌，則賦予此牌+1|+0。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "聽到艾伐洛森人拒絕後，特朗德打了個手勢，巨魔便排山倒海地衝前，直闖艾伐洛森部落的深處，毫無顧忌地破壞任何擋路的東西。",
+    "artistName": "SIXMOREVODKA",
+    "name": "特朗德",
+    "cardCode": "03FR006T2",
+    "keywords": [
+      "勢不可擋",
+      "再生"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT075.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT075-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 3,
+    "health": 1,
+    "description": "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：<link=keyword.Invoke><style=Keyword>祈願</style></link>。",
+    "descriptionRaw": "夜臨：祈願。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「在廣闊的夜空中前行，有如朝聖者般的星星啊，請稍稍停下腳步，與我們分享你們的所見所聞。」——《夜之頌歌》",
+    "artistName": "Kudos Productions",
+    "name": "月環女祭司",
+    "cardCode": "03MT075",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO002T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO002T4-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "本回合給予1個友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>或1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。\r\n無法在戰鬥中施放，或用來對應其他法術。",
+    "descriptionRaw": "本回合給予1個友軍單位光盾或1個敵軍單位弱勢。\r\n無法在戰鬥中施放，或用來對應其他法術。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "小皮該保護……還是攻擊……？ ",
+    "artistName": "Kudos Productions",
+    "name": "帥啊小皮！",
+    "cardCode": "03IO002T4",
+    "keywords": [
+      "疾速",
+      "飛逝"
+    ],
+    "keywordRefs": [
+      "Burst",
+      "Fleeting"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT020-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：治癒1個友軍單位以及我方主堡3點生命。",
+    "descriptionRaw": "出牌：治癒1個友軍單位以及我方主堡3點生命。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「看到那個橫跨夜空的星星嗎？那是一隻成體的星角獸。年幼的星角獸會把牠們的治癒法力借給我們使用，而成體的星角獸則能自己駕馭那股力量。能看到並認出成體的星角獸，是一件非常幸運的事。不過，能夠照顧牠更為幸運。」——守星者里達利",
+    "artistName": "SIXMOREVODKA",
+    "name": "光輝星角獸",
+    "cardCode": "03MT020",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT071.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT071-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.Support><style=Vocab>支援</style></link>：賦予受此牌支援的友軍單位+0|+2。",
+    "descriptionRaw": "支援：賦予受此牌支援的友軍單位+0|+2。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "旅行時，你必須對這趟旅程敞開心胸，因為它必將改變你。旅行時，你會帶走一些新事物……並留下一部分過去的自己。 ",
+    "artistName": "SIXMOREVODKA",
+    "name": "漂泊旅者泰亞歷",
+    "cardCode": "03MT071",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01NX038"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03NX018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03NX018-full.png"
+      }
+    ],
+    "region": "諾克薩斯",
+    "regionRef": "Noxus",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>1個敵軍單位。\r\n若我方場上有<link=card.champ1><style=AssociatedCard>達瑞斯</style></link>，則進行<link=vocab.Rally><style=Vocab>備戰</style></link>。",
+    "descriptionRaw": "擊暈1個敵軍單位。\r\n若我方場上有達瑞斯，則進行備戰。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「我自己來就行了。」——達瑞斯",
+    "artistName": "Kudos Productions",
+    "name": "壓制",
+    "cardCode": "03NX018",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR008-full.png"
+      }
+    ],
+    "region": "弗雷爾卓德",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "本回合給予所有單位-3|-0，並對所有單位造成3點傷害。",
+    "descriptionRaw": "本回合給予所有單位-3|-0，並對所有單位造成3點傷害。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「把他們統統活埋！」——特朗德",
+    "artistName": "Kudos Productions",
+    "name": "地裂冰川",
+    "cardCode": "03FR008",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT077.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT077-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 10,
+    "health": 0,
+    "description": "將我方手牌補滿隨機<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link>天界牌。恢復所有魔力。",
+    "descriptionRaw": "將我方手牌補滿隨機飛逝天界牌。恢復所有魔力。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「據說有些星座是由凡人所幻化，他們的非凡事蹟使其在星空中獲得一席之地。」——群峰占術師",
+    "artistName": "Kudos Productions",
+    "name": "降世神話",
+    "cardCode": "03MT077",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT002-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 15,
+    "health": 0,
+    "description": "對所有敵軍單位造成15點傷害。\r\n每有1個龍族或天界友軍單位，則此牌魔耗值-2。",
+    "descriptionRaw": "對所有敵軍單位造成15點傷害。\r\n每有1個龍族或天界友軍單位，則此牌魔耗值-2。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「等時機成熟，也許我會拿符文大地來殺雞儆猴。或許我可以拖著這個被焚為灰燼、了無生機的空殼，作為他人永世的警惕。就像一個毫無用處的玩具一樣。再看看吧，目前還沒考慮太多。」——翱銳龍獸",
+    "artistName": "Kudos Productions",
+    "name": "天界殞落",
+    "cardCode": "03MT002",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO008T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO008-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "本回合將1個侍從單位幻化為1|1<link=card.summon><style=AssociatedCard>小松鼠</style></link>及<link=vocab.Silence><style=Vocab>沉默</style></link>。",
+    "descriptionRaw": "本回合將1個侍從單位幻化為1|1小松鼠及沉默。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「變可愛！」——露璐",
+    "artistName": "Kudos Productions",
+    "name": "幻想曲！",
+    "cardCode": "03IO008",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT010-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 7,
+    "cost": 7,
+    "health": 7,
+    "description": "召喚此牌時，本牌局我方每打出1張天界牌，則賦予此牌+1|+0。<style=Variable></style>",
+    "descriptionRaw": "召喚此牌時，本牌局我方每打出1張天界牌，則賦予此牌+1|+0。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「為了維護天空與大地之間的虛無，一個帶角守護者被放置在山頂上空的繁星之間。健壯又敏捷的牠每晚橫跨夜空尋找入侵者，驅逐它們時發生的衝擊強得令天空與大地震動。」——《牛頭族歷史》",
+    "artistName": "Kudos Productions",
+    "name": "毀滅者",
+    "cardCode": "03MT010",
+    "keywords": [
+      "勢不可擋",
+      "法盾"
+    ],
+    "keywordRefs": [
+      "Overwhelm",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT086.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT086-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：棄置1張牌，即可<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值3點或以下的天界牌。",
+    "descriptionRaw": "出牌：棄置1張牌，即可祈願1張魔耗值3點或以下的天界牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「這是我的最愛！我叫它『形而上的意識心理』，除非你這樣歪著頭看……這樣看起來就像兩支湯匙了。」",
+    "artistName": "Dao Le",
+    "name": "異想畫師",
+    "cardCode": "03MT086",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087T2",
+      "03MT087"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT087T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT087T1-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 11,
+    "cost": 10,
+    "health": 11,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值7點或以上的天界牌。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌隨機生成1張天界牌。\r\n我方的天界牌魔耗值為0。",
+    "descriptionRaw": "出牌：祈願1張魔耗值7點或以上的天界牌。\r\n回合開始：在手牌隨機生成1張天界牌。\r\n我方的天界牌魔耗值為0。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "翱銳龍獸俊美、雄偉且絕頂聰明。",
+    "artistName": "SIXMOREVODKA",
+    "name": "翱銳龍獸",
+    "cardCode": "03MT087T1",
+    "keywords": [
+      "血怒",
+      "法盾"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "龍族",
+    "subtypes": [
+      "龍族"
+    ],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT070.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT070-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=keyword.Invoke><style=Keyword>祈願</style></link>。",
+    "descriptionRaw": "出牌：祈願。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「我們並無不同，只是被高山、旅途和滿天繁星所分隔罷了。」",
+    "artistName": "Kudos Productions",
+    "name": "漂泊旅者",
+    "cardCode": "03MT070",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT019-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "本回合給予1個友軍單位<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>法盾</style></link>。",
+    "descriptionRaw": "本回合給予1個友軍單位法盾。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「應當敬畏群峰。」——塔里克",
+    "artistName": "Kudos Productions",
+    "name": "星護壁壘",
+    "cardCode": "03MT019",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO002T1",
+      "03IO002T5",
+      "03IO008T1",
+      "03IO002T4"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO002-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 2,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=vocab.Support><style=Vocab>支援</style></link>：本回合受此牌支援的友軍單位成長到4|4。",
+    "descriptionRaw": "支援：本回合受此牌支援的友軍單位成長到4|4。",
+    "levelupDescription": "我方友軍單位受到<link=vocab.Support><style=Vocab>支援</style></link>3次或以上<style=Variable></style>。",
+    "levelupDescriptionRaw": "我方友軍單位受到支援3次或以上。",
+    "flavorText": "「皮克斯，別擔心！我們會脫離林地的，而且我們會把所有東西都『變可愛』！準備好了嗎？！」",
+    "artistName": "SIXMOREVODKA",
+    "name": "露璐",
+    "cardCode": "03IO002",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO011-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 4,
+    "description": "<link=vocab.Strike><style=Vocab>打擊</style></link>：使此牌力量值加倍。",
+    "descriptionRaw": "打擊：使此牌力量值加倍。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "他之所以這麼壯，是因為他每天喝四杯橡果奶昔。",
+    "artistName": "Dao Le",
+    "name": "健壯松鼠",
+    "cardCode": "03IO011",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO009-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 4,
+    "cost": 3,
+    "health": 2,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "能量：104千焦耳(25大卡)；碳水化合物：5.88克；糖分：3.53克；膳食纖維：3克；脂肪：0.18克；蛋白質：0.98克；水：92克……",
+    "artistName": "Dao Le",
+    "name": "好吃精靈",
+    "cardCode": "03IO009",
+    "keywords": [
+      "吸血"
+    ],
+    "keywordRefs": [
+      "Lifesteal"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT023-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "對1個單位造成6點傷害。\r\n<link=keyword.Daybreak><style=Keyword>破曉</style></link>：造成傷害前，本回合先<link=vocab.Silence><style=Vocab>沉默</style></link>該單位。",
+    "descriptionRaw": "對1個單位造成6點傷害。\r\n破曉：造成傷害前，本回合先沉默該單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "能夠承受烈日凝視的生物屈指可數。",
+    "artistName": "Kudos Productions",
+    "name": "萬丈朝陽",
+    "cardCode": "03MT023",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO003-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 3,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：賦予1個友軍單位<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
+    "descriptionRaw": "出牌：賦予1個友軍單位隱密。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「噓，這邊！過了那個會走路的樹屋之後，我們得向左急轉彎，然後直走經過那些會說話的花朵。露璐，你有在聽嗎？露璐？露璐！露~璐！不。要。餵。它。們。」",
+    "artistName": "Dao Le",
+    "name": "嚮導精靈",
+    "cardCode": "03IO003",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT096.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT096-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>破曉</style></link>：<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值4點、5點或6點的天界牌。\r\n",
+    "descriptionRaw": "破曉：祈願1張魔耗值4點、5點或6點的天界牌。\r\n",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "和其他巨石峰人一樣，日輪教徒也會尋求星星的指引，因為他們深深信仰的太陽也是一顆星星。",
+    "artistName": "Grafit Studio",
+    "name": "日輪女祭司",
+    "cardCode": "03MT096",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03BW006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03BW006T1-full.png"
+      }
+    ],
+    "region": "比爾吉沃特",
+    "regionRef": "Bilgewater",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "對1個友軍單位造成2點傷害，然後對敵方主堡造成2點傷害。",
+    "descriptionRaw": "對1個友軍單位造成2點傷害，然後對敵方主堡造成2點傷害。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「讓他們沾滿你的血，然後放鯊魚咬人。」——優勝者傑克",
+    "artistName": "Kudos Productions",
+    "name": "鯊幫制裁",
+    "cardCode": "03BW006T1",
+    "keywords": [
+      "慢速",
+      "飛逝"
+    ],
+    "keywordRefs": [
+      "Slow",
+      "Fleeting"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT049-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "對2個敵軍單位依序造成4點與1點傷害。",
+    "descriptionRaw": "對2個敵軍單位依序造成4點與1點傷害。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「不幸地，塑星過程往往混亂難測，那些小岩石的降落地點無人能知。如果它們掉在你的頭上，把你無情地壓死，我只能獻上真摯的道歉。」——翱銳龍獸",
+    "artistName": "Kudos Productions",
+    "name": "流星雨",
+    "cardCode": "03MT049",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO008T1",
+      "03IO002",
+      "03IO002T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO002T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO002T5-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "本回合將1個侍從單位幻化為1|1<link=card.summon><style=AssociatedCard>小松鼠</style></link>並<link=vocab.Silence><style=Vocab>沉默</style></link>該單位。將1張<link=card.level1><style=AssociatedCard>露璐</style></link>洗入我方牌組。",
+    "descriptionRaw": "本回合將1個侍從單位幻化為1|1小松鼠並沉默該單位。將1張露璐洗入我方牌組。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「變可愛！」——露璐",
+    "artistName": "Kudos Productions",
+    "name": "露璐 幻想曲！",
+    "cardCode": "03IO002T5",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT044-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "<link=keyword.Daybreak><style=Keyword>破曉</style></link>：本回合給予此牌+4|+4。",
+    "descriptionRaw": "破曉：本回合給予此牌+4|+4。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「光明的守護者啊，你的憤怒如同正午的烈日一般燃燒，請務必懲罰闖入聖地的無禮之徒。」——耀日守護者銘文",
+    "artistName": "SIXMOREVODKA",
+    "name": "耀日守護者",
+    "cardCode": "03MT044",
+    "keywords": [
+      "勢不可擋"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR002-full.png"
+      }
+    ],
+    "region": "弗雷爾卓德",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "本回合給予1個友軍單位+0|+2，並給予1個敵軍單位<br>-2|-0。",
+    "descriptionRaw": "本回合給予1個友軍單位+0|+2，並給予1個敵軍單位-2|-0。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "巨魔戰歌的種類繁多，不同部落各有特色，且往往難以理解，不過它們都有一個相同之處，就是必定會令聽者膽顫心寒。 ",
+    "artistName": "Kudos Productions",
+    "name": "巨魔戰歌",
+    "cardCode": "03FR002",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03NX016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03NX016-full.png"
+      }
+    ],
+    "region": "諾克薩斯",
+    "regionRef": "Noxus",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "對1個友軍單位與1個敵軍單位造成1點傷害4次。",
+    "descriptionRaw": "對1個友軍單位與1個敵軍單位造成1點傷害4次。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「你要小心的不是猛獸的利爪，而是牠們永遠無法滿足的胃口。」——巨異蜥馴獸師",
+    "artistName": "Kudos Productions",
+    "name": "鑿擊",
+    "cardCode": "03NX016",
+    "keywords": [
+      "技能"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "技能",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO010-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 1,
+    "cost": 2,
+    "health": 1,
+    "description": "<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予受此牌支援的友軍單位<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>與+1|+0。",
+    "descriptionRaw": "支援：本回合給予受此牌支援的友軍單位快速攻擊與+1|+0。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "列貝利·蒙塔古爵士離鄉背井，心想完成偉大任務，或討好豪門世家。只不過造物弄人，命運帶領他走進班德爾之森，結果被年輕的布莉變成青蛙，並被迫陪伴她冒險，真可憐！",
+    "artistName": "Dao Le",
+    "name": "少女巫",
+    "cardCode": "03IO010",
+    "keywords": [
+      "隱密"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT041-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 1,
+    "description": "<link=vocab.Support><style=Vocab>支援</style></link>：賦予受此牌支援的友軍單位+2|+2。\r\n<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：在手牌生成3張<link=card.create><style=AssociatedCard>靈力寶石</style></link>。",
+    "descriptionRaw": "支援：賦予受此牌支援的友軍單位+2|+2。\r\n遺願：在手牌生成3張靈力寶石。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「剛才他說的，你聽得懂嗎？」\n「一個字都不懂，但應該是好話。」\n——居山者埃爾米和海利",
+    "artistName": "SIXMOREVODKA",
+    "name": "群岩導師",
+    "cardCode": "03MT041",
+    "keywords": [
+      "遺願"
+    ],
+    "keywordRefs": [
+      "LastBreath"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT043-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 6,
+    "health": 0,
+    "description": "<link=keyword.Obliterate><style=Keyword>泯滅</style></link>1個敵軍單位。",
+    "descriptionRaw": "泯滅1個敵軍單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「我會讓繁星穿越這個令人難以忍受的地方，那個場面一定會盛大壯觀。」——翱銳龍獸",
+    "artistName": "Kudos Productions",
+    "name": "彗星墜擊",
+    "cardCode": "03MT043",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT028-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>破曉</style></link>：本回合給予此牌+0|+4。",
+    "descriptionRaw": "破曉：本回合給予此牌+0|+4。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「真愚蠢，竟然不選擇在夜晚偷襲。」日輪持盾兵挺直身體。「放下武器投降吧。」\n月環教徒一言不發，蹲下來，緊握彎刀擺好架勢。\n同樣地，日輪持盾兵舉起盾牌，反射日出太陽的光芒。\n一場激戰在所難免。 ",
+    "artistName": "Kudos Productions",
+    "name": "日輪持盾兵",
+    "cardCode": "03MT028",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT022-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 8,
+    "cost": 9,
+    "health": 8,
+    "description": "召喚此牌時，本牌局我方每打出1張天界牌，則賦予此牌+1|+0。<style=Variable></style>\r\n此牌為龍族牌。",
+    "descriptionRaw": "召喚此牌時，本牌局我方每打出1張天界牌，則賦予此牌+1|+0。\r\n此牌為龍族牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「啊，我最喜歡的星座。我總想著它會率先落在這個杳無人煙的山上。」——翱銳龍獸",
+    "artistName": "Kudos Productions",
+    "name": "彼岸世界",
+    "cardCode": "03MT022",
+    "keywords": [
+      "隱密",
+      "血怒",
+      "法盾"
+    ],
+    "keywordRefs": [
+      "Elusive",
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界",
+      "龍族"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT072.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT072-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "無數挑戰等待著想登上巨石峰頂的人，有些像無止盡的攀升一樣，會慢慢削弱胸懷大志者的精力，有些則是更加急迫的威脅。",
+    "artistName": "Jihun Lee",
+    "name": "混源龍怪",
+    "cardCode": "03MT072",
+    "keywords": [
+      "血怒",
+      "法盾"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "龍族",
+    "subtypes": [
+      "龍族"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT092T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT025-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "以<link=card.create><style=AssociatedCard>靈力寶石</style></link>補滿我方手牌。",
+    "descriptionRaw": "以靈力寶石補滿我方手牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「把寶石轉動到適當的角度，便能反射出奪目光輝；每個人的生命也一樣，內心都有一把燃燒著的火。」——塔里克",
+    "artistName": "Kudos Productions",
+    "name": "石峰破片",
+    "cardCode": "03MT025",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT018"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT017-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "將5張<link=card.shuffle><style=AssociatedCard>星犬信使</style></link>洗入我方牌組。",
+    "descriptionRaw": "將5張星犬信使洗入我方牌組。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「時光流逝，星移斗轉，靈犬座取代了巨蛇座的位置，豐收的季節即將到來……」——月環教女祭司",
+    "artistName": "Max Grecke",
+    "name": "星犬之印",
+    "cardCode": "03MT017",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT051-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "治癒1個友軍單位或我方主堡2點生命。抽1張牌。",
+    "descriptionRaw": "治癒1個友軍單位或我方主堡2點生命。抽1張牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "星角獸開心時會散發最亮的光芒。",
+    "artistName": "Kudos Productions",
+    "name": "引導之觸",
+    "cardCode": "03MT051",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT012-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 6,
+    "cost": 10,
+    "health": 6,
+    "description": "本牌局我方每次指定友軍單位為法術或技能目標，或支援友軍單位，則此牌魔耗值-1。",
+    "descriptionRaw": "本牌局我方每次指定友軍單位為法術或技能目標，或支援友軍單位，則此牌魔耗值-1。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "仲裁者是登山的最終考驗，因為只有這個守護者的視線能穿透登山者外在的成就，直視他們內在的靈魂。",
+    "artistName": "SIXMOREVODKA",
+    "name": "凜峰仲裁者",
+    "cardCode": "03MT012",
+    "keywords": [
+      "勢不可擋"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR011-full.png"
+      }
+    ],
+    "region": "弗雷爾卓德",
+    "regionRef": "Freljord",
+    "attack": 7,
+    "cost": 8,
+    "health": 7,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "聽到聲音前，他們便先感覺到了——大地在他們腳下震動，如雷巨響也隨即而來。\n梅里克抬起頭來，豎起耳朵，仔細聆聽。\n「是什麼東西？」安雅一邊連忙悄悄問道，一邊拉弓，但梅里克已經在跑回小徑了。\n「快跑！」",
+    "artistName": "MAR Studio",
+    "name": "遠古巨魔烏孜珈",
+    "cardCode": "03FR011",
+    "keywords": [
+      "挑戰者",
+      "再生"
+    ],
+    "keywordRefs": [
+      "Challenger",
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT094.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT094-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：賦予此牌<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
+    "descriptionRaw": "夜臨：賦予此牌隱密。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「讓我們仰望天際，仰望太陽，仰望女神之……等等……什麼……？那是什麼……？」——日輪祭司",
+    "artistName": "Kudos Productions",
+    "name": "月環潛影者",
+    "cardCode": "03MT094",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT054T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT054T3-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
+    "descriptionRaw": "擊暈最強敵軍單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「他們越靠近天際，就越容易被太陽灼傷。」——雷歐娜\n",
+    "artistName": "Kudos Production",
+    "name": "日輪聖芒",
+    "cardCode": "03MT054T3",
+    "keywords": [
+      "技能"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "技能",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT076.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT076-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 4,
+    "health": 3,
+    "description": "我方的天界牌魔耗值-1。\r\n<link=vocab.Allegiance><style=Vocab>效忠</style></link>：<link=keyword.Invoke><style=Keyword>祈願</style></link>。",
+    "descriptionRaw": "我方的天界牌魔耗值-1。\r\n效忠：祈願。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「在星星的指引下，我們可以學到很多。對我們來說，恆常不變的星星能幫助我們找到方向。」",
+    "artistName": "SIXMOREVODKA",
+    "name": "群峰占術師",
+    "cardCode": "03MT076",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR005-full.png"
+      }
+    ],
+    "region": "弗雷爾卓德",
+    "regionRef": "Freljord",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "召喚此牌時，若我方<link=vocab.Behold><style=Vocab>掌控</style></link>魔耗值8點或以上的卡牌，則賦予此牌<link=keyword.Regeneration><sprite name=Regeneration><style=Keyword>再生</style></link>。",
+    "descriptionRaw": "召喚此牌時，若我方掌控魔耗值8點或以上的卡牌，則賦予此牌再生。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "當他們到了艾伐洛森木屋群的時候，便呼喚海格上前。她大聲一笑，舉起了她的武器「雪裂者」，預備把木屋敲成木碎。",
+    "artistName": "MAR Studio",
+    "name": "掠食巨魔",
+    "cardCode": "03FR005",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03SI005T3",
+      "03SI005T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI005-full.png"
+      }
+    ],
+    "region": "闇影島",
+    "regionRef": "ShadowIsles",
+    "attack": 5,
+    "cost": 4,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：賦予1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>，且本回合給予所有敵軍單位<nobr>-1|-0</nobr>。",
+    "descriptionRaw": "夜臨：賦予1個敵軍單位弱勢，且本回合給予所有敵軍單位-1|-0。",
+    "levelupDescription": "我方以5個或以上<link=keyword.Nightfall><style=Keyword>夜臨</style></link>友軍單位攻擊<style=Variable></style>。",
+    "levelupDescriptionRaw": "我方以5個或以上夜臨友軍單位攻擊。",
+    "flavorText": "「看來，一旦驚動太多靈魂，牠就會入侵我們的世界。只有希望才能把怪物送回原本的世界……但希望早已隨著皇后的最後一口氣，以及國王無盡的痛苦哀號，永遠消逝了。」\n——歷史學家延斯．托曼的筆記",
+    "artistName": "SIXMOREVODKA",
+    "name": "夜曲",
+    "cardCode": "03SI005",
+    "keywords": [
+      "威嚇"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03IO002T5",
+      "03IO002",
+      "03IO008T1",
+      "03IO002T4"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO002T1-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 3,
+    "health": 4,
+    "description": "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.create><style=AssociatedCard>帥啊小皮！</style></link>。\r\n<link=vocab.Support><style=Vocab>支援</style></link>：本回合受此牌支援的友軍單位成長到5|5。",
+    "descriptionRaw": "回合開始：在手牌生成1張飛逝帥啊小皮！。\r\n支援：本回合受此牌支援的友軍單位成長到5|5。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「哇！皮克斯，你看！這個地方很新奇耶！我們也來為它增添色彩吧！」",
+    "artistName": "SIXMOREVODKA",
+    "name": "露璐",
+    "cardCode": "03IO002T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR018-full.png"
+      }
+    ],
+    "region": "弗雷爾卓德",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "從我方牌組最上方4張牌中，抽出每張雪怪、普羅與厄努克，然後將其餘卡牌洗回我方牌組。",
+    "descriptionRaw": "從我方牌組最上方4張牌中，抽出每張雪怪、普羅與厄努克，然後將其餘卡牌洗回我方牌組。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「然後一隻超~巨大的厄努克從樹後衝出來，上面騎著一隻超~小的普羅，然後還有一隻友善的雪怪，他們想跟朋友一起玩，所以就大喊『哇啊啊啊啊』，一起跑下山，然後……」——年輕的英格瓦",
+    "artistName": "Kudos Productions",
+    "name": "野性呼喚",
+    "cardCode": "03FR018",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087T2",
+      "03MT087T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT087.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT087-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 10,
+    "cost": 10,
+    "health": 10,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值7點或以上的天界牌。\r\n<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：在手牌隨機生成1張天界牌。",
+    "descriptionRaw": "出牌：祈願1張魔耗值7點或以上的天界牌。\r\n回合開始：在手牌隨機生成1張天界牌。",
+    "levelupDescription": "<link=vocab.RoundEnd><style=Vocab>回合結束</style></link>：我方場上友軍單位力量值總和達20點或以上<style=Variable></style>。",
+    "levelupDescriptionRaw": "回合結束：我方場上友軍單位力量值總和達20點或以上。",
+    "flavorText": "「我才不在乎你這個凡人怎麼描述我呢！只要說我俊美、雄偉且絕頂聰明就好。要不要我教你怎麼寫啊？」",
+    "artistName": "SIXMOREVODKA",
+    "name": "翱銳龍獸",
+    "cardCode": "03MT087",
+    "keywords": [
+      "血怒",
+      "法盾"
+    ],
+    "keywordRefs": [
+      "Fury",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtype": "龍族",
+    "subtypes": [
+      "龍族"
+    ],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058T2",
+      "03MT058"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT058T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT058T1-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 4,
+    "health": 5,
+    "description": "<link=vocab.Support><style=Vocab>支援</style></link>：本回合此牌及受此牌支援的友軍單位免疫傷害及死亡。將本回合只對此牌施放的最後一個我方法術複製，並施放在該友軍單位身上（此效果不可重複）。",
+    "descriptionRaw": "支援：本回合此牌及受此牌支援的友軍單位免疫傷害及死亡。將本回合只對此牌施放的最後一個我方法術複製，並施放在該友軍單位身上（此效果不可重複）。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「塔里克為何要對人類同胞釋出善意？這個心靈受創的男人來到了巨石峰，打算爬到山頂贖罪……而他最後成功了。因此沒有人比他更了解，所有支離破碎的事物都能再次變得美麗。」——群峰占術師",
+    "artistName": "SIXMOREVODKA",
+    "name": "塔里克",
+    "cardCode": "03MT058T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT029-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 3,
+    "description": "每當我方治癒負傷的友軍單位，便賦予此牌+2|+0。",
+    "descriptionRaw": "每當我方治癒負傷的友軍單位，便賦予此牌+2|+0。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「自從我看到一隻星角獸劃破夜空之後，我就喜歡牠們。誰知道，現在我竟然會遇上這麼多！」",
+    "artistName": "SIXMOREVODKA",
+    "name": "星辰牧羊人",
+    "cardCode": "03MT029",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR010-full.png"
+      }
+    ],
+    "region": "弗雷爾卓德",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：若我方<link=vocab.Behold><style=Vocab>掌控</style></link>魔耗值8點或以上的卡牌，本回合額外獲得1顆魔力寶石。",
+    "descriptionRaw": "回合開始：若我方掌控魔耗值8點或以上的卡牌，本回合額外獲得1顆魔力寶石。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「起來吧，眾大古神，起來吧！\n冰雪支配者，劃破天空吧！\n起來吧，眾大古神，起來吧！\n賜我們力量，則他們死亡！」\n——巨魔戰歌",
+    "artistName": "Wild Blue Studio",
+    "name": "古魔遺跡",
+    "cardCode": "03FR010",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT078.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT078-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "若我方<link=vocab.Behold><style=Vocab>掌控</style></link>天界牌，則<link=keyword.Obliterate><style=Keyword>泯滅</style></link>所有力量值3點或以下的敵軍單位。",
+    "descriptionRaw": "若我方掌控天界牌，則泯滅所有力量值3點或以下的敵軍單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "在最初的黑暗中，生命的火花在宇宙中擴散開來。我們永遠不會知道它發出了什麼樣的聲音，散發什麼樣的光芒，因為當時文字仍未誕生，也沒人能見證生命的起源。 ",
+    "artistName": "Kudos Productions",
+    "name": "宇宙稜光",
+    "cardCode": "03MT078",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT092T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT092T1-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "治癒1個友軍單位1點生命，並賦予其+1|+0。\r\n無法在戰鬥中施放，或用來對應其他法術。",
+    "descriptionRaw": "治癒1個友軍單位1點生命，並賦予其+1|+0。\r\n無法在戰鬥中施放，或用來對應其他法術。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「不需要眼見為憑……只要有信心即可。」——漂泊旅者泰亞歷",
+    "artistName": "Kudos Productions",
+    "name": "靈力寶石",
+    "cardCode": "03MT092T1",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT062-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 3,
+    "health": 2,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：若我方<link=vocab.Behold><style=Vocab>掌控</style></link>天界牌，則賦予1個友軍單位+1|+1與<link=keyword.SpellShield><sprite name=SpellShield><style=Keyword>法盾</style></link>。",
+    "descriptionRaw": "出牌：若我方掌控天界牌，則賦予1個友軍單位+1|+1與法盾。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「……然後呢，火花蟲就像掉到地上的星塵一樣，然後呢，又飛起來，超棒的，然後呢，我昨晚看到一隻，超漂亮的，然後呢，我肚子餓了，然後呢，它飛上天空，變成了星星，然後呢……」",
+    "artistName": "Dao Le",
+    "name": "亮晶晶研究家",
+    "cardCode": "03MT062",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT082.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT082-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "本回合給予所有友軍單位+2|+2。\r\n<link=keyword.Daybreak><style=Keyword>破曉</style></link>：一次發動所有友軍單位的<link=keyword.Daybreak><style=Keyword>破曉</style></link>效果。",
+    "descriptionRaw": "本回合給予所有友軍單位+2|+2。\r\n破曉：一次發動所有友軍單位的破曉效果。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「我們隨著黎明而起！邁向光明！」——雷歐娜",
+    "artistName": "Kudos Productions",
+    "name": "旭日晨光",
+    "cardCode": "03MT082",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT065.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT065-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 1,
+    "health": 0,
+    "description": "<link=vocab.Silence><style=Vocab>沉默</style></link>1個侍從單位。",
+    "descriptionRaw": "沉默1個侍從單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "星星之間的空間，只有絕對的沉默。",
+    "artistName": "Max Grecke",
+    "name": "寂靜星河",
+    "cardCode": "03MT065",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT047-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 2,
+    "description": "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：本回合給予此牌與1個友軍單位<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
+    "descriptionRaw": "夜臨：本回合給予此牌與1個友軍單位隱密。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "席格納斯靜等日落，等待黑夜的掩護。雖然前面的路看起來寂寥無人，但這名月環教徒很清楚日輪教營地就在前頭。他擺出手勢，跟隨者便無聲無息地在他身後列隊。",
+    "artistName": "JiHun Lee",
+    "name": "逐月者席格納斯",
+    "cardCode": "03MT047",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT038-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 4,
+    "health": 4,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「首先結識這些較年輕且愛好和平的龍族，是居住在巨石峰的孩童。也許是由於這些幼龍能夠感應到孩童的純真好奇之心，所以牠們選擇不傷害他們，反過來保護他們。」 ",
+    "artistName": "Aron Elekes",
+    "name": "白燄衛龍",
+    "cardCode": "03MT038",
+    "keywords": [
+      "血怒"
+    ],
+    "keywordRefs": [
+      "Fury"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "龍族",
+    "subtypes": [
+      "龍族"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT050-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "據說夜空中最強熾的星星是戰士之星，這個看似不朽的古老存在下凡展現驍勇善戰之姿。他戰無不勝，然而故事總有結束的一天，星辰也必有消殞的一日。",
+    "artistName": "Kudos Productions",
+    "name": "戰士之星",
+    "cardCode": "03MT050",
+    "keywords": [
+      "挑戰者"
+    ],
+    "keywordRefs": [
+      "Challenger"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT087",
+      "03MT087T1",
+      "03MT087"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT087T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT087T2-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 15,
+    "health": 0,
+    "description": "對所有敵軍單位造成15點傷害。\r\n每有1個龍族或天界友軍單位，則此牌魔耗值-2。\r\n將1張<link=card.level1><style=AssociatedCard>翱銳龍獸</style></link>洗入我方牌組。",
+    "descriptionRaw": "對所有敵軍單位造成15點傷害。\r\n每有1個龍族或天界友軍單位，則此牌魔耗值-2。\r\n將1張翱銳龍獸洗入我方牌組。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「等時機成熟，也許我會拿符文大地來殺雞儆猴。或許我可以拖著這個被焚為灰燼、了無生機的空殼，作為他人永世的警惕。就像一個毫無用處的玩具一樣。再看看吧，目前還沒考慮太多。」——翱銳龍獸",
+    "artistName": "Kudos Productions",
+    "name": "翱銳龍獸 天界殞落",
+    "cardCode": "03MT087T2",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT081.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT081-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=vocab.Support><style=Vocab>支援</style></link>：賦予受此牌支援的友軍單位+2|+2。若該單位有<link=vocab.Support><style=Vocab>支援</style></link>特性，則同樣賦予受其支援的友軍單位+2|+2，以此類推。",
+    "descriptionRaw": "支援：賦予受此牌支援的友軍單位+2|+2。若該單位有支援特性，則同樣賦予受其支援的友軍單位+2|+2，以此類推。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "所有敢於挑戰巨石峰的人都有自己的原因。有些人是為了向同儕證明自己，有些人則全然是為了自己。",
+    "artistName": "SIXMOREVODKA",
+    "name": "群峰旅者",
+    "cardCode": "03MT081",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03PZ017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03PZ017-full.png"
+      }
+    ],
+    "region": "皮爾托福 & 佐恩",
+    "regionRef": "PiltoverZaun",
+    "attack": 0,
+    "cost": 4,
+    "health": 0,
+    "description": "對1個單位造成1點傷害。隨機召喚1個魔耗值<style=Variable>1</style>的單位。此牌在手中時，當我方打出1張魔耗值3點的卡牌，則造成的傷害值與召喚單位魔耗值皆增加1。",
+    "descriptionRaw": "對1個單位造成1點傷害。隨機召喚1個魔耗值1的單位。此牌在手中時，當我方打出1張魔耗值3點的卡牌，則造成的傷害值與召喚單位魔耗值皆增加1。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「……一、二、三！！！噢。噢，我的天啊……又是無法預料的結果？！」——漢默丁格",
+    "artistName": "Kudos Productions",
+    "name": "三雷射爆破炮",
+    "cardCode": "03PZ017",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT007-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 3,
+    "health": 2,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「就如任何幼獸一樣，年幼的星角獸終有一日必須首次飛翔。在這個意義上，牠們跟夜空流星一樣，一瞬間就會墜落。幸好有我們在這裡接住牠們，然後等牠們準備好了，讓牠們回歸天空。」——守星者里達利",
+    "artistName": "SIXMOREVODKA",
+    "name": "星角幼獸",
+    "cardCode": "03MT007",
+    "keywords": [
+      "吸血",
+      "法盾"
+    ],
+    "keywordRefs": [
+      "Lifesteal",
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT015-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "<link=keyword.Invoke><style=Keyword>祈願</style></link>。",
+    "descriptionRaw": "祈願。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "璀璨繁星高掛天上，替遼闊夜空綴滿點點星光。與廣大無邊的天空比起來，你是那麼的渺小。你會首先望向哪處呢？",
+    "artistName": "Kudos Productions",
+    "name": "無窮掌控 ",
+    "cardCode": "03MT015",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI006T1-full.png"
+      }
+    ],
+    "region": "闇影島",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "從敵方主堡汲取2點生命值。",
+    "descriptionRaw": "從敵方主堡汲取2點生命值。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "誰比你更了解自己呢？最能折磨人心的，莫過於自己的夢魘。",
+    "artistName": "Kudos Productions",
+    "name": "殘酷折磨",
+    "cardCode": "03SI006T1",
+    "keywords": [
+      "技能"
+    ],
+    "keywordRefs": [
+      "Skill"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "技能",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT058",
+      "03MT058T1",
+      "03MT058"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT058T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT058T2-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "賦予1個友軍單位+3|+3。\r\n將1張<link=card.level1><style=AssociatedCard>塔里克</style></link>洗入我方牌組。",
+    "descriptionRaw": "賦予1個友軍單位+3|+3。\r\n將1張塔里克洗入我方牌組。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「來自巨石峰的一點小心意。」——塔里克",
+    "artistName": "Max Grecke",
+    "name": "塔里克 巨石峰的祝福",
+    "cardCode": "03MT058T2",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006T3",
+      "03FR006T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR006-full.png"
+      }
+    ],
+    "region": "弗雷爾卓德",
+    "regionRef": "Freljord",
+    "attack": 4,
+    "cost": 5,
+    "health": 6,
+    "description": "召喚此牌時，在手牌生成1張<link=card.create><style=AssociatedCard>通天冰柱</style></link>。",
+    "descriptionRaw": "召喚此牌時，在手牌生成1張通天冰柱。",
+    "levelupDescription": "此牌在場上時，我方打出<link=card.create><style=AssociatedCard>通天冰柱</style></link>。",
+    "levelupDescriptionRaw": "此牌在場上時，我方打出通天冰柱。",
+    "flavorText": "火把接二連三點起，點亮了整條小徑。那裡站著幾十甚至上百隻巨魔，每隻都身軀龐大，殺氣騰騰。\n「我再問一次，」特朗德大聲咆哮，並把凍骨者托在肩上。「你們要投降，還是要我敲破你們的腦袋？」",
+    "artistName": "SIXMOREVODKA",
+    "name": "特朗德",
+    "cardCode": "03FR006",
+    "keywords": [
+      "再生"
+    ],
+    "keywordRefs": [
+      "Regeneration"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT054T3",
+      "03MT054T2",
+      "03MT054"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT054T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT054T1-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 4,
+    "health": 6,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword></style></link><link=keyword.Daybreak><style=Keyword>破曉</style></link>或我方發動其他<link=keyword.Daybreak><style=Keyword>破曉</style></link>效果時：<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
+    "descriptionRaw": "破曉或我方發動其他破曉效果時：擊暈最強敵軍單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "雷歐娜早已做好萬全準備，她知道黛安娜會為了逃離陽光而飛奔下山。她深吸一口氣，用堅定的決心讓撲通亂跳的心平靜下來。這次交戰，雷歐娜占上風；這一次，她會正面迎擊老朋友。",
+    "artistName": "SIXMOREVODKA",
+    "name": "雷歐娜",
+    "cardCode": "03MT054T1",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI003-full.png"
+      }
+    ],
+    "region": "闇影島",
+    "regionRef": "ShadowIsles",
+    "attack": 2,
+    "cost": 1,
+    "health": 1,
+    "description": "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：本回合給予此牌+2|+0與<link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>威嚇</style></link>。",
+    "descriptionRaw": "夜臨：本回合給予此牌+2|+0與威嚇。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "當太陽沒入地平線，此地的駭人之物便會甦醒，開始虎視眈眈，等待獵物上鉤。",
+    "artistName": "SIXMOREVODKA",
+    "name": "幽暗圍觀者",
+    "cardCode": "03SI003",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03NX016"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03NX017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03NX017-full.png"
+      }
+    ],
+    "region": "諾克薩斯",
+    "regionRef": "Noxus",
+    "attack": 7,
+    "cost": 7,
+    "health": 4,
+    "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：對1個友軍單位與1個敵軍單位造成1點傷害4次。",
+    "descriptionRaw": "出牌：對1個友軍單位與1個敵軍單位造成1點傷害4次。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "戰鬥前幾天，巨異蜥馴獸師不會讓牠們吃活的獵物。等到那些猛獸被釋放時，牠們會變得不分敵友，並且所向無敵。",
+    "artistName": "Kudos Productions",
+    "name": "巨異蜥血魔",
+    "cardCode": "03NX017",
+    "keywords": [
+      "勢不可擋"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT026-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 5,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=keyword.Daybreak><style=Keyword>破曉</style></link>：在手牌隨機生成1張<link=keyword.Daybreak><style=Keyword>破曉</style></link>牌。\r\n此牌在場上時，我方單位不論日夜皆可觸發破曉。",
+    "descriptionRaw": "破曉：在手牌隨機生成1張破曉牌。\r\n此牌在場上時，我方單位不論日夜皆可觸發破曉。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「拉克爾，保持信念，我們的光輝就會永不熄滅！」",
+    "artistName": "JiHun Lee",
+    "name": "日光之矛拉馮",
+    "cardCode": "03MT026",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI002-full.png"
+      }
+    ],
+    "region": "闇影島",
+    "regionRef": "ShadowIsles",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "從任1目標汲取1點生命值。\r\n<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：在手牌隨機生成1張<link=keyword.Nightfall><style=Keyword>夜臨</style></link>牌。",
+    "descriptionRaw": "從任1目標汲取1點生命值。\r\n夜臨：在手牌隨機生成1張夜臨牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「隨著時間過去，我的精神，以及當初驅使我找到這裡的幹勁都逐漸被消磨殆盡。鯨牙酒吧的人個個形容枯槁，似乎已放棄做任何努力，我怕我在這裡待越久，就會變得越來越像他們。」\n——歷史學家延斯．托曼的筆記",
+    "artistName": "Kudos Productions",
+    "name": "深宵斷魂",
+    "cardCode": "03SI002",
+    "keywords": [
+      "快速"
+    ],
+    "keywordRefs": [
+      "Fast"
+    ],
+    "spellSpeed": "快速",
+    "spellSpeedRef": "Fast",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01PZ020"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03PZ018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03PZ018-full.png"
+      }
+    ],
+    "region": "皮爾托福 & 佐恩",
+    "regionRef": "PiltoverZaun",
+    "attack": 0,
+    "cost": 0,
+    "health": 0,
+    "description": "棄置1張牌即可出此牌。\r\n在手牌生成2張<link=card.create><style=AssociatedCard>大膽普羅</style></link>。",
+    "descriptionRaw": "棄置1張牌即可出此牌。\r\n在手牌生成2張大膽普羅。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "兩個毛茸茸的身影從熱情的群眾頭上劃過天際，在身後留下一團絨毛和淡淡的烘焙香",
+    "artistName": "Kudos Productions",
+    "name": "普羅大砲",
+    "cardCode": "03PZ018",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT003-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "抽出2張不同的龍族牌或賦予龍族友軍單位+1|+1。",
+    "descriptionRaw": "抽出2張不同的龍族牌或賦予龍族友軍單位+1|+1。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「牠們的叫聲聽起來就像刺耳的貓叫，聽到時一定要拔腿就跑，並通知最近的守衛，知道了嗎？因為龍蛋附近一定有龍族徘徊。」——巨石峰覓食者",
+    "artistName": "Kudos Productions",
+    "name": "龍族之巢",
+    "cardCode": "03MT003",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT011-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>2個敵軍單位。",
+    "descriptionRaw": "擊暈2個敵軍單位。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「月光也能耀眼奪目。」——黛安娜",
+    "artistName": "Kudos Productions",
+    "name": "月牙衝擊",
+    "cardCode": "03MT011",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT088.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT088-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 1,
+    "health": 2,
+    "description": "<link=keyword.Daybreak><style=Keyword>破曉</style></link>：本回合給予此牌+1|+1。",
+    "descriptionRaw": "破曉：本回合給予此牌+1|+1。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "當升起的太陽溫暖了他的身子，他看守著異教徒的牢房，對囚犯的輕聲哀求充耳不聞，對方也很快就沉默了。",
+    "artistName": "Wild Blue Studio",
+    "name": "日輪士兵",
+    "cardCode": "03MT088",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT089.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT089-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：賦予此牌+2|+0。",
+    "descriptionRaw": "夜臨：賦予此牌+2|+0。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「堅毅的守護者啊，溫柔的滿月之光將恢復你的力量。甦醒吧，請保護我們，阻止闖入聖地的無禮之徒。」——新月守護者銘文",
+    "artistName": "Aron Elekes",
+    "name": "新月守護者",
+    "cardCode": "03MT089",
+    "keywords": [
+      "勢不可擋"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "01DE016"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03DE012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03DE012-full.png"
+      }
+    ],
+    "region": "蒂瑪西亞",
+    "regionRef": "Demacia",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "每召喚1個菁英單位時，<br>使此牌魔耗值-1。\r\n本回合每有1個友軍單位陣亡，則召喚1個<link=card.summon><style=AssociatedCard>無畏先鋒</style></link>。",
+    "descriptionRaw": "每召喚1個菁英單位時，使此牌魔耗值-1。\r\n本回合每有1個友軍單位陣亡，則召喚1個無畏先鋒。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「一個士兵倒下，另一個就得頂上。不能讓我們的旌旗倒下。」——蓋倫",
+    "artistName": "Kudos Productions",
+    "name": "哀兵必勝",
+    "cardCode": "03DE012",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "史詩",
+    "rarityRef": "Epic",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056T2",
+      "03MT056T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT056-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 2,
+    "description": "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：本回合給予此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。",
+    "descriptionRaw": "夜臨：本回合給予此牌挑戰者。",
+    "levelupDescription": "我方已發動4次或以上<link=keyword.Nightfall><style=Keyword>夜臨</style></link><style=Variable></style>。",
+    "levelupDescriptionRaw": "我方已發動4次或以上夜臨。",
+    "flavorText": "她傲然立於眾人之間，隨時準備戰鬥——她散發著耀眼的光芒，身穿銀色搭配藍色的盔甲，雙眸如星星般閃爍。當月亮升起，月光灑落在她身上，在場的月環教徒便閉上眼睛，為她的安全默默祈禱，也表達他們的感激之情。",
+    "artistName": "SIXMOREVODKA",
+    "name": "黛安娜",
+    "cardCode": "03MT056",
+    "keywords": [
+      "快速攻擊"
+    ],
+    "keywordRefs": [
+      "QuickStrike"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "英雄",
+    "rarityRef": "Champion",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT073T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT073.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT073-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 1,
+    "health": 1,
+    "description": "召喚此牌時，<br>在手牌生成1張<link=card.create><style=AssociatedCard>暮花之塵</style></link>。",
+    "descriptionRaw": "召喚此牌時，在手牌生成1張暮花之塵。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「暮花只在滿月時綻放，是月環教引以為傲的象徵。我們使用暮花之塵已有數百年歷史，只有我們知道正確的採集方式。」",
+    "artistName": "JiHun Lee",
+    "name": "月環喚暮者",
+    "cardCode": "03MT073",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03FR006T1",
+      "03FR006",
+      "03FR006T2"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR006T3-full.png"
+      }
+    ],
+    "region": "弗雷爾卓德",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 0,
+    "description": "本回合給予所有單位-3|-0，並對所有單位造成3點傷害。\r\n將1張<link=card.level1><style=AssociatedCard>特朗德</style></link>洗入我方牌組。",
+    "descriptionRaw": "本回合給予所有單位-3|-0，並對所有單位造成3點傷害。\r\n將1張特朗德洗入我方牌組。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「把他們統統活埋！」——特朗德",
+    "artistName": "Kudos Productions",
+    "name": "特朗德 地裂冰川",
+    "cardCode": "03FR006T3",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT095.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT095-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 3,
+    "cost": 3,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「有一天，我像往常一樣做生意，結果有個看起來很有錢的公子哥大搖大擺走了進來。肯定很好騙，對吧？於是我用花言巧語，騙他以高價買下商品。直到我把金幣收起來，才發現那混帳小子竟然偷了我的錢再付給我！我告訴你，那晚的小丑座肯定特別明亮。」——約德爾騙子",
+    "artistName": "Kudos Productions",
+    "name": "江洋怪盜",
+    "cardCode": "03MT095",
+    "keywords": [
+      "隱密"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT027-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "賦予1個友軍單位+1|+2與<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。\r\n<link=keyword.Daybreak><style=Keyword>破曉</style></link>：抽1張<link=card.me><style=AssociatedCard>太陽聖劍</style></link>。",
+    "descriptionRaw": "賦予1個友軍單位+1|+2與勢不可擋。\r\n破曉：抽1張太陽聖劍。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「讓耀日的力量在你身上充盈灌注！」——日輪祭司",
+    "artistName": "Kudos Productions",
+    "name": "太陽聖劍",
+    "cardCode": "03MT027",
+    "keywords": [
+      "慢速"
+    ],
+    "keywordRefs": [
+      "Slow"
+    ],
+    "spellSpeed": "慢速",
+    "spellSpeedRef": "Slow",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT084.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT084-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "<link=keyword.Invoke><style=Keyword>祈願</style></link>1張魔耗值7點或以上的天界牌，並治癒1個友軍單位或我方主堡5點生命。",
+    "descriptionRaw": "祈願1張魔耗值7點或以上的天界牌，並治癒1個友軍單位或我方主堡5點生命。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「仰望星空吧。幸運的話，還會跟我四目相對呢。」——翱銳龍獸",
+    "artistName": "Kudos Productions",
+    "name": "星之誕",
+    "cardCode": "03MT084",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT016-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 2,
+    "cost": 2,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「哎喲，大大的星界象不想穿過小小的傳送門？沒關係，那我們……哈哈哈，騙你的，給我去吧！」——柔依",
+    "artistName": "SIXMOREVODKA",
+    "name": "害怕的星界象",
+    "cardCode": "03MT016",
+    "keywords": [
+      "勢不可擋"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03FR006T1-full.png"
+      }
+    ],
+    "region": "弗雷爾卓德",
+    "regionRef": "Freljord",
+    "attack": 0,
+    "cost": 8,
+    "health": 8,
+    "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：恢復8點魔力。\r\n<link=vocab.Play><style=Vocab>出牌</style></link>及<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：本回合給予<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    "descriptionRaw": "出牌：恢復8點魔力。\r\n出牌及回合開始：本回合給予最強敵軍單位弱勢。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「哈哈，沒想到吧！」——特朗德",
+    "artistName": "Kudos Productions",
+    "name": "通天冰柱",
+    "cardCode": "03FR006T1",
+    "keywords": [
+      "弱勢"
+    ],
+    "keywordRefs": [
+      "Vulnerable"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT059"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT059T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT059T1-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 6,
+    "health": 3,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「……儘管兩者皆由宇宙光所組成，\n雙方仍勢不兩立，因為她們實在太相似了。\n因此她們將白晝與黑夜區分開來，\n彼此都能隨心所欲、互不干涉……」\n——〈時光頌歌〉",
+    "artistName": "Kudos Productions",
+    "name": "銀色姊妹",
+    "cardCode": "03MT059T1",
+    "keywords": [
+      "隱密"
+    ],
+    "keywordRefs": [
+      "Elusive"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [
+      "03MT056",
+      "03MT056T1",
+      "03MT056"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT056T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT056T2-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "本回合給予1個友軍單位+2|+1。將1張<link=card.level1><style=AssociatedCard>黛安娜</style></link>洗入我方牌組。\r\n<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：抽1張牌。",
+    "descriptionRaw": "本回合給予1個友軍單位+2|+1。將1張黛安娜洗入我方牌組。\r\n夜臨：抽1張牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「在夜色掩護下，被蒼白的月亮守護著。」<br>——黛安娜",
+    "artistName": "Kudos Productions",
+    "name": "黛安娜 蒼白月瀑",
+    "cardCode": "03MT056T2",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT035-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "本回合給予1個友軍單位+2|+1。\r\n<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：抽1張牌。",
+    "descriptionRaw": "本回合給予1個友軍單位+2|+1。\r\n夜臨：抽1張牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「在夜色掩護下，被蒼白的月亮守護著。」<br>——黛安娜",
+    "artistName": "Kudos Productions",
+    "name": "蒼白月瀑",
+    "cardCode": "03MT035",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03IO018-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 3,
+    "cost": 4,
+    "health": 3,
+    "description": "當此牌受到支援時，本回合給予此牌+0|+3。\r\n<link=vocab.Support><style=Vocab>支援</style></link>：本回合給予受此牌支援的友軍單位+3|+0。",
+    "descriptionRaw": "當此牌受到支援時，本回合給予此牌+0|+3。\r\n支援：本回合給予受此牌支援的友軍單位+3|+0。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "紫色精靈是一群可愛的小生物，牠們會被遇上的所有人照顧……除了一些例外。",
+    "artistName": "Dao Le",
+    "name": "毛茸茸保育員",
+    "cardCode": "03IO018",
+    "keywords": [],
+    "keywordRefs": [],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT003T1-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "抽出2張不同的龍族牌。",
+    "descriptionRaw": "抽出2張不同的龍族牌。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "龍蛋（尖嘯飛龍：Draco murmurationis）\n筆記：上次轉動時，蛋殼變脆弱了，內部活動增加，表面出現裂痕，是否有破殼跡象？\n潦草筆記：蛋要孵化了！\n——書呆子研究者安登·梅恩的筆記",
+    "artistName": "Kudos Productions",
+    "name": "孵化的蛋",
+    "cardCode": "03MT003T1",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT090.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT090-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 4,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「在太陽底下，他的角金光閃閃，胸中燃起熊熊烈火。讓我們用盾牌重擊地面，如他的重蹄一般響徹雲霄！」——日輪戰前祈禱",
+    "artistName": "Kudos Productions",
+    "name": "衝鋒戰牛",
+    "cardCode": "03MT090",
+    "keywords": [
+      "勢不可擋"
+    ],
+    "keywordRefs": [
+      "Overwhelm"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "無",
+    "rarityRef": "None",
+    "subtype": "天界",
+    "subtypes": [
+      "天界"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03SI010-full.png"
+      }
+    ],
+    "region": "闇影島",
+    "regionRef": "ShadowIsles",
+    "attack": 2,
+    "cost": 5,
+    "health": 5,
+    "description": "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：本牌局我方每發動1次<link=keyword.Nightfall><style=Keyword>夜臨</style></link>，則賦予此牌+1|+0。<style=Variable></style>",
+    "descriptionRaw": "夜臨：本牌局我方每發動1次夜臨，則賦予此牌+1|+0。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "每當夕陽西下，夜晚就會張開漆黑的翅膀，抹去白天最後一絲希望。",
+    "artistName": "SIXMOREVODKA",
+    "name": "薄暮騎兵",
+    "cardCode": "03SI010",
+    "keywords": [
+      "威嚇"
+    ],
+    "keywordRefs": [
+      "Fearsome"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT036-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 5,
+    "health": 0,
+    "description": "賦予1個友軍單位+3|+3。",
+    "descriptionRaw": "賦予1個友軍單位+3|+3。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「來自巨石峰的一點小心意。」——塔里克",
+    "artistName": "Max Grecke",
+    "name": "巨石峰的祝福",
+    "cardCode": "03MT036",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "稀有",
+    "rarityRef": "Rare",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": true,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT003T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT003T2-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 0,
+    "cost": 3,
+    "health": 0,
+    "description": "賦予龍族友軍單位+1|+1。",
+    "descriptionRaw": "賦予龍族友軍單位+1|+1。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "龍蛋（尖嘯飛龍：Draco murmurationis）\n筆記：上次轉動時，蛋殼變脆弱了，內部活動增加，表面出現裂痕，是否有破殼跡象？\n潦草筆記：蛋要孵化了！\n——書呆子研究者安登·梅恩的筆記",
+    "artistName": "Kudos Productions",
+    "name": "破碎的蛋",
+    "cardCode": "03MT003T2",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set3"
+  },
+  {
+    "associatedCards": [],
+    "associatedCardRefs": [],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set3/zh_tw/img/cards/03MT039-full.png"
+      }
+    ],
+    "region": "巨石峰",
+    "regionRef": "Targon",
+    "attack": 1,
+    "cost": 1,
+    "health": 1,
+    "description": "",
+    "descriptionRaw": "",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "在太空中，再怎麼大聲尖叫都不會有人聽見。",
+    "artistName": "Dao Le",
+    "name": "普蝶",
+    "cardCode": "03MT039",
+    "keywords": [
+      "法盾"
+    ],
+    "keywordRefs": [
+      "SpellShield"
+    ],
+    "spellSpeed": "",
+    "spellSpeedRef": "",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "普羅",
+    "subtypes": [
+      "普羅"
+    ],
+    "supertype": "",
+    "type": "單位",
+    "collectible": true,
+    "set": "Set3"
+  }
+]

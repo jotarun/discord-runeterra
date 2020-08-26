@@ -222,6 +222,7 @@ client.on('message', message => {
 
         else {
             result.heroes.forEach(card => {
+                console.log(card.faction);            
                 deckEmbed.addField(`${regionEmoji[card.faction.id]} ${card.cost} 費 英雄`, `${card.name} x ${card.count}`, true);
             });
             result.minions.forEach(card => {

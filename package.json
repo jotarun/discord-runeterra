@@ -10,7 +10,7 @@
     "discord-command-parser": "^1.4.3",
     "discord.js": "^12.3.1",
     "require": "^2.4.20",
-    "runeterra": "^1.0.0",
+    "runeterra": "^2.0.0",
     "uglify-js": "^3.10.2"
   }
 }

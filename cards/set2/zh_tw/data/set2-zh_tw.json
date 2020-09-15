@@ -4,11 +4,11 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ001-full.png"
       }
     ],
-    "region": "皮爾托福 & 佐恩",
+    "region": "皮爾托福&佐恩",
     "regionRef": "PiltoverZaun",
     "attack": 1,
     "cost": 5,
@@ -43,8 +43,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW040.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW040-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW040.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW040-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -56,7 +56,7 @@
     "descriptionRaw": "",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「我最擅長命今平民白性，環有從不寫錯字」——寫在沙上的留言",
+    "flavorText": "「我最擅長命今平民白性，環有從不寫錯字」<br>——寫在沙上的留言",
     "artistName": "Kudos Productions",
     "name": "貝殼電擊者 ",
     "cardCode": "02BW040",
@@ -82,8 +82,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR009-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -121,11 +121,11 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ010-full.png"
       }
     ],
-    "region": "皮爾托福 & 佐恩",
+    "region": "皮爾托福&佐恩",
     "regionRef": "PiltoverZaun",
     "attack": 3,
     "cost": 2,
@@ -158,8 +158,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX001-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -197,8 +197,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW057.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW057-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW057.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW057-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -210,7 +210,7 @@
     "descriptionRaw": "",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「船長，我發誓我在珊瑚礁那邊看到了史上最奇怪的景象！那個笨蛋往橘子裡塞了什麼鬼啊，我一直在想……」——肖狗水手",
+    "flavorText": "「船長，我發誓我在珊瑚礁那邊看到了史上最奇怪的景象！那個笨蛋往橘子裡塞了什麼鬼啊，<br>我一直在想……」——肖狗水手",
     "artistName": "Kudos Productions",
     "name": "狡猾踏浪者",
     "cardCode": "02BW057",
@@ -238,8 +238,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE003-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -273,8 +273,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI005-full.png"
       }
     ],
     "region": "闇影島",
@@ -317,8 +317,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW032.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW032-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW032.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW032-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -356,8 +356,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW041.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW041-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW041.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW041-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -400,8 +400,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW032T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW032T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW032T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW032T2-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -439,11 +439,11 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ006-full.png"
       }
     ],
-    "region": "皮爾托福 & 佐恩",
+    "region": "皮爾托福&佐恩",
     "regionRef": "PiltoverZaun",
     "attack": 0,
     "cost": 4,
@@ -478,8 +478,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW013.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW013-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW013.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW013-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -519,8 +519,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI010-full.png"
       }
     ],
     "region": "闇影島",
@@ -558,8 +558,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW034T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW034T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW034T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW034T1-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -571,7 +571,7 @@
     "descriptionRaw": "遺願：對敵方主堡造成1點傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「真是一群調皮鬼，你說是吧？其實他們還挺幫得上忙的，只不過有人說他們脾氣火爆……」——賽蓮號水手",
+    "flavorText": "「真是一群調皮鬼，你說是吧？其實他們還挺幫得上忙的，只不過有人說他們脾氣火爆……」<br>——賽蓮號水手",
     "artistName": "Kudos Productions",
     "name": "火藥猴群",
     "cardCode": "02BW034T1",
@@ -599,8 +599,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW056T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW056T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW056T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW056T1-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -612,7 +612,7 @@
     "descriptionRaw": "泯滅1個生命值低於此牌的敵軍單位。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「她將我人船併吞，\n使我在肚裡受困。\n現在我只能高歌，\n自己的命運坎坷。」——〈翼耳深海女王民謠〉",
+    "flavorText": "「她將我人船併吞，\n使我在肚裡受困。\n現在我只能高歌，\n自己的命運坎坷。」<br>——〈翼耳深海女王民謠〉",
     "artistName": "Kudos Productions",
     "name": "大快朵頤",
     "cardCode": "02BW056T1",
@@ -638,8 +638,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW061.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW061-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW061.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW061-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -679,15 +679,15 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW060.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW060-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW060.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW060-full.png"
       }
     ],
     "region": "比爾吉沃特",
     "regionRef": "Bilgewater",
     "attack": 1,
     "cost": 1,
-    "health": 1,
+    "health": 2,
     "description": "友軍攻擊時，<br>對敵方主堡造成1點傷害。",
     "descriptionRaw": "友軍攻擊時，對敵方主堡造成1點傷害。",
     "levelupDescription": "",
@@ -717,8 +717,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX007T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX007T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX007T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX007T2-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -730,7 +730,7 @@
     "descriptionRaw": "對敵方主堡造成非戰鬥傷害時，擊暈位於後排的最強敵軍單位。打擊主堡：對所有敵軍單位及敵方主堡造成3點傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「為了打下諾克薩斯的江山，任何犧牲都在所不惜。」 ",
+    "flavorText": "「為了打下諾克薩斯的江山，任何犧牲都<br>在所不惜。」 ",
     "artistName": "SIXMOREVODKA",
     "name": "斯溫",
     "cardCode": "02NX007T2",
@@ -759,8 +759,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW022T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW022T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW022T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW022T3-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -800,8 +800,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW011.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW011-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW011-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -809,8 +809,8 @@
     "attack": 3,
     "cost": 4,
     "health": 3,
-    "description": "召喚此牌時，<br>在手牌生成1張<link=card.create><style=AssociatedCard>警告射擊</style></link>。\r\n<link=vocab.Allegiance><style=Vocab>效忠</style></link>：<link=keyword.Nab><style=Keyword>奪取</style></link>1張牌。",
-    "descriptionRaw": "召喚此牌時，在手牌生成1張警告射擊。\r\n效忠：奪取1張牌。",
+    "description": "<link=vocab.Allegiance><style=Vocab>效忠</style></link>：<link=keyword.Nab><style=Keyword>奪取</style></link>1張牌，<br>並在手牌生成1張<link=card.create><style=AssociatedCard>警告射擊</style></link>。",
+    "descriptionRaw": "效忠：奪取1張牌，並在手牌生成1張警告射擊。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「你懂得，朋友就是要互相幫忙。至於你嘛？我喜歡你雙眼炯炯有神，還有那把閃亮亮的水手刀，那可真是一柄好刀！」",
@@ -840,8 +840,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW022.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW022-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW022.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW022-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -851,7 +851,7 @@
     "health": 3,
     "description": "友軍單位攻擊時，<br>對所有戰鬥中敵軍單位與<br>敵方主堡造成1點傷害。",
     "descriptionRaw": "友軍單位攻擊時，對所有戰鬥中敵軍單位與敵方主堡造成1點傷害。",
-    "levelupDescription": "此牌在場上時，我方進行4次攻擊<style=Variable></style>。",
+    "levelupDescription": "此牌在場上時，<br>我方進行4次攻擊<style=Variable></style>。",
     "levelupDescriptionRaw": "此牌在場上時，我方進行4次攻擊。",
     "flavorText": "「你叫我好運姐？在外頭你得稱我一聲『船長』。」",
     "artistName": "SIXMOREVODKA",
@@ -875,8 +875,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW030T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW030T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW030T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW030T2-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -884,7 +884,7 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "此牌遭到<link=vocab.Toss><style=Vocab>亂擲</style></link>時，反而會被抽出。\r\n對所有單位造成5點傷害。",
+    "description": "此牌遭到<link=vocab.Toss><style=Vocab>亂擲</style></link>時，<br>反而會被抽出。\r\n對所有單位造成5點傷害。",
     "descriptionRaw": "此牌遭到亂擲時，反而會被抽出。\r\n對所有單位造成5點傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -916,8 +916,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR004-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -955,8 +955,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW019.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW019-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW019.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW019-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -996,8 +996,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW007-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -1028,16 +1028,14 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02PZ004"
-    ],
+    "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ004-full.png"
       }
     ],
-    "region": "皮爾托福 & 佐恩",
+    "region": "皮爾托福&佐恩",
     "regionRef": "PiltoverZaun",
     "attack": 0,
     "cost": 3,
@@ -1072,8 +1070,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW014.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW014-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW014.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW014-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -1111,8 +1109,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX006-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -1146,8 +1144,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE008-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -1159,7 +1157,7 @@
     "descriptionRaw": "",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "新加入的遊俠會和夥伴在森林一同生活幾個月，學著了解巨角鹿的一舉一動。這項訓練需要耐心才能完成，不過一旦培養出默契與感情，就沒人能離間他們。",
+    "flavorText": "新加入的遊俠會和夥伴在森林一同生活幾個月，學著了解巨角鹿的一舉一動。這項訓練需要耐心才能完成，不過一旦培養出默契與感情，就沒人能離間<br>他們。",
     "artistName": "SIXMOREVODKA",
     "name": "巨角獸拍檔",
     "cardCode": "02DE008",
@@ -1185,8 +1183,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO008T1-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -1226,8 +1224,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW024.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW024-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW024.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW024-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -1239,7 +1237,7 @@
     "descriptionRaw": "隨機召喚2個魔耗值1點的侍從單位。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「哎呀蓋夫，那不是我們在追的傢伙嗎？看來他多了一個同伴。」\n「巴茲，那……那是鯊魚人嗎？」\n「不管怎樣都是一大筆錢啦，對吧。」——想賺錢的賞金獵人巴茲與蓋夫",
+    "flavorText": "「哎呀蓋夫，那不是我們在追的傢伙嗎？看來他多了一個同伴。」\n「巴茲，那……那是鯊魚人嗎？」\n「不管怎樣都是一大筆錢啦，對吧。」<br>——想賺錢的賞金獵人巴茲與蓋夫",
     "artistName": "Kudos Productions",
     "name": "雙倍麻煩",
     "cardCode": "02BW024",
@@ -1265,8 +1263,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW062.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW062-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW062.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW062-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -1278,7 +1276,7 @@
     "descriptionRaw": "召喚此牌時，隨機召喚1個魔耗值1點的侍從單位，並賦予其先遣。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「海蛇之母恩光普照，\n從海底直到雲霄。\n灰色天空凝視地上，\n平靜海面仿佛反射她的目光。\n她輕輕微笑，心靈安詳。\n」——獻給娜葛卡布爾的禱告",
+    "flavorText": "「海蛇之母恩光普照，\n從海底直到雲霄。\n灰色天空凝視地上，\n平靜海面仿佛反射她的目光。\n她輕輕微笑，心靈安詳。」<br>——獻給娜葛卡布爾的禱告",
     "artistName": "Dao Le",
     "name": "島嶼領航員",
     "cardCode": "02BW062",
@@ -1304,15 +1302,15 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW055.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW055-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW055.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW055-full.png"
       }
     ],
     "region": "比爾吉沃特",
     "regionRef": "Bilgewater",
-    "attack": 4,
-    "cost": 3,
-    "health": 3,
+    "attack": 3,
+    "cost": 2,
+    "health": 2,
     "description": "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：<br>賦予<link=vocab.Everywhere><style=Vocab>各處</style></link>魔耗值1的友軍單位+1|+0。",
     "descriptionRaw": "洗劫：賦予各處魔耗值1的友軍單位+1|+0。",
     "levelupDescription": "",
@@ -1339,8 +1337,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI008T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI008T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI008T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI008T3-full.png"
       }
     ],
     "region": "闇影島",
@@ -1382,8 +1380,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO005T1-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -1417,8 +1415,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE004-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -1431,7 +1429,7 @@
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「我發誓守護這片森林，以及在該處尋求庇護的一切。」",
-    "artistName": "Raphael Zenchetin",
+    "artistName": "Rafael Zanchetin",
     "name": "綠牙守衛",
     "cardCode": "02DE004",
     "keywords": [
@@ -1465,8 +1463,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW030.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW030-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW030.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW030-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -1510,8 +1508,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE006T3-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -1549,8 +1547,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI007-full.png"
       }
     ],
     "region": "闇影島",
@@ -1588,8 +1586,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW003-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -1627,8 +1625,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW017.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW017-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW017.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW017-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -1662,8 +1660,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI003-full.png"
       }
     ],
     "region": "闇影島",
@@ -1675,7 +1673,7 @@
     "descriptionRaw": "使我方海怪單位擁有威嚇。\r\n攻擊：本回合給予場上所有敵軍單位-2|-0。\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "他們察覺到危機時，為時已晚。巨大的怪物張開血盆大口，朝他們猛然攻擊；想要捕獲怪物的獵人，只能看著無盡的利齒逐漸粉碎他們的船隻，等待死亡臨頭。",
+    "flavorText": "他們察覺到危機時，為時已晚。巨大的怪物張開血盆大口，朝他們猛然攻擊；想要捕獲怪物的獵人，只能看著無盡的利齒逐漸粉碎他們的船隻，<br>等待死亡臨頭。",
     "artistName": "SIXMOREVODKA",
     "name": "鬼船怪物",
     "cardCode": "02SI003",
@@ -1706,8 +1704,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX007T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX007T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX007T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX007T1-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -1749,8 +1747,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW022T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW022T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW022T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW022T2-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -1790,8 +1788,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO002T1-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -1829,11 +1827,11 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ007-full.png"
       }
     ],
-    "region": "皮爾托福 & 佐恩",
+    "region": "皮爾托福&佐恩",
     "regionRef": "PiltoverZaun",
     "attack": 3,
     "cost": 4,
@@ -1866,8 +1864,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW056.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW056-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW056.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW056-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -1879,7 +1877,7 @@
     "descriptionRaw": "出牌：泯滅1個生命值低於此牌的敵軍單位。\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「有一天我踏上小船，\n遠離比爾吉沃特灣。\n突然刮起狂風大浪，\n深海女王從海浮上……」 ——〈翼耳深海女王民謠〉",
+    "flavorText": "「有一天我踏上小船，\n遠離比爾吉沃特灣。\n突然刮起狂風大浪，\n深海女王從海浮上……」 <br>——〈翼耳深海女王民謠〉",
     "artistName": "Kudos Productions",
     "name": "深淵吞噬者",
     "cardCode": "02BW056",
@@ -1912,8 +1910,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW046T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW046T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW046T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW046T3-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -1951,8 +1949,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE006T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE006T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE006T2-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -1994,8 +1992,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW025.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW025-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW025.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW025-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2033,8 +2031,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW022T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW022T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW022T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW022T4-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2074,8 +2072,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE009-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -2113,25 +2111,26 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
-      "02IO006T3",
-      "02IO006T2",
-      "02IO006T1"
+      "02IO006T1",
+      "02IO011",
+      "02IO008T1",
+      "02IO006T3"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO006-full.png"
       }
     ],
     "region": "愛歐尼亞",
     "regionRef": "Ionia",
     "attack": 3,
-    "cost": 6,
-    "health": 6,
+    "cost": 4,
+    "health": 4,
     "description": "我方施放法術時，<br>本回合給予此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>；\r\n再次施放法術時，<br>則額外於本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
     "descriptionRaw": "我方施放法術時，本回合給予此牌挑戰者；\r\n再次施放法術時，則額外於本回合給予其光盾。",
-    "levelupDescription": "我方施放7次法術<style=Variable></style>。",
-    "levelupDescriptionRaw": "我方施放7次法術。",
+    "levelupDescription": "我方施放8次或以上法術<style=Variable></style>。",
+    "levelupDescriptionRaw": "我方施放8次或以上法術。",
     "flavorText": "「配得的人，巨龍賜予協助；疲乏的人，巨龍賜予活力；患病的人，巨龍賜予舒緩；迷失的人，巨龍賜予光芒；動搖的人，巨龍賜予平衡……」",
     "artistName": "SIXMOREVODKA",
     "name": "李星",
@@ -2158,8 +2157,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW038.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW038-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW038.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW038-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2199,8 +2198,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW021.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW021-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW021.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW021-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2238,8 +2237,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW022T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW022T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW022T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW022T1-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2277,8 +2276,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI001-full.png"
       }
     ],
     "region": "闇影島",
@@ -2312,8 +2311,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW026T5.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW026T5-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW026T5.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW026T5-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2351,8 +2350,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW030T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW030T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW030T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW030T1-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2389,14 +2388,57 @@
   },
   {
     "associatedCards": [],
+    "associatedCardRefs": [
+      "02IO006T1",
+      "02IO006",
+      "02IO008T1"
+    ],
+    "assets": [
+      {
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO011.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO011-full.png"
+      }
+    ],
+    "region": "愛歐尼亞",
+    "regionRef": "Ionia",
+    "attack": 0,
+    "cost": 2,
+    "health": 0,
+    "description": "本回合給予\r\n1個友軍<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>。\r\n在手牌生成1張<link=keyword.Fleeting><sprite name=Fleeting><style=Keyword>飛逝</style></link><link=card.secondSpell><style=AssociatedCard>震驚百里</style></link>。\r\n將1張<link=card.level1><style=AssociatedCard>李星</style></link>洗入我方牌組。",
+    "descriptionRaw": "本回合給予\r\n1個友軍挑戰者。\r\n在手牌生成1張飛逝震驚百里。\r\n將1張李星洗入我方牌組。",
+    "levelupDescription": "",
+    "levelupDescriptionRaw": "",
+    "flavorText": "「克己復禮……」——李星",
+    "artistName": "Kudos Productions",
+    "name": "李星 虎嘯龍吟",
+    "cardCode": "02IO011",
+    "keywords": [
+      "疾速"
+    ],
+    "keywordRefs": [
+      "Burst"
+    ],
+    "spellSpeed": "疾速",
+    "spellSpeedRef": "Burst",
+    "rarity": "普通",
+    "rarityRef": "Common",
+    "subtype": "",
+    "subtypes": [],
+    "supertype": "英雄",
+    "type": "法術",
+    "collectible": false,
+    "set": "Set2"
+  },
+  {
+    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ002-full.png"
       }
     ],
-    "region": "皮爾托福 & 佐恩",
+    "region": "皮爾托福&佐恩",
     "regionRef": "PiltoverZaun",
     "attack": 5,
     "cost": 6,
@@ -2405,7 +2447,7 @@
     "descriptionRaw": "我方抽牌時，給予其飛逝，並於手牌生成1張該牌的複製牌。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "年僅五歲，她便製作了世上第一把的多周波震動刀。這把刀雖然不是很實用（通常她只是用來切三明治），但還是幫她得到了警備隊菁英裝備部門的職位。",
+    "flavorText": "年僅五歲，她便製作了世上第一把的多周波震動刀。這把刀雖然不是很實用（通常她只是用來切三明治），但還是幫她得到了警備隊菁英裝備部門的<br>職位。",
     "artistName": "SIXMOREVODKA",
     "name": "首席機械師澤維",
     "cardCode": "02PZ002",
@@ -2429,8 +2471,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW012.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW012-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW012.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW012-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2472,8 +2514,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI008T1-full.png"
       }
     ],
     "region": "闇影島",
@@ -2511,8 +2553,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX002-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -2546,8 +2588,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE005-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -2585,8 +2627,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW035.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW035-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW035.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW035-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2630,13 +2672,13 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI002-full.png"
       }
     ],
     "region": "闇影島",
     "regionRef": "ShadowIsles",
-    "attack": 4,
+    "attack": 5,
     "cost": 7,
     "health": 3,
     "description": "召喚1個侍從單位時，<br>擊殺它來召喚1個<br><link=card.summon><style=AssociatedCard>巨型食人蔓藤</style></link>。",
@@ -2665,8 +2707,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO004-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -2704,8 +2746,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW058.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW058-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW058.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW058-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2745,8 +2787,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW026T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW026T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW026T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW026T3-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2784,8 +2826,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW028T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW028T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW028T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW028T1-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2823,8 +2865,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW018.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW018-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW018.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW018-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2862,8 +2904,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW037.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW037-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW037.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW037-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2908,8 +2950,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR002-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -2921,7 +2963,7 @@
     "descriptionRaw": "出牌：本回合給予1個敵軍單位凍傷與弱勢。 ",
     "levelupDescription": "我方對敵方主堡<br>造成傷害累計5回合<style=Variable></style>。",
     "levelupDescriptionRaw": "我方對敵方主堡造成傷害累計5回合。",
-    "flavorText": "史瓦妮的冰星錘的確強大，不過她自己才是真正的武器：一把經歷過弗雷爾卓德艱苦寒冷磨練和試煉的武器。",
+    "flavorText": "史瓦妮的冰星錘的確強大，不過她自己才是真正的武器：一把經歷過弗雷爾卓德艱苦寒冷磨練和試煉的<br>武器。",
     "artistName": "SIXMOREVODKA",
     "name": "史瓦妮",
     "cardCode": "02FR002",
@@ -2947,8 +2989,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW048.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW048-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW048.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW048-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -2986,8 +3028,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW043.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW043-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW043.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW043-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -3025,8 +3067,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR001-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -3062,8 +3104,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW008T02.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW008T02-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW008T02.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW008T02-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -3099,8 +3141,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW008T01.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW008T01-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW008T01.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW008T01-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -3134,8 +3176,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW051.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW051-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW051.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW051-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -3175,8 +3217,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW054.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW054-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW054.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW054-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -3216,8 +3258,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI004-full.png"
       }
     ],
     "region": "闇影島",
@@ -3249,21 +3291,22 @@
   {
     "associatedCards": [],
     "associatedCardRefs": [
-      "02IO006T3",
-      "02IO006T2",
-      "02IO006"
+      "02IO006",
+      "02IO011",
+      "02IO008T1",
+      "02IO006T3"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO006T1-full.png"
       }
     ],
     "region": "愛歐尼亞",
     "regionRef": "Ionia",
     "attack": 4,
-    "cost": 6,
-    "health": 7,
+    "cost": 4,
+    "health": 5,
     "description": "我方施放法術時，<br>本回合給予此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>；\r\n再次施放法術時，<br>則額外於本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。<br>此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link>敵軍單位時，<br>對其施放<link=card.attackSpell><style=AssociatedCard>神龍擺尾</style></link>。",
     "descriptionRaw": "我方施放法術時，本回合給予此牌挑戰者；\r\n再次施放法術時，則額外於本回合給予其光盾。此牌挑戰敵軍單位時，對其施放神龍擺尾。",
     "levelupDescription": "",
@@ -3297,8 +3340,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW026T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW026T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW026T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW026T1-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -3338,8 +3381,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO003-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -3380,8 +3423,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW053T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW053T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW053T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW053T2-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -3419,8 +3462,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO001-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -3458,8 +3501,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI008-full.png"
       }
     ],
     "region": "闇影島",
@@ -3469,7 +3512,7 @@
     "health": 4,
     "description": "我方每回合首次打出友軍單位時，<br><link=vocab.Toss><style=Vocab>亂擲</style></link>2張牌並召喚1個<link=card.summon><style=AssociatedCard>小樹精</style></link>。",
     "descriptionRaw": "我方每回合首次打出友軍單位時，亂擲2張牌並召喚1個小樹精。",
-    "levelupDescription": "我方單位陣亡<br>或卡牌遭<link=vocab.Toss><style=Vocab>亂擲</style></link>共計25次。<style=Variable></style>",
+    "levelupDescription": "我方單位陣亡<br>或卡牌遭<link=vocab.Toss><style=Vocab>亂擲</style></link>共計25次<style=Variable></style>。",
     "levelupDescriptionRaw": "我方單位陣亡或卡牌遭亂擲共計25次。",
     "flavorText": "這片詛咒大地也拿茂凱沒轍，這名樹人的意志太過堅定、憤怒太過熾熱，無人能敵、無物能擋。",
     "artistName": "SIXMOREVODKA",
@@ -3492,16 +3535,15 @@
     "associatedCards": [],
     "associatedCardRefs": [
       "02PZ008T2",
-      "02PZ004",
       "02PZ008T1"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ008-full.png"
       }
     ],
-    "region": "皮爾托福 & 佐恩",
+    "region": "皮爾托福&佐恩",
     "regionRef": "PiltoverZaun",
     "attack": 2,
     "cost": 5,
@@ -3538,8 +3580,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI006-full.png"
       }
     ],
     "region": "闇影島",
@@ -3551,7 +3593,7 @@
     "descriptionRaw": "友軍單位首次陣亡時，賦予此牌+2|+2。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "闇影島的生物早就捨棄情感；他們都得吃點什麼才行。",
+    "flavorText": "闇影島的生物早就捨棄情感；他們都得<br>吃點什麼才行。",
     "artistName": "MAR Studio",
     "name": "低吼樹怪",
     "cardCode": "02SI006",
@@ -3573,8 +3615,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW047.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW047-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW047.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW047-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -3605,13 +3647,11 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02IO003T1"
-    ],
+    "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO003T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO003T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO003T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO003T1-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -3640,7 +3680,9 @@
     "rarity": "無",
     "rarityRef": "None",
     "subtype": "龍族",
-    "subtypes": [],
+    "subtypes": [
+      "龍族"
+    ],
     "supertype": "",
     "type": "單位",
     "collectible": false,
@@ -3651,8 +3693,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX009-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -3692,8 +3734,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW008-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -3730,8 +3772,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX007-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -3772,8 +3814,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW053.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW053-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW053.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW053-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -3815,8 +3857,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR005T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR005T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR005T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR005T1-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -3859,8 +3901,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW032T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW032T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW032T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW032T3-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -3898,8 +3940,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR010-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -3939,8 +3981,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW004-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -3976,8 +4018,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW002-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -4015,8 +4057,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW032T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW032T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW032T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW032T1-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -4058,8 +4100,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO005-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -4099,8 +4141,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX004.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX004-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX004.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX004-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -4134,8 +4176,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW016.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW016-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW016.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW016-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -4169,8 +4211,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW030T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW030T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW030T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW030T4-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -4214,8 +4256,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE002-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -4253,8 +4295,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX003-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -4295,8 +4337,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR008-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -4333,8 +4375,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR002T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR002T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR002T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR002T1-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -4372,8 +4414,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO006T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO006T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO006T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO006T3-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -4411,11 +4453,11 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ009-full.png"
       }
     ],
-    "region": "皮爾托福 & 佐恩",
+    "region": "皮爾托福&佐恩",
     "regionRef": "PiltoverZaun",
     "attack": 0,
     "cost": 2,
@@ -4450,8 +4492,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE010-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -4493,8 +4535,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO002.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO002-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO002.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO002-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -4534,8 +4576,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW026.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW026-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW026.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW026-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -4575,8 +4617,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW027.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW027-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW027.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW027-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -4613,8 +4655,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR002T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR002T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR002T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR002T3-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -4654,8 +4696,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO010-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -4693,8 +4735,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW042.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW042-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW042.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW042-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -4732,8 +4774,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW059.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW059-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW059.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW059-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -4745,7 +4787,7 @@
     "descriptionRaw": "亂擲3張牌。\r\n對1個單位造成7點傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「能夠打沉敵人的，就是值得擁有的。」——比爾吉沃特俗語",
+    "flavorText": "「能夠打沉敵人的，就是值得擁有的。」<br>——比爾吉沃特俗語",
     "artistName": "Kudos Productions",
     "name": "遜槍手",
     "cardCode": "02BW059",
@@ -4771,8 +4813,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR007-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -4812,8 +4854,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW032T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW032T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW032T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW032T4-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -4851,8 +4893,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW050.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW050-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW050.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW050-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -4864,7 +4906,7 @@
     "descriptionRaw": "洗劫：使手牌與牌組中友軍魔耗值-2。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「快跟我們踏上一場音樂之旅！欣賞符文大地各地的美妙旋律！謹記付費入場，還有給些小費……」——表演宣傳人員",
+    "flavorText": "「快跟我們踏上一場音樂之旅！欣賞符文大地各地的美妙旋律！謹記付費入場，還有給些小費……」<br>——表演宣傳人員",
     "artistName": "Chin LikHui",
     "name": "圓滑獨奏家",
     "cardCode": "02BW050",
@@ -4894,8 +4936,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE006T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE006T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE006T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE006T1-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -4935,8 +4977,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW028.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW028-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW028.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW028-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -4948,7 +4990,7 @@
     "descriptionRaw": "洗劫：對敵軍單位隨機施放7次加農炮幕。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「駛過水手，駛過殘骸，\n打鬥告終。\n霧氣消散後，船長遇見了雷克斯，\n船身於是支離破碎，成為斷裂的浮木。」——〈水手家之心〉",
+    "flavorText": "「駛過水手，駛過殘骸，\n打鬥告終。\n霧氣消散後，船長遇見了雷克斯，\n船身於是支離破碎，成為斷裂的浮木。」<br>——〈水手家之心〉",
     "artistName": "MAR Studio",
     "name": "怒濤狂鯊砲",
     "cardCode": "02BW028",
@@ -4970,8 +5012,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW023.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW023-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW023.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW023-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5011,8 +5053,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI009-full.png"
       }
     ],
     "region": "闇影島",
@@ -5050,8 +5092,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE007-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -5059,7 +5101,7 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "本回合給予所有友軍單位<link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。",
+    "description": "本回合給予所有友軍單位<br><link=keyword.Tough><sprite name=Tough><style=Keyword>堅忍</style></link>。",
     "descriptionRaw": "本回合給予所有友軍單位堅忍。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5089,11 +5131,11 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ003-full.png"
       }
     ],
-    "region": "皮爾托福 & 佐恩",
+    "region": "皮爾托福&佐恩",
     "regionRef": "PiltoverZaun",
     "attack": 0,
     "cost": 4,
@@ -5128,8 +5170,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW031.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW031-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW031.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW031-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5169,8 +5211,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW034.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW034-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW034.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW034-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5212,8 +5254,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02SI008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02SI008T2-full.png"
       }
     ],
     "region": "闇影島",
@@ -5251,8 +5293,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX010-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -5290,8 +5332,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE001-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -5329,8 +5371,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO007.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO007-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO007.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO007-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -5368,8 +5410,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW029.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW029-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW029.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW029-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5409,8 +5451,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW015.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW015-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW015.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW015-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5448,8 +5490,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW010.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW010-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW010.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW010-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5485,8 +5527,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW009-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5520,8 +5562,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW005-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5560,8 +5602,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW046.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW046-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW046.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW046-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5599,8 +5641,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW049.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW049-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW049.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW049-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5640,8 +5682,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR005-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -5675,8 +5717,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW039.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW039-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW039.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW039-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5716,8 +5758,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW030T3.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW030T3-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW030T3.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW030T3-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5725,7 +5767,7 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "此牌遭到<link=vocab.Toss><style=Vocab>亂擲</style></link>時，反而會被抽出。\r\n召喚3個<link=card.summon><style=AssociatedCard>兇惡鎧龍</style></link>。",
+    "description": "此牌遭到<link=vocab.Toss><style=Vocab>亂擲</style></link>時，<br>反而會被抽出。\r\n召喚3個<link=card.summon><style=AssociatedCard>兇惡鎧龍</style></link>。",
     "descriptionRaw": "此牌遭到亂擲時，反而會被抽出。\r\n召喚3個兇惡鎧龍。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -5757,8 +5799,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW006-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5770,7 +5812,7 @@
     "descriptionRaw": "出牌：幻化1個友軍單位，隨機變成魔耗值5點的侍從單位。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「厲不厲害？我的……我的手上哪了？」\n「看好啦，我要再把它們變出來！搭啦！咳咳……搭啦！」\n「……我天殺的手去哪啦？！」\n「好吧，感謝觀看，你們該滾了！」",
+    "flavorText": "「厲不厲害？我的……我的手上哪了？」\n「看好啦，我要再把它們變出來！<br>搭啦！咳咳……搭啦！」\n「……我天殺的手去哪啦？！」\n「好吧，感謝觀看，你們該滾了！」",
     "artistName": "Kudos Productions",
     "name": "騙術士",
     "cardCode": "02BW006",
@@ -5792,8 +5834,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW046T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW046T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW046T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW046T2-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5834,11 +5876,11 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ008T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ008T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ008T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ008T2-full.png"
       }
     ],
-    "region": "皮爾托福 & 佐恩",
+    "region": "皮爾托福&佐恩",
     "regionRef": "PiltoverZaun",
     "attack": 10,
     "cost": 5,
@@ -5875,8 +5917,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW026T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW026T2-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW026T2.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW026T2-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5918,8 +5960,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02DE006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02DE006-full.png"
       }
     ],
     "region": "蒂瑪西亞",
@@ -5929,9 +5971,9 @@
     "health": 4,
     "description": "召喚此牌時，召喚<link=card.create><style=AssociatedCard>威洛</style></link>。",
     "descriptionRaw": "召喚此牌時，召喚威洛。",
-    "levelupDescription": "此牌在場上時，我方進行4次攻擊<style=Variable></style>。",
+    "levelupDescription": "此牌在場上時，<br>我方進行4次攻擊<style=Variable></style>。",
     "levelupDescriptionRaw": "此牌在場上時，我方進行4次攻擊。",
-    "flavorText": "「葵恩是一名勇敢無懼的遊騎兵，加上威洛在她身邊和天空中陪伴，這對拍檔無人能擋。」——游騎兵珍妮薇·艾姆哈特",
+    "flavorText": "「葵恩是一名勇敢無懼的遊騎兵，加上威洛在她身邊和天空中陪伴，這對拍檔無人能擋。」<br>——游騎兵珍妮薇·艾姆哈特",
     "artistName": "SIXMOREVODKA",
     "name": "葵恩",
     "cardCode": "02DE006",
@@ -5957,8 +5999,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW001.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW001-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW001.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW001-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -5993,53 +6035,11 @@
   },
   {
     "associatedCards": [],
-    "associatedCardRefs": [
-      "02IO006",
-      "02IO006T1"
-    ],
-    "assets": [
-      {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO006T2.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO006T2-full.png"
-      }
-    ],
-    "region": "愛歐尼亞",
-    "regionRef": "Ionia",
-    "attack": 0,
-    "cost": 7,
-    "health": 0,
-    "description": "使1個友軍單位將1個敵軍單位<br>踢向敵方主堡，視為對兩者進行<link=vocab.Strike><style=Vocab>打擊</style></link>。<br>若敵軍單位存活，則將其<link=keyword.Recall><style=Keyword>召回</style></link>。<br>將1張<link=card.level1><style=AssociatedCard>李星</style></link>洗入我方牌組。",
-    "descriptionRaw": "使1個友軍單位將1個敵軍單位踢向敵方主堡，視為對兩者進行打擊。若敵軍單位存活，則將其召回。將1張李星洗入我方牌組。",
-    "levelupDescription": "",
-    "levelupDescriptionRaw": "",
-    "flavorText": "「必須釋放巨龍，不然牠會從內心吞噬我。」——李星",
-    "artistName": "Kudos Productions",
-    "name": "李星 神龍擺尾",
-    "cardCode": "02IO006T2",
-    "keywords": [
-      "慢速"
-    ],
-    "keywordRefs": [
-      "Slow"
-    ],
-    "spellSpeed": "慢速",
-    "spellSpeedRef": "Slow",
-    "rarity": "無",
-    "rarityRef": "None",
-    "subtype": "",
-    "subtypes": [],
-    "supertype": "英雄",
-    "type": "法術",
-    "collectible": false,
-    "set": "Set2"
-  },
-  {
-    "associatedCards": [],
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO010T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO010T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO010T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO010T1-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -6079,8 +6079,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW026T4.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW026T4-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW026T4.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW026T4-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -6118,8 +6118,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO009.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO009-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO009.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO009-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -6157,8 +6157,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW063.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW063-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW063.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW063-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -6196,8 +6196,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW036.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW036-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW036.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW036-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -6237,8 +6237,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW045.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW045-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW045.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW045-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -6246,7 +6246,7 @@
     "attack": 0,
     "cost": 2,
     "health": 0,
-    "description": "在敵軍單位與敵方主堡中<br>隨機對3個不同目標造成1點傷害。",
+    "description": "在敵軍單位與敵方主堡中<br>隨機對3個不同目標<br>造成1點傷害。",
     "descriptionRaw": "在敵軍單位與敵方主堡中隨機對3個不同目標造成1點傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
@@ -6276,8 +6276,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW033.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW033-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW033.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW033-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -6311,8 +6311,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX004T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX004T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX004T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX004T1-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6350,8 +6350,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW060T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW060T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW060T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW060T1-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -6388,16 +6388,15 @@
     "associatedCards": [],
     "associatedCardRefs": [
       "02PZ008",
-      "02PZ008T2",
-      "02PZ004"
+      "02PZ008T2"
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ008T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ008T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ008T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ008T1-full.png"
       }
     ],
-    "region": "皮爾托福 & 佐恩",
+    "region": "皮爾托福&佐恩",
     "regionRef": "PiltoverZaun",
     "attack": 0,
     "cost": 3,
@@ -6432,8 +6431,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW020.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW020-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW020.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW020-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -6471,8 +6470,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX008-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6510,11 +6509,11 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02PZ005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02PZ005-full.png"
       }
     ],
-    "region": "皮爾托福 & 佐恩",
+    "region": "皮爾托福&佐恩",
     "regionRef": "PiltoverZaun",
     "attack": 4,
     "cost": 3,
@@ -6545,8 +6544,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX005.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02NX005-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX005.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02NX005-full.png"
       }
     ],
     "region": "諾克薩斯",
@@ -6558,7 +6557,7 @@
     "descriptionRaw": "",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "「只要有好的武器，攻城易如反掌。投石機能夠引誘他們出城；弩砲車則能夠將他們擊倒。」——圍城技師",
+    "flavorText": "「只要有好的武器，攻城易如反掌。投石機能夠引誘他們出城；弩砲車則能夠將他們擊倒。」<br>——圍城技師",
     "artistName": "Kudos Productions",
     "name": "幽鐵弩砲",
     "cardCode": "02NX005",
@@ -6584,8 +6583,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR006.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR006-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR006.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR006-full.png"
       }
     ],
     "region": "弗雷爾卓德",
@@ -6628,8 +6627,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW046T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW046T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW046T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW046T1-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -6670,8 +6669,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW053T1.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW053T1-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW053T1.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW053T1-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -6711,8 +6710,8 @@
     "associatedCardRefs": [],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW044.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02BW044-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW044.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02BW044-full.png"
       }
     ],
     "region": "比爾吉沃特",
@@ -6752,8 +6751,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO008.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02IO008-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO008.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02IO008-full.png"
       }
     ],
     "region": "愛歐尼亞",
@@ -6793,8 +6792,8 @@
     ],
     "assets": [
       {
-        "gameAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR003.png",
-        "fullAbsolutePath": "http://dd.b.pvp.net/1_8_0/set2/zh_tw/img/cards/02FR003-full.png"
+        "gameAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR003.png",
+        "fullAbsolutePath": "http://dd.b.pvp.net/1_10_0/set2/zh_tw/img/cards/02FR003-full.png"
       }
     ],
     "region": "弗雷爾卓德",

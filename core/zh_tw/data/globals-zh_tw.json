@@ -66,7 +66,7 @@
       "nameRef": "Everywhere"
     },
     {
-      "description": "獲得攻擊主動權（此回合我方可攻擊）。",
+      "description": "獲得攻擊主動權（本回合我方可攻擊）。",
       "name": "備戰",
       "nameRef": "Rally"
     },
@@ -144,13 +144,18 @@
     },
     {
       "description": "",
-      "name": "皮爾托福 & 佐恩",
+      "name": "皮爾托福&佐恩",
       "nameRef": "PiltoverZaun"
     },
     {
       "description": "",
       "name": "蒂瑪西亞",
       "nameRef": "Demacia"
+    },
+    {
+      "description": "Missing Translation",
+      "name": "可以格擋隱密",
+      "nameRef": "BlockElusive"
     },
     {
       "description": "",
@@ -171,6 +176,11 @@
       "description": "召喚此牌時，恢復1點法術魔力。",
       "name": "調節",
       "nameRef": "Attune"
+    },
+    {
+      "description": "地標會佔去盤面上的一個位置，且無法攻擊與格擋，也不會受到傷害。",
+      "name": "地標",
+      "nameRef": "LandmarkVisualOnly"
     },
     {
       "description": "此單位下次所受之傷害無效，持續一回合。",
@@ -248,7 +258,7 @@
       "nameRef": "Silenced"
     },
     {
-      "description": "抵擋一次會對此牌造成影響的敵方法術/技能。",
+      "description": "使下個會對此單位造成影響的敵方法術/技能失效。",
       "name": "法盾",
       "nameRef": "SpellShield"
     },
@@ -338,7 +348,7 @@
       "nameRef": "CantBlock"
     },
     {
-      "description": "",
+      "description": "探底我方牌組剩餘卡牌數量低於或等於15張時，此卡獲得+3|+3",
       "name": "探底",
       "nameRef": "Deep"
     }
@@ -346,50 +356,50 @@
   "regions": [
     {
       "abbreviation": "MT",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_8_0/core/zh_tw/img/regions/icon-targon.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_12_0/core/zh_tw/img/regions/icon-targon.png",
       "name": "巨石峰",
       "nameRef": "Targon"
     },
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_8_0/core/zh_tw/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_12_0/core/zh_tw/img/regions/icon-noxus.png",
       "name": "諾克薩斯",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_8_0/core/zh_tw/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_12_0/core/zh_tw/img/regions/icon-demacia.png",
       "name": "蒂瑪西亞",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_8_0/core/zh_tw/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_12_0/core/zh_tw/img/regions/icon-freljord.png",
       "name": "弗雷爾卓德",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_8_0/core/zh_tw/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_12_0/core/zh_tw/img/regions/icon-shadowisles.png",
       "name": "闇影島",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_8_0/core/zh_tw/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_12_0/core/zh_tw/img/regions/icon-ionia.png",
       "name": "愛歐尼亞",
       "nameRef": "Ionia"
     },
     {
       "abbreviation": "BW",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_8_0/core/zh_tw/img/regions/icon-bilgewater.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_12_0/core/zh_tw/img/regions/icon-bilgewater.png",
       "name": "比爾吉沃特",
       "nameRef": "Bilgewater"
     },
     {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_8_0/core/zh_tw/img/regions/icon-piltoverzaun.png",
-      "name": "皮爾托福 & 佐恩",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_12_0/core/zh_tw/img/regions/icon-piltoverzaun.png",
+      "name": "皮爾托福&佐恩",
       "nameRef": "PiltoverZaun"
     }
   ],
@@ -431,19 +441,19 @@
   ],
   "sets": [
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_8_0/core/zh_tw/img/sets/set3.png",
-      "name": "巨石峰之喚",
-      "nameRef": "Set3"
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_12_0/core/zh_tw/img/sets/set1.png",
+      "name": "基礎",
+      "nameRef": "Set1"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_8_0/core/zh_tw/img/sets/set2.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_12_0/core/zh_tw/img/sets/set2.png",
       "name": "洶湧怒濤",
       "nameRef": "Set2"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_8_0/core/zh_tw/img/sets/set1.png",
-      "name": "基礎",
-      "nameRef": "Set1"
+      "iconAbsolutePath": "http://dd.b.pvp.net/1_12_0/core/zh_tw/img/sets/set3.png",
+      "name": "巨石峰之喚",
+      "nameRef": "Set3"
     }
   ]
 }

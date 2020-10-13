@@ -84,12 +84,12 @@ client.on('message', message => {
     if (parsed.command == "用法") {
         const cardEmbed = new Discord.MessageEmbed()
             .setColor('#0099ff')
-            .setTitle('機器人指令一覽 (卡片版本: v1.11.0)')
+            .setTitle('機器人指令一覽 (卡片版本: v1.12.0)')
             .addField('!問 [關鍵字] 可只輸入部分名稱', '例如: !問 隱密')
             .addField('!查詢 [卡片名稱] 可只輸入部分名稱', '例如: !查詢 逆命')
             .addField('!查詢 關鍵字 [名稱] 可只輸入部分名稱', '例如: !查詢 關鍵字 泯滅')
             .addField('!查詢 種族 [名稱] 可只輸入部分名稱', '例如: !查詢 種族 海怪')
-            .addField('!查詢 [魔耗] ([力量] [生命])', '例如: !查詢 5 2 4 (5/2/4單位) 或 !查詢 5 (5費法術)')
+            .addField('!查詢 [魔耗] ([力量] [生命])', '例如: !查詢 5 2 4 (5/2/4單位) 或 !查詢 5 (5費法術/地標)')
             .addField('!牌組 [牌組代碼]', '例如: !牌組 CEBQEAQDAMCAIAIECETTINQGAEBQEDAUDYSSQAIBAEBQ6AQBAECACAIBAMXQ')
         message.channel.send(cardEmbed);
     }
@@ -122,7 +122,7 @@ client.on('message', message => {
             else {
                 let title;
                 if (health == 0)
-                    title = `${cost}費法術`
+                    title = `${cost}費法術/地標`
 
                 else
                     title = `${cost}/${attack}/${health}單位`

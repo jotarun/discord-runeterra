@@ -84,7 +84,7 @@ client.on('message', message => {
     if (parsed.command == "用法") {
         const cardEmbed = new Discord.MessageEmbed()
             .setColor('#0099ff')
-            .setTitle('機器人指令一覽 (卡片版本: v1.12.0)')
+            .setTitle('機器人指令一覽 (卡片版本: v1.13.0)')
             .addField('!問 [關鍵字] 可只輸入部分名稱', '例如: !問 隱密')
             .addField('!查詢 [卡片名稱] 可只輸入部分名稱', '例如: !查詢 逆命')
             .addField('!查詢 關鍵字 [名稱] 可只輸入部分名稱', '例如: !查詢 關鍵字 泯滅')

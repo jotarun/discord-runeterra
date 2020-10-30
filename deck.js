@@ -90,6 +90,7 @@ class DeckUtil {
 
     let deck = {};
     let heroes = {};
+    let landmarks ={};
     let minions = {};
     let spells = {};
     try {

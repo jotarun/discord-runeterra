@@ -183,7 +183,7 @@ client.on('message', message => {
 
         }
 
-        let total = result.heroes.length + result.minions.length + result.spells.length;
+        let total = result.heroes.length + result.landmarks.length + result.minions.length + result.spells.length;
         const deckEmbed = new Discord.MessageEmbed()
             .setTitle('>>點此在瀏覽器開啟牌組檢視器<<')
             .setColor('#987');

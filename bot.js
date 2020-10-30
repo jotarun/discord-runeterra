@@ -197,6 +197,10 @@ client.on('message', message => {
                 herostring += `${card.name} x ${card.count}\n`;
                 regionscount[card.faction.id] += 1;
             });
+            result.landmarks.forEach(card => {
+                herostring += `${card.name} x ${card.count}\n`;
+                regionscount[card.faction.id] += 1;
+            });
             minionsstring = ""
             result.minions.forEach(card => {
                 minionsstring += `${card.name} x ${card.count}\n`;
@@ -207,8 +211,8 @@ client.on('message', message => {
                 spellsstring += `${card.name} x ${card.count}\n`;
                 regionscount[card.faction.id] += 1;
             });
-            if (result.heroes.length > 0)
-                deckEmbed.addField(`英雄`, herostring, true);
+            if (result.heroes.length > 0 || result.landmarks.length>0)
+                deckEmbed.addField(`英雄/地標`, herostring, true);
             if (result.minions.length > 0)
                 deckEmbed.addField(`侍從`, minionsstring, true);
             if (result.spells.length > 0)
@@ -223,6 +227,9 @@ client.on('message', message => {
         else {
             result.heroes.forEach(card => {
                 deckEmbed.addField(`${regionEmoji[card.faction.id]} ${card.cost} 費 英雄`, `${card.name} x ${card.count}`, true);
+            });
+            result.landmarks.forEach(card => {
+                deckEmbed.addField(`${regionEmoji[card.faction.id]} ${card.cost} 費 地標`, `${card.name} x ${card.count}`, true);
             });
             result.minions.forEach(card => {
                 deckEmbed.addField(`${regionEmoji[card.faction.id]} ${card.cost} 費 侍從`, `${card.name} x ${card.count}`, true);

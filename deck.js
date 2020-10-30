@@ -110,12 +110,14 @@ class DeckUtil {
 
     });
     heroes = deck.filter(card => card.supertype == "英雄");
+    landmarks = deck.filter(card => card.type == "地標");
     minions = deck.filter(card => card.type == "單位" && card.supertype == "");
     spells = deck.filter(card => card.type == "法術");
     this.sortdeck(heroes);
+    this.sortdeck(landmarks);
     this.sortdeck(minions);
     this.sortdeck(spells);
-    return { heroes, minions, spells };
+    return { heroes, landmarks, minions, spells };
   }
 
   sortdeck(array) {

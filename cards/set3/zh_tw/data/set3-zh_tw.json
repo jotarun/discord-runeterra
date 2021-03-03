@@ -137,8 +137,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "本回合給予1個友軍單位<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。\r\n無法在戰鬥中施放，<br>或用來對應其他法術。\r\n<style=Variable></style>",
-    "descriptionRaw": "本回合給予1個友軍單位勢不可擋。\r\n無法在戰鬥中施放，或用來對應其他法術。\r\n",
+    "description": "本回合給予1個友軍單位<br><link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。\r\n<style=Variable></style>",
+    "descriptionRaw": "本回合給予1個友軍單位勢不可擋。\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「一名戰士必須知道自己的武器有多沉重，承載著多少罪惡。」——雷玟",
@@ -146,10 +146,10 @@
     "name": "重刃碎片",
     "cardCode": "03NX008",
     "keywords": [
-      "疾速"
+      "專注"
     ],
     "keywordRefs": [
-      "Burst"
+      "Focus"
     ],
     "spellSpeed": "疾速",
     "spellSpeedRef": "Burst",
@@ -265,8 +265,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "本回合給予1個友軍單位<link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。\r\n無法在戰鬥中施放，<br>或用來對應其他法術。\r\n<style=Variable></style>",
-    "descriptionRaw": "本回合給予1個友軍單位快速攻擊。\r\n無法在戰鬥中施放，或用來對應其他法術。\r\n",
+    "description": "本回合給予1個友軍單位<br><link=keyword.Quick Strike><sprite name=QuickStrike><style=Keyword>快速攻擊</style></link>。\r\n<style=Variable></style>",
+    "descriptionRaw": "本回合給予1個友軍單位快速攻擊。\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「一名戰士必須知道自己的刀刃有多鋒利，而且不分敵我，一律斬殺。」——雷玟",
@@ -274,10 +274,10 @@
     "name": "利刃碎片",
     "cardCode": "03NX010",
     "keywords": [
-      "疾速"
+      "專注"
     ],
     "keywordRefs": [
-      "Burst"
+      "Focus"
     ],
     "spellSpeed": "疾速",
     "spellSpeedRef": "Burst",
@@ -350,8 +350,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "本回合給予1個友軍單位+2|+0。\r\n無法在戰鬥中施放，<br>或用來對應其他法術。\r\n<style=Variable></style>",
-    "descriptionRaw": "本回合給予1個友軍單位+2|+0。\r\n無法在戰鬥中施放，或用來對應其他法術。\r\n",
+    "description": "本回合給予1個友軍單位+2|+0。\r\n<style=Variable></style>",
+    "descriptionRaw": "本回合給予1個友軍單位+2|+0。\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「戰士必須知道自己武器的過去……以及濺在刀刃上的每一滴血。」——雷玟",
@@ -359,10 +359,10 @@
     "name": "閃刃碎片",
     "cardCode": "03NX012",
     "keywords": [
-      "疾速"
+      "專注"
     ],
     "keywordRefs": [
-      "Burst"
+      "Focus"
     ],
     "spellSpeed": "疾速",
     "spellSpeedRef": "Burst",
@@ -1814,8 +1814,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位。\r\n無法在戰鬥中施放，也無法對應其他法術。",
-    "descriptionRaw": "召回1個友軍單位。\r\n無法在戰鬥中施放，也無法對應其他法術。",
+    "description": "<link=keyword.Recall><style=Keyword>召回</style></link>1個友軍單位。",
+    "descriptionRaw": "召回1個友軍單位。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「修道院歡迎所有尋求庇護的人。」——索瑪長老",
@@ -1823,11 +1823,11 @@
     "name": "庇護所",
     "cardCode": "03IO016",
     "keywords": [
-      "疾速",
+      "專注",
       "飛逝"
     ],
     "keywordRefs": [
-      "Burst",
+      "Focus",
       "Fleeting"
     ],
     "spellSpeed": "疾速",
@@ -2059,7 +2059,7 @@
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「把我們的東西搶回來！」——艾莉卡上尉",
-    "artistName": "Kudos Production",
+    "artistName": "Kudos Productions",
     "name": "物歸原主",
     "cardCode": "03DE004T1",
     "keywords": [
@@ -3507,7 +3507,7 @@
     "regionRef": "Targon",
     "attack": 3,
     "cost": 3,
-    "health": 3,
+    "health": 2,
     "description": "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：<br>選擇1個月之武器，在手牌中生成。\r\n每回合首次打出2張其他卡牌時，若我方尚未擁有已<link=vocab.Phase><style=Vocab>變取</style></link>的月之武器，則在手牌中生成1張。<style=Variable></style>",
     "descriptionRaw": "夜臨：選擇1個月之武器，在手牌中生成。\r\n每回合首次打出2張其他卡牌時，若我方尚未擁有已變取的月之武器，則在手牌中生成1張。",
     "levelupDescription": "我方已施放4張或以上月之武器。<style=Variable></style>",
@@ -4075,7 +4075,7 @@
     "regionRef": "Targon",
     "attack": 4,
     "cost": 3,
-    "health": 4,
+    "health": 3,
     "description": "<link=keyword.Nightfall><style=Keyword>夜臨</style></link>：<br>選擇1個月之武器，在手牌中生成。\r\n每回合首次打出2張其他卡牌或<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：若我方尚未擁有已<link=vocab.Phase><style=Vocab>變取</style></link>的月之武器，則在手牌中生成1張。<style=Variable></style>\r\n我方月之武器魔耗值-1。",
     "descriptionRaw": "夜臨：選擇1個月之武器，在手牌中生成。\r\n每回合首次打出2張其他卡牌或回合開始：若我方尚未擁有已變取的月之武器，則在手牌中生成1張。\r\n我方月之武器魔耗值-1。",
     "levelupDescription": "",
@@ -6807,8 +6807,12 @@
     "artistName": "Kudos Productions",
     "name": "月蔽神殿",
     "cardCode": "03MT219",
-    "keywords": [],
-    "keywordRefs": [],
+    "keywords": [
+      "地標"
+    ],
+    "keywordRefs": [
+      "LandmarkVisualOnly"
+    ],
     "spellSpeed": "",
     "spellSpeedRef": "",
     "rarity": "稀有",
@@ -6834,8 +6838,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "治癒1個友軍單位1點生命，並賦予其+1|+0。\r\n無法在戰鬥中施放，<br>或用來對應其他法術。",
-    "descriptionRaw": "治癒1個友軍單位1點生命，並賦予其+1|+0。\r\n無法在戰鬥中施放，或用來對應其他法術。",
+    "description": "治癒1個友軍單位1點生命，並賦予其+1|+0。",
+    "descriptionRaw": "治癒1個友軍單位1點生命，並賦予其+1|+0。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「不需要眼見為憑……只要有信心即可。」——漂泊旅者泰亞歷",
@@ -6843,10 +6847,10 @@
     "name": "靈力寶石",
     "cardCode": "03MT092T1",
     "keywords": [
-      "疾速"
+      "專注"
     ],
     "keywordRefs": [
-      "Burst"
+      "Focus"
     ],
     "spellSpeed": "疾速",
     "spellSpeedRef": "Burst",
@@ -8929,8 +8933,8 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "對所有敵軍單位和敵方主堡造成5點傷害。將<link=vocab.Everywhere><style=Vocab>各處</style></link>此牌的相同卡牌幻化為<link=card.transform><style=AssociatedCard>使盡全力</style></link>。",
-    "descriptionRaw": "對所有敵軍單位和敵方主堡造成5點傷害。將各處此牌的相同卡牌幻化為使盡全力。",
+    "description": "對所有敵軍單位與敵方主堡造成5點傷害。將<link=vocab.Everywhere><style=Vocab>各處</style></link>此牌的相同卡牌幻化為<link=card.transform><style=AssociatedCard>使盡全力</style></link>。",
+    "descriptionRaw": "對所有敵軍單位與敵方主堡造成5點傷害。將各處此牌的相同卡牌幻化為使盡全力。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Sorry for the bad news sorry I'm so bad\nOnly took a minute for me to get all you had\nSorry for the bad news know it makes you sad\nI'll be here for a minute baby you should pack your bags\"\n「非常抱歉我這人非常糟\n瞬間就奪走你一切轉眼就跑\n非常抱歉你今天心情必定很糟\n寶貝快做好準備因為我馬上就到」\n——伊芙琳〈THE BADDEST〉",
@@ -9668,8 +9672,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "本回合給予1個友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>或1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。\r\n無法在戰鬥中施放，<br>或用來對應其他法術。",
-    "descriptionRaw": "本回合給予1個友軍單位光盾或1個敵軍單位弱勢。\r\n無法在戰鬥中施放，或用來對應其他法術。",
+    "description": "本回合給予1個友軍單位<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>或1個敵軍單位<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    "descriptionRaw": "本回合給予1個友軍單位光盾或1個敵軍單位弱勢。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "小皮該保護……還是攻擊……？ ",
@@ -9677,11 +9681,11 @@
     "name": "帥啊小皮！",
     "cardCode": "03IO002T4",
     "keywords": [
-      "疾速",
+      "專注",
       "飛逝"
     ],
     "keywordRefs": [
-      "Burst",
+      "Focus",
       "Fleeting"
     ],
     "spellSpeed": "疾速",

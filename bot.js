@@ -17,6 +17,7 @@ client.on('ready', () => {
     regionEmoji[4] = client.emojis.cache.find(emoji => emoji.name === 'piltoverzaun');
     regionEmoji[5] = client.emojis.cache.find(emoji => emoji.name === 'shadowisles');
     regionEmoji[6] = client.emojis.cache.find(emoji => emoji.name === 'bilgewater');
+    regionEmoji[7] = client.emojis.cache.find(emoji => emoji.name === 'shurima');
     regionEmoji[9] = client.emojis.cache.find(emoji => emoji.name === 'targon');
 
     // const deckUtil = new DeckUtil();

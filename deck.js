@@ -3,6 +3,7 @@ const core = require('./core/zh_tw/data/globals-zh_tw.json');
 const set1 = require('./cards/set1/zh_tw/data/set1-zh_tw.json');
 const set2 = require('./cards/set2/zh_tw/data/set2-zh_tw.json');
 const set3 = require('./cards/set3/zh_tw/data/set3-zh_tw.json');
+const set4 = require('./cards/set4/zh_tw/data/set4-zh_tw.json');
 
 
 class DeckUtil {
@@ -12,6 +13,8 @@ class DeckUtil {
     this.cardSets[1] = set1;
     this.cardSets[2] = set2;
     this.cardSets[3] = set3;
+    this.cardSets[4] = set4;
+
   }
 
  

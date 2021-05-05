@@ -152,7 +152,7 @@ client.on('message', message => {
         if (parsed.arguments[0] == '關鍵字') {
 
             let cards = deckUtil.searchcard('keywords', parsed.arguments[1]);
-            cards = cards.concat(deckUtil.searchcard('description', parsed.arguments[1]));
+            // cards = cards.concat(deckUtil.searchcard('description', parsed.arguments[1]));
 
             if (cards.length == 0) {
                 return message.reply("沒有這個關鍵字的卡");

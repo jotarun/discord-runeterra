@@ -6,9 +6,24 @@
       "nameRef": "Allegiance"
     },
     {
+      "description": "為亞菲利歐挑選下一個月之武器。",
+      "name": "變取",
+      "nameRef": "Phase"
+    },
+    {
       "description": "隨機生成1張復原刀刃所需的刀刃碎片，生成3張後，即可生成放逐之刃。",
       "name": "重鑄",
       "nameRef": "Reforge"
+    },
+    {
+      "description": "抽出我方所有飛昇者各1張。我方的等級2飛昇者變為等級3，此效果持續到牌局結束。",
+      "name": "復原烈日巨環",
+      "nameRef": "SunDiscRestore"
+    },
+    {
+      "description": "從牌組中的3張卡牌挑選1張。洗牌並將該牌置於牌組最上方。",
+      "name": "預言",
+      "nameRef": "Forecast"
     },
     {
       "description": "使用支援單位進行攻擊時，其右邊的單位會獲得增益效果。",
@@ -26,6 +41,11 @@
       "nameRef": "Toss"
     },
     {
+      "description": "召喚出特定數量的劍刃發動額外攻擊。",
+      "name": "劍舞",
+      "nameRef": "BladeDance"
+    },
+    {
       "description": "我方場上或手牌中有該張卡牌即算掌控。",
       "name": "掌控",
       "nameRef": "Behold"
@@ -41,12 +61,17 @@
       "nameRef": "Attack"
     },
     {
+      "description": "在本牌局中，若友軍單位打擊造成5點以上傷害至少4次，則發動此效果。",
+      "name": "名望",
+      "nameRef": "Aftermath"
+    },
+    {
       "description": "當1個單位的力量值或生命值增加，或是被賦予全新特性，代表該單位獲得增益。",
       "name": "獲得增益",
       "nameRef": "Buffed"
     },
     {
-      "description": "單位以力量值對敵軍造成傷害時，觸發此效果，戰鬥結算後或使用法術皆可；力量值0的單位無法<br>打擊。",
+      "description": "單位以力量值對敵軍造成傷害時，觸發此效果，戰鬥結算後或使用法術皆可；力量值0的單位無法打擊。",
       "name": "打擊",
       "nameRef": "Strike"
     },
@@ -71,9 +96,24 @@
       "nameRef": "Everywhere"
     },
     {
+      "description": "讓擁有倒數的地標倒數指定回合數",
+      "name": "快轉",
+      "nameRef": "Advance"
+    },
+    {
+      "description": "回合開始：此牌倒數1。倒數至0時，摧毀此牌並發動倒數效果。",
+      "name": "倒數",
+      "nameRef": "Buried"
+    },
+    {
       "description": "獲得攻擊主動權（本回合我方可攻擊）。",
       "name": "備戰",
       "nameRef": "Rally"
+    },
+    {
+      "description": "使用友軍單位打擊，或透過傷害、擊殺效果擊殺單位（敵方自己擊殺單位，或因閃靈效果陣亡等情況則不算）。",
+      "name": "屠殺",
+      "nameRef": "Slay"
     },
     {
       "description": "除卡牌種類及所受傷害外，移除所有的特性、能力、以及持續性效果。",
@@ -88,7 +128,7 @@
   ],
   "keywords": [
     {
-      "description": "將單位完全從牌局移除。不會觸發遺願，且無法復甦。",
+      "description": "將單位完全從牌局移除。<br>不會觸發遺願，<br>且無法復甦。",
       "name": "泯滅",
       "nameRef": "Obliterate"
     },
@@ -128,12 +168,17 @@
       "nameRef": "AttackSkillMark"
     },
     {
-      "description": "只能由隱密單位格檔。",
+      "description": "只能由隱密單位格擋。",
       "name": "隱密",
       "nameRef": "Elusive"
     },
     {
-      "description": "造成傷害時，我方主堡恢復等同傷害量的生命值。",
+      "description": "回合開始：此牌倒數1。倒數至0時，摧毀此牌並發動倒數效果。",
+      "name": "倒數",
+      "nameRef": "Countdown"
+    },
+    {
+      "description": "造成傷害時，我方主堡恢復等同傷害量的生命值",
       "name": "汲取",
       "nameRef": "Drain"
     },
@@ -168,13 +213,18 @@
       "nameRef": "ShadowIsles"
     },
     {
+      "description": "Missing Translation",
+      "name": "Missing Translation",
+      "nameRef": "Blocked"
+    },
+    {
       "description": "此牌每擊殺1個單位，便可獲得+1|+1。",
       "name": "血怒",
       "nameRef": "Fury"
     },
     {
       "description": "若有高於敵方格擋卡牌生命值的超額傷害，則加諸敵方主堡。",
-      "name": "勢不可擋",
+      "name": "蠻力",
       "nameRef": "SpellOverwhelm"
     },
     {
@@ -208,7 +258,7 @@
       "nameRef": "Frostbite"
     },
     {
-      "description": "疾速法術會立即結算，效果結束後，敵方才可行動。",
+      "description": "疾速法術會立即施放，效果結束後，敵方才可行動。",
       "name": "疾速",
       "nameRef": "Burst"
     },
@@ -224,7 +274,7 @@
     },
     {
       "description": "若有高於敵方格擋卡牌生命值的超額傷害，則加諸敵方主堡。",
-      "name": "勢不可擋",
+      "name": "蠻力",
       "nameRef": "Overwhelm"
     },
     {
@@ -233,7 +283,7 @@
       "nameRef": "PlaySkillMark"
     },
     {
-      "description": "攻擊時可搶先格檔卡牌進行打擊。",
+      "description": "攻擊時可搶先格擋卡牌進行打擊。",
       "name": "快速攻擊",
       "nameRef": "QuickStrike"
     },
@@ -258,6 +308,16 @@
       "nameRef": "Regeneration"
     },
     {
+      "description": "無法在戰鬥中施放，或用來對應其他法術。立即施放。",
+      "name": "專注",
+      "nameRef": "Focus"
+    },
+    {
+      "description": "Missing Translation",
+      "name": "Missing Translation",
+      "nameRef": "AuraVisualFakeKeyword"
+    },
+    {
       "description": "移除該單位的所有特性與文字效果。",
       "name": "遭到沉默",
       "nameRef": "Silenced"
@@ -276,6 +336,11 @@
       "description": "若此牌「不是」我方在一回合中打出的第一張卡牌，即可觸發效果。",
       "name": "夜臨",
       "nameRef": "Nightfall"
+    },
+    {
+      "description": "",
+      "name": "蘇瑞瑪",
+      "nameRef": "Shurima"
     },
     {
       "description": "達到10點魔力上限時，即可進入「開悟」狀態。",
@@ -338,7 +403,7 @@
       "nameRef": "Nab"
     },
     {
-      "description": "可選擇敵方的格檔單位。",
+      "description": "可挑選敵方的格擋單位。",
       "name": "挑戰者",
       "nameRef": "Challenger"
     },
@@ -348,13 +413,13 @@
       "nameRef": "Imbue"
     },
     {
-      "description": "只能由力量值3點或以上的敵軍格檔。",
+      "description": "只能由力量值3點以上的敵軍格擋。",
       "name": "威嚇",
       "nameRef": "Fearsome"
     },
     {
       "description": "",
-      "name": "無法進行格檔",
+      "name": "無法進行格擋",
       "nameRef": "CantBlock"
     },
     {
@@ -366,49 +431,55 @@
   "regions": [
     {
       "abbreviation": "MT",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_16_0/core/zh_tw/img/regions/icon-targon.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/2_7_0/core/zh_tw/img/regions/icon-targon.png",
       "name": "巨石峰",
       "nameRef": "Targon"
     },
     {
       "abbreviation": "NX",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_16_0/core/zh_tw/img/regions/icon-noxus.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/2_7_0/core/zh_tw/img/regions/icon-noxus.png",
       "name": "諾克薩斯",
       "nameRef": "Noxus"
     },
     {
       "abbreviation": "DE",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_16_0/core/zh_tw/img/regions/icon-demacia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/2_7_0/core/zh_tw/img/regions/icon-demacia.png",
       "name": "蒂瑪西亞",
       "nameRef": "Demacia"
     },
     {
       "abbreviation": "FR",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_16_0/core/zh_tw/img/regions/icon-freljord.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/2_7_0/core/zh_tw/img/regions/icon-freljord.png",
       "name": "弗雷爾卓德",
       "nameRef": "Freljord"
     },
     {
       "abbreviation": "SI",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_16_0/core/zh_tw/img/regions/icon-shadowisles.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/2_7_0/core/zh_tw/img/regions/icon-shadowisles.png",
       "name": "闇影島",
       "nameRef": "ShadowIsles"
     },
     {
       "abbreviation": "IO",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_16_0/core/zh_tw/img/regions/icon-ionia.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/2_7_0/core/zh_tw/img/regions/icon-ionia.png",
       "name": "愛歐尼亞",
       "nameRef": "Ionia"
     },
     {
+      "abbreviation": "SH",
+      "iconAbsolutePath": "http://dd.b.pvp.net/2_7_0/core/zh_tw/img/regions/icon-shurima.png",
+      "name": "蘇瑞瑪",
+      "nameRef": "Shurima"
+    },
+    {
       "abbreviation": "BW",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_16_0/core/zh_tw/img/regions/icon-bilgewater.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/2_7_0/core/zh_tw/img/regions/icon-bilgewater.png",
       "name": "比爾吉沃特",
       "nameRef": "Bilgewater"
     },
     {
       "abbreviation": "PZ",
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_16_0/core/zh_tw/img/regions/icon-piltoverzaun.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/2_7_0/core/zh_tw/img/regions/icon-piltoverzaun.png",
       "name": "皮爾托福&佐恩",
       "nameRef": "PiltoverZaun"
     }
@@ -451,19 +522,24 @@
   ],
   "sets": [
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_16_0/core/zh_tw/img/sets/set3.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/2_7_0/core/zh_tw/img/sets/set3.png",
       "name": "巨石峰之喚",
       "nameRef": "Set3"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_16_0/core/zh_tw/img/sets/set1.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/2_7_0/core/zh_tw/img/sets/set1.png",
       "name": "基礎",
       "nameRef": "Set1"
     },
     {
-      "iconAbsolutePath": "http://dd.b.pvp.net/1_16_0/core/zh_tw/img/sets/set2.png",
+      "iconAbsolutePath": "http://dd.b.pvp.net/2_7_0/core/zh_tw/img/sets/set2.png",
       "name": "洶湧怒濤",
       "nameRef": "Set2"
+    },
+    {
+      "iconAbsolutePath": "http://dd.b.pvp.net/2_7_0/core/zh_tw/img/sets/set4.png",
+      "name": "飛昇帝國",
+      "nameRef": "Set4"
     }
   ]
 }

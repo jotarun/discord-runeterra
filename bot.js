@@ -6,6 +6,8 @@ const localcmd = require('./core/zh_tw/data/local.json');
 const prefix = "!";
 
 const client = new Discord.Client();
+const deckUtil = new DeckUtil();
+
 const regionEmoji = [];
 
 
@@ -20,7 +22,6 @@ client.on('ready', () => {
     regionEmoji[7] = client.emojis.cache.find(emoji => emoji.name === 'shurima');
     regionEmoji[9] = client.emojis.cache.find(emoji => emoji.name === 'targon');
 
-    // const deckUtil = new DeckUtil();
     // let cards = deckUtil.searchbynumber(5,2,4);
     // cards.forEach(card => {
     //     console.log(card.name);
@@ -66,7 +67,7 @@ function outputcards(cards, message, title) {
                     .setColor('#0099ff')
                     .setTitle(card.name)
                     .setDescription(card.flavorText)
-                    .setThumbnail(card.assets[0].gameAbsolutePath);
+                    .setImage(card.assets[0].gameAbsolutePath);
                 message.channel.send(cardEmbed);
             }
             catch (e) {
@@ -78,14 +79,13 @@ function outputcards(cards, message, title) {
 }
 
 client.on('message', message => {
-    const deckUtil = new DeckUtil();
     const parsed = parser.parse(message, prefix);
     if (!parsed.success) return;
 
     if (parsed.command == "用法") {
         const cardEmbed = new Discord.MessageEmbed()
             .setColor('#0099ff')
-            .setTitle('機器人指令一覽 (卡片版本: v2.5.0)')
+            .setTitle('機器人指令一覽')
             .addField('!問 [關鍵字] 可只輸入部分名稱', '例如: !問 隱密')
             .addField('!查詢 [卡片名稱] 可只輸入部分名稱', '例如: !查詢 逆命')
             .addField('!查詢 關鍵字 [名稱] 可只輸入部分名稱', '例如: !查詢 關鍵字 泯滅')

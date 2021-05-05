@@ -1,4 +1,6 @@
 const { DeckEncoder } = require('runeterra');
+const fetch = require("node-fetch"); 
+
 const core = require('./core/zh_tw/data/globals-zh_tw.json');
 const set1 = require('./cards/set1/zh_tw/data/set1-zh_tw.json');
 const set2 = require('./cards/set2/zh_tw/data/set2-zh_tw.json');
@@ -9,15 +11,31 @@ const set4 = require('./cards/set4/zh_tw/data/set4-zh_tw.json');
 class DeckUtil {
 
   constructor() {
-    this.cardSets = {};
-    this.cardSets[1] = set1;
-    this.cardSets[2] = set2;
-    this.cardSets[3] = set3;
-    this.cardSets[4] = set4;
-
+   
+    this.loadCards();
   }
 
- 
+  async loadCards(){
+
+    try{
+    this.cardSets = [];
+    this.cardSets[1] = await this.updateDB('http://dd.b.pvp.net/latest/set1/zh_tw/data/set1-zh_tw.json');
+    this.cardSets[2] = await this.updateDB('http://dd.b.pvp.net/latest/set2/zh_tw/data/set2-zh_tw.json');
+    this.cardSets[3] = await this.updateDB('http://dd.b.pvp.net/latest/set3/zh_tw/data/set3-zh_tw.json');
+    this.cardSets[4] = await this.updateDB('http://dd.b.pvp.net/latest/set4/zh_tw/data/set4-zh_tw.json');
+  }
+  catch(error){
+    console.log(error);
+  }
+  }
+  async updateDB(url){
+    
+    const response = await fetch(url);
+    let data = await response.json();
+    console.log(data.length +' cards are loaded from' + url );
+    return data;
+
+  }
   searchTerms(termname) {
     let terms = [];
     terms = terms.concat(core.vocabTerms.filter(term => term.name.includes(termname)));

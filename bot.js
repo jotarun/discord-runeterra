@@ -94,7 +94,12 @@ client.on('message', message => {
             .addField('!牌組 [牌組代碼]', '例如: !牌組 CEBQEAQDAMCAIAIECETTINQGAEBQEDAUDYSSQAIBAEBQ6AQBAECACAIBAMXQ')
         message.channel.send(cardEmbed);
     }
-
+    else if (parsed.command ==="update"){
+        deckUtil.loadCards().then(()=>{
+            message.reply("已更新");
+        }
+        );
+    }
     else if (parsed.command === "問") {
         if (parsed.arguments[0] in localcmd.keyword)
             parsed.arguments[0] = localcmd.keyword[parsed.arguments[0]];

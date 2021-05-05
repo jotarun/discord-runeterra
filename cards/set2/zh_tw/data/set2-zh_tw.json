@@ -13,8 +13,8 @@
     "attack": 1,
     "cost": 5,
     "health": 5,
-    "description": "召喚此牌時抽1張牌。\r\n若我方已打出至少10張<br>名稱不重複的其他卡牌，<br>則賦予此牌+4|+0。<style=Variable></style>",
-    "descriptionRaw": "召喚此牌時抽1張牌。\r\n若我方已打出至少10張名稱不重複的其他卡牌，則賦予此牌+4|+0。",
+    "description": "召喚此牌時抽1張牌。\r\n若我方已打出至少10張<br>名稱不同的其他卡牌，<br>則賦予此牌+4|+0。<style=Variable></style>",
+    "descriptionRaw": "召喚此牌時抽1張牌。\r\n若我方已打出至少10張名稱不同的其他卡牌，則賦予此牌+4|+0。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "沒有任何事能阻止他逃離只懂癡笑的人群，只不過是水而已，沒什麼好怕的。",
@@ -240,8 +240,8 @@
     "health": 4,
     "description": "無論此牌在場上或在手牌中，<br>我方每打出其他牌，<br>即賦予此牌+1|+0（最多+8|+0）。<style=Variable></style>",
     "descriptionRaw": "無論此牌在場上或在手牌中，我方每打出其他牌，即賦予此牌+1|+0（最多+8|+0）。",
-    "levelupDescription": "此牌單次<link=vocab.Strike><style=Vocab>打擊</style></link><br>造成10點或以上傷害。",
-    "levelupDescriptionRaw": "此牌單次打擊造成10點或以上傷害。",
+    "levelupDescription": "此牌單次<link=vocab.Strike><style=Vocab>打擊</style></link>造成10點以上傷害。",
+    "levelupDescriptionRaw": "此牌單次打擊造成10點以上傷害。",
     "flavorText": "「菲艾特警，拜託妳稍微為他人著想一下可以嗎？出任務造成那麼多破壞，你知道有多少毀損申報單要填嗎！？」——新銳調查組員",
     "artistName": "SIXMOREVODKA",
     "name": "菲艾",
@@ -360,8 +360,8 @@
     "attack": 10,
     "cost": 5,
     "health": 5,
-    "description": "此牌在攻擊時，每<link=vocab.Strike><style=Vocab>打擊</style></link>1個單位，<br>就對敵方主堡造成5點傷害。",
-    "descriptionRaw": "此牌在攻擊時，每打擊1個單位，就對敵方主堡造成5點傷害。",
+    "description": "此牌在攻擊時，每<link=vocab.Strike><style=Vocab>打擊</style></link>1個單位，\r\n就對敵方主堡造成5點傷害。",
+    "descriptionRaw": "此牌在攻擊時，每打擊1個單位，\r\n就對敵方主堡造成5點傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「看來你的夥伴們都筋疲力盡了。要不供出你們把海克斯科技藏在哪，要不試試你的腦袋跟牆壁誰比較硬，你選哪個？」",
@@ -1242,8 +1242,8 @@
     "attack": 4,
     "cost": 6,
     "health": 5,
-    "description": "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：治癒所有友軍單位及<br>我方主堡3點生命，<br>然後進行<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n",
-    "descriptionRaw": "洗劫：治癒所有友軍單位及我方主堡3點生命，然後進行備戰。\r\n",
+    "description": "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：治療所有友軍單位及<br>我方主堡3點生命值，<br>然後進行<link=vocab.Rally><style=Vocab>備戰</style></link>。\r\n",
+    "descriptionRaw": "洗劫：治療所有友軍單位及我方主堡3點生命值，然後進行備戰。\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「水手們都覺得自己最強壯了，時常東邊吼來西邊吼去。對啦對啦，表現棒極了。但你們還是得吃橘子！養顏美容，鞏固牙齒，還能讓我笑咍咍。你要不吃，要不就下水，簡單吧。」",
@@ -1277,8 +1277,8 @@
     "attack": 2,
     "cost": 4,
     "health": 2,
-    "description": "召喚此牌時，從我方牌組抽出1張<br>魔耗值3點或以下的法術牌。",
-    "descriptionRaw": "召喚此牌時，從我方牌組抽出1張魔耗值3點或以下的法術牌。",
+    "description": "召喚此牌時，從我方牌組抽出1張<br>魔耗值3點以下的法術牌。",
+    "descriptionRaw": "召喚此牌時，從我方牌組抽出1張魔耗值3點以下的法術牌。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "捷普曾經在三分鐘內游了蔚藍航道整整一圈，在尾段左閃右躲一一避開了熱鴉號四散的船骸！那天的海流實在是順啦！",
@@ -1996,8 +1996,8 @@
     "attack": 2,
     "cost": 2,
     "health": 3,
-    "description": "召喚此牌時，賦予<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位<br><link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
-    "descriptionRaw": "召喚此牌時，賦予最強敵軍單位弱勢。",
+    "description": "召喚此牌時，賦予<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位\r\n<link=keyword.Vulnerable><sprite name=Vulnerable><style=Keyword>弱勢</style></link>。",
+    "descriptionRaw": "召喚此牌時，賦予最強敵軍單位\r\n弱勢。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「你就長這個猴樣？夭壽喔，簡直比懸賞令上的還不堪入目，希望你的人頭值得我浪費時間。」",
@@ -2234,7 +2234,7 @@
     "name": "剛普朗克",
     "cardCode": "02BW032",
     "keywords": [
-      "勢不可擋"
+      "蠻力"
     ],
     "keywordRefs": [
       "Overwhelm"
@@ -2320,7 +2320,7 @@
     "name": "剛普朗克",
     "cardCode": "02BW032T3",
     "keywords": [
-      "勢不可擋"
+      "蠻力"
     ],
     "keywordRefs": [
       "Overwhelm"
@@ -2638,8 +2638,8 @@
     "health": 1,
     "description": "我方施放法術時，<br>抵銷所有以此牌為目標的法術/技能，<br>並於本回合給予此牌<link=keyword.Elusive><sprite name=Elusive><style=Keyword>隱密</style></link>。",
     "descriptionRaw": "我方施放法術時，抵銷所有以此牌為目標的法術/技能，並於本回合給予此牌隱密。",
-    "levelupDescription": "我方施放6次或以上法術<style=Variable></style>。",
-    "levelupDescriptionRaw": "我方施放6次或以上法術。",
+    "levelupDescription": "我方施放6次以上法術<style=Variable></style>。",
+    "levelupDescriptionRaw": "我方施放6次以上法術。",
     "flavorText": "比爾吉沃特的傳奇人物當中，飛斯的性格乖戾又難搞。一些水手將附近發生的無數船禍都怪罪於他……",
     "artistName": "SIXMOREVODKA",
     "name": "飛斯",
@@ -2728,7 +2728,7 @@
     "name": "長牙獸",
     "cardCode": "02BW046T2",
     "keywords": [
-      "勢不可擋"
+      "蠻力"
     ],
     "keywordRefs": [
       "Overwhelm"
@@ -2808,8 +2808,8 @@
     "health": 2,
     "description": "<link=keyword.PlaySkillMark><sprite name=PlaySkillMark><style=Keyword>出牌</style></link>：打出1張「命運」卡牌。",
     "descriptionRaw": "出牌：打出1張「命運」卡牌。",
-    "levelupDescription": "此牌在場上時，我方抽出9張或以上卡牌<style=Variable></style>。",
-    "levelupDescriptionRaw": "此牌在場上時，我方抽出9張或以上卡牌。",
+    "levelupDescription": "此牌在場上時，我方抽出9張以上卡牌<style=Variable></style>。",
+    "levelupDescriptionRaw": "此牌在場上時，我方抽出9張以上卡牌。",
     "flavorText": "「專心看雙手的動作，計算卡牌數量，眼睛盡量跟上，然後別忘了……」",
     "artistName": "SIXMOREVODKA",
     "name": "逆命",
@@ -2845,8 +2845,8 @@
     "attack": 0,
     "cost": 0,
     "health": 0,
-    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位，<br>並對其造成2點傷害。",
-    "descriptionRaw": "擊暈最強敵軍單位，並對其造成2點傷害。",
+    "description": "<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位，\r\n並對其造成2點傷害。",
+    "descriptionRaw": "擊暈最強敵軍單位，\r\n並對其造成2點傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「看那閃閃金光。」——逆命",
@@ -3052,8 +3052,8 @@
     "attack": 0,
     "cost": 7,
     "health": 12,
-    "description": "此牌升級時，<br>複製被<link=vocab.Toss><style=Vocab>亂擲</style></link>且魔耗值4點或以上的<br>友軍單位至我方牌組。",
-    "descriptionRaw": "此牌升級時，複製被亂擲且魔耗值4點或以上的友軍單位至我方牌組。",
+    "description": "此牌升級時，<br>複製被<link=vocab.Toss><style=Vocab>亂擲</style></link>且魔耗值4點以上的<br>友軍單位至我方牌組。",
+    "descriptionRaw": "此牌升級時，複製被亂擲且魔耗值4點以上的友軍單位至我方牌組。",
     "levelupDescription": "我方進入<link=keyword.Deep><sprite name=Deep><style=Keyword>探底</style></link>狀態。<style=Variable></style>",
     "levelupDescriptionRaw": "我方進入探底狀態。",
     "flavorText": "「錨被拔起帆被扯下，蘭科號轉眼變得七零八落。活下來的只剩我們幾個，而夜晚將至，寒冷也將追隨而來。抱歉了媽媽，妳說的對，泰坦巨獸是真實存在的。」<br>——殘破筆記拼湊出的內容",
@@ -4052,7 +4052,7 @@
     "name": "狂狼騎士",
     "cardCode": "02FR009",
     "keywords": [
-      "勢不可擋"
+      "蠻力"
     ],
     "keywordRefs": [
       "Overwhelm"
@@ -4133,7 +4133,7 @@
     "name": "史瓦妮",
     "cardCode": "02FR002",
     "keywords": [
-      "勢不可擋"
+      "蠻力"
     ],
     "keywordRefs": [
       "Overwhelm"
@@ -4237,8 +4237,8 @@
     "attack": 6,
     "cost": 5,
     "health": 6,
-    "description": "使其他力量值5點或以上的友軍單位<br>擁有<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>勢不可擋</style></link>。",
-    "descriptionRaw": "使其他力量值5點或以上的友軍單位擁有勢不可擋。",
+    "description": "使其他力量值5點以上的友軍單位<br>擁有<link=keyword.Overwhelm><sprite name=Overwhelm><style=Keyword>蠻力</style></link>。",
+    "descriptionRaw": "使其他力量值5點以上的友軍單位擁有蠻力。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "巨熊族捨棄了人性，完全釋放自己，駕馭雷暴之力。以閃電之姿穿越凍原，以雷吼之聲隆隆咆哮。",
@@ -4246,7 +4246,7 @@
     "name": "風暴之爪巨熊",
     "cardCode": "02FR005T1",
     "keywords": [
-      "勢不可擋",
+      "蠻力",
       "Missing Translation"
     ],
     "keywordRefs": [
@@ -4320,8 +4320,8 @@
     "attack": 7,
     "cost": 8,
     "health": 7,
-    "description": "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：使我方牌組中單位的<br>力量值和生命值加倍。\r\n<link=vocab.Play><style=Vocab>出牌</style></link>：抽出1張<link=card.champ1><style=AssociatedCard>史瓦妮</style></link>。\r\n",
-    "descriptionRaw": "洗劫：使我方牌組中單位的力量值和生命值加倍。\r\n出牌：抽出1張史瓦妮。\r\n",
+    "description": "<link=vocab.Plunder><style=Vocab>洗劫</style></link>：使我方牌組中單位的<br>力量值與生命值加倍。\r\n<link=vocab.Play><style=Vocab>出牌</style></link>：抽出1張<link=card.champ1><style=AssociatedCard>史瓦妮</style></link>。\r\n",
+    "descriptionRaw": "洗劫：使我方牌組中單位的力量值與生命值加倍。\r\n出牌：抽出1張史瓦妮。\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「春天不只帶來適合種植的溫暖天氣，也會帶來劫盜船……本來數量繁多的糧食也會變得稀少。」<br>——艾伐洛森爐衛",
@@ -4409,7 +4409,7 @@
     "name": "史瓦妮",
     "cardCode": "02FR002T3",
     "keywords": [
-      "勢不可擋"
+      "蠻力"
     ],
     "keywordRefs": [
       "Overwhelm"
@@ -4487,7 +4487,7 @@
     "name": "無情劫掠者",
     "cardCode": "02FR006",
     "keywords": [
-      "勢不可擋",
+      "蠻力",
       "堅忍"
     ],
     "keywordRefs": [
@@ -4571,7 +4571,7 @@
     "name": "海王號",
     "cardCode": "02NX001",
     "keywords": [
-      "勢不可擋"
+      "蠻力"
     ],
     "keywordRefs": [
       "Overwhelm"
@@ -4646,8 +4646,8 @@
     "attack": 4,
     "cost": 5,
     "health": 7,
-    "description": "對敵方主堡造成非戰鬥傷害時，<br><link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>位於後排的<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。<br><link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：<br>對所有敵軍單位與敵方主堡造成<br>3點傷害。",
-    "descriptionRaw": "對敵方主堡造成非戰鬥傷害時，擊暈位於後排的最強敵軍單位。打擊主堡：對所有敵軍單位與敵方主堡造成3點傷害。",
+    "description": "對敵方主堡造成非戰鬥傷害時，\r\n<link=keyword.Stun><sprite name=Stunned><style=Keyword>擊暈</style></link>位於後排的<link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。\r\n<link=vocab.NexusStrike><style=Vocab>打擊主堡</style></link>：\r\n對所有敵軍單位及敵方主堡\r\n造成3點傷害。",
+    "descriptionRaw": "對敵方主堡造成非戰鬥傷害時，\r\n擊暈位於後排的最強敵軍單位。\r\n打擊主堡：\r\n對所有敵軍單位及敵方主堡\r\n造成3點傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「為了打下諾克薩斯的江山，任何犧牲都<br>在所不惜。」 ",
@@ -4692,7 +4692,7 @@
     "descriptionRaw": "若該單位已負傷或遭到擊暈，則對其造成4點傷害。\r\n在我方牌組生成1張斯溫。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "快聽，你聽見了嗎？那如雷貫耳的是上千雙羽翼的拍擊聲。",
+    "flavorText": "快聽，你聽見了嗎？那如雷貫耳的是上千雙羽翼<br>的拍擊聲。",
     "artistName": "Kudos Productions",
     "name": "斯溫 群鴉盛宴",
     "cardCode": "02NX007T1",
@@ -4801,7 +4801,7 @@
     "descriptionRaw": "若該單位已負傷或遭到擊暈，則對其造成4點傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "快聽，你聽見了嗎？那如雷貫耳的是上千雙羽翼的拍擊聲。",
+    "flavorText": "快聽，你聽見了嗎？那如雷貫耳的是上千雙羽翼<br>的拍擊聲。",
     "artistName": "Kudos Productions",
     "name": "群鴉盛宴",
     "cardCode": "02NX009",
@@ -4912,8 +4912,8 @@
     "attack": 6,
     "cost": 6,
     "health": 5,
-    "description": "只有力量值5點或以上的敵軍單位<br>才能對此牌造成傷害。",
-    "descriptionRaw": "只有力量值5點或以上的敵軍單位才能對此牌造成傷害。",
+    "description": "力量值5點以上的敵軍單位<br>才能對此牌造成傷害。",
+    "descriptionRaw": "力量值5點以上的敵軍單位才能對此牌造成傷害。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「戰爭怪獸一旦啟動，便無人能擋。不想死就滾開吧。」——巨異蜥騎兵",
@@ -4921,7 +4921,7 @@
     "name": "披甲角獸騎兵",
     "cardCode": "02NX010",
     "keywords": [
-      "勢不可擋"
+      "蠻力"
     ],
     "keywordRefs": [
       "Overwhelm"
@@ -5038,7 +5038,7 @@
     "name": "幽鐵弩砲",
     "cardCode": "02NX005",
     "keywords": [
-      "勢不可擋"
+      "蠻力"
     ],
     "keywordRefs": [
       "Overwhelm"
@@ -5316,8 +5316,8 @@
     "attack": 4,
     "cost": 5,
     "health": 5,
-    "description": "<link=vocab.Attack><style=Vocab>攻擊</style></link>：召喚1個<link=card.create><style=AssociatedCard>威洛</style></link>，<br>該單位出場時<br>即<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
-    "descriptionRaw": "攻擊：召喚1個威洛，該單位出場時即挑戰最強敵軍單位。",
+    "description": "<link=vocab.Attack><style=Vocab>攻擊</style></link>：<br>召喚<link=card.create><style=AssociatedCard>威洛</style></link><link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰</style></link><link=vocab.Strongest><style=Vocab>最強</style></link>敵軍單位。",
+    "descriptionRaw": "攻擊：召喚威洛挑戰最強敵軍單位。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「威洛，你帶路，我跟著！」",
@@ -5558,8 +5558,8 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "選擇1個敵軍單位，使2個友軍單位輪流<link=vocab.Strike><style=Vocab>打擊</style></link>該單位。",
-    "descriptionRaw": "選擇1個敵軍單位，使2個友軍單位輪流打擊該單位。",
+    "description": "挑選1個敵軍單位，使2個友軍單位輪流<link=vocab.Strike><style=Vocab>打擊</style></link>該單位。",
+    "descriptionRaw": "挑選1個敵軍單位，使2個友軍單位輪流打擊該單位。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「快過來，與我並肩作戰！」——綠牙守衛",
@@ -5597,8 +5597,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "<link=vocab.Toss><style=Vocab>亂擲</style></link>3張牌。\r\n治癒所有友軍單位3點生命。",
-    "descriptionRaw": "亂擲3張牌。\r\n治癒所有友軍單位3點生命。",
+    "description": "<link=vocab.Toss><style=Vocab>亂擲</style></link>3張牌。\r\n治療所有友軍單位3點生命值。",
+    "descriptionRaw": "亂擲3張牌。\r\n治療所有友軍單位3點生命值。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「島嶼將被淨化。」——茂凱",
@@ -5759,8 +5759,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "<link=vocab.Toss><style=Vocab>亂擲</style></link>3張牌。\r\n治癒所有友軍單位3點生命。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>茂凱</style></link>。",
-    "descriptionRaw": "亂擲3張牌。\r\n治癒所有友軍單位3點生命。\r\n在我方牌組生成1張茂凱。",
+    "description": "<link=vocab.Toss><style=Vocab>亂擲</style></link>3張牌。\r\n治療所有友軍單位3點生命值。\r\n在我方牌組生成1張<link=card.level1><style=AssociatedCard>茂凱</style></link>。",
+    "descriptionRaw": "亂擲3張牌。\r\n治療所有友軍單位3點生命值。\r\n在我方牌組生成1張茂凱。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「島嶼將被淨化。」——茂凱",
@@ -5841,8 +5841,8 @@
     "attack": 1,
     "cost": 2,
     "health": 4,
-    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br><link=vocab.Toss><style=Vocab>亂擲</style></link>2張牌<br>並治癒我方主堡2點生命。",
-    "descriptionRaw": "遺願：亂擲2張牌並治癒我方主堡2點生命。",
+    "description": "<link=keyword.Last Breath><sprite name=LastBreath><style=Keyword>遺願</style></link>：<br><link=vocab.Toss><style=Vocab>亂擲</style></link>2張牌<br>並治療我方主堡2點生命值。",
+    "descriptionRaw": "遺願：亂擲2張牌並治療我方主堡2點生命值。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「……非常出色的品種……這就是我小時候遇到過的那隻生物……一點都沒有變老！真想知道……下一個城鎮。說不定這些傢伙長生不老！」——拼湊起來的無名日記",
@@ -5921,8 +5921,8 @@
     "attack": 2,
     "cost": 5,
     "health": 4,
-    "description": "每有1個其他友軍單位陣亡，<br>便從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命值。",
-    "descriptionRaw": "每有1個其他友軍單位陣亡，便從敵方主堡汲取1點生命值。",
+    "description": "每有1個其他友軍單位陣亡，\r\n便從敵方主堡<link=keyword.Drain><style=Keyword>汲取</style></link>1點生命值。",
+    "descriptionRaw": "每有1個其他友軍單位陣亡，\r\n便從敵方主堡汲取1點生命值。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「碰上了那個叫……尼凡的新任擺渡人！他……載我們去……他很會唱歌！……在那之前……得邀請他來吃晚餐。」——拼湊起來的無名日記",
@@ -6000,7 +6000,7 @@
     ],
     "region": "闇影島",
     "regionRef": "ShadowIsles",
-    "attack": 2,
+    "attack": 1,
     "cost": 3,
     "health": 1,
     "description": "<link=vocab.Play><style=Vocab>出牌</style></link>：<br>擊殺1個友軍單位<br>來召喚2個<link=card.create><style=AssociatedCard>小樹精</style></link>。",
@@ -6318,8 +6318,8 @@
     "health": 5,
     "description": "我方施放法術時，<br>本回合給予此牌<link=keyword.Challenger><sprite name=Challenger><style=Keyword>挑戰者</style></link>；\r\n再次施放法術時，<br>則額外於本回合給予其<link=keyword.Barrier><sprite name=Barrier><style=Keyword>光盾</style></link>。",
     "descriptionRaw": "我方施放法術時，本回合給予此牌挑戰者；\r\n再次施放法術時，則額外於本回合給予其光盾。",
-    "levelupDescription": "我方施放8次或以上法術<style=Variable></style>。",
-    "levelupDescriptionRaw": "我方施放8次或以上法術。",
+    "levelupDescription": "我方施放8次以上法術<style=Variable></style>。",
+    "levelupDescriptionRaw": "我方施放8次以上法術。",
     "flavorText": "「配得的人，巨龍賜予協助；疲乏的人，巨龍賜予活力；患病的人，巨龍賜予舒緩；迷失的人，巨龍賜予光芒；動搖的人，巨龍賜予平衡……」",
     "artistName": "SIXMOREVODKA",
     "name": "李星",
@@ -6522,8 +6522,8 @@
     "attack": 1,
     "cost": 2,
     "health": 3,
-    "description": "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>若上回合施放2次或以上法術，<br>則召喚1個<link=card.summon><style=AssociatedCard>幼龍</style></link><style=Variable></style>。",
-    "descriptionRaw": "回合開始：若上回合施放2次或以上法術，則召喚1個幼龍。",
+    "description": "<link=vocab.RoundStart><style=Vocab>回合開始</style></link>：<br>若上回合施放2次以上法術，<br>則召喚1個<link=card.summon><style=AssociatedCard>幼龍</style></link><style=Variable></style>。",
+    "descriptionRaw": "回合開始：若上回合施放2次以上法術，則召喚1個幼龍。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「學徒必須思想清晰，因為巨龍的牽引讓太陽劃過天際，照亮我們的世界。」\n——龍道所傳教義",
@@ -6561,8 +6561,8 @@
     "attack": 3,
     "cost": 2,
     "health": 2,
-    "description": "本回合打出2次法術牌<br>就能從手牌中召喚此牌。",
-    "descriptionRaw": "本回合打出2次法術牌就能從手牌中召喚此牌。",
+    "description": "本回合打出2張法術牌後，<br>從手牌中召喚此牌。",
+    "descriptionRaw": "本回合打出2張法術牌後，從手牌中召喚此牌。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "「學徒必須專心聆聽，因為巨龍發出了原初之咆哮，將魔力賜給我們未臻成熟的心靈。」<br>——龍道所傳教義",
@@ -6760,8 +6760,8 @@
     "attack": 0,
     "cost": 1,
     "health": 0,
-    "description": "從手牌召喚1個<br>魔耗值3點或以下的友軍單位。",
-    "descriptionRaw": "從手牌召喚1個魔耗值3點或以下的友軍單位。",
+    "description": "從手牌召喚1個<br>魔耗值3點以下的友軍單位。",
+    "descriptionRaw": "從手牌召喚1個魔耗值3點以下的友軍單位。",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "……並以驚人的速度重整旗鼓。倖存者集結軍勢、擁立軍帥，並讓侵略者一嘗最初淨土的頑強精神。",
@@ -6801,11 +6801,11 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "若上回合我方已施放<br>2次或以上法術，<br>則此牌魔耗值-2。\r\n抽2張其他法術牌。\r\n",
-    "descriptionRaw": "若上回合我方已施放2次或以上法術，則此牌魔耗值-2。\r\n抽2張其他法術牌。\r\n",
+    "description": "若上回合我方已施放<br>2次以上法術，<br>則此牌魔耗值-2。\r\n抽2張其他法術牌。\r\n",
+    "descriptionRaw": "若上回合我方已施放2次以上法術，則此牌魔耗值-2。\r\n抽2張其他法術牌。\r\n",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
-    "flavorText": "靜心冥想無法預設目的，必須在過程中迷失，才能尋得其道。",
+    "flavorText": "靜心冥想無法預設目的，必須在過程中迷失，<br>才能尋得其道。",
     "artistName": "Kudos Productions",
     "name": "深度冥想",
     "cardCode": "02IO009",
